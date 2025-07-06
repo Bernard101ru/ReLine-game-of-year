@@ -1,0 +1,245 @@
+[
+  {
+    "name": "Пентаграмма: Сфера Пламя",
+    "school": "Пентаграммы",
+    "description": "Комбинация: Сущность — Пламя, Форма — Сфера, Импульс — Удар. Заклинание активирует сфера из пламя с эффектом удар.",
+    "visual_prompt": "Pixel art magic effect for complex pentagram spell 'Пентаграмма: Сфера Пламя'. Glowing arcane pentagram with elemental effects and five-point geometry. 128x128 SNES RPG FX.",
+    "image_path": "lore/magic/assets/effects/pentagrams/пентаграмма_сфера_пламя.png",
+    "use_case": "Displayed when performing the pentagram ritual 'Пентаграмма: Сфера Пламя'.",
+    "trigger_event": "ritual_activation"
+  },
+  {
+    "name": "Пентаграмма: Сфера Пламя",
+    "school": "Пентаграммы",
+    "description": "Комбинация: Сущность — Пламя, Форма — Сфера, Импульс — Звук. Заклинание активирует сфера из пламя с эффектом звук.",
+    "visual_prompt": "Pixel art magic effect for complex pentagram spell 'Пентаграмма: Сфера Пламя'. Glowing arcane pentagram with elemental effects and five-point geometry. 128x128 SNES RPG FX.",
+    "image_path": "lore/magic/assets/effects/pentagrams/пентаграмма_сфера_пламя.png",
+    "use_case": "Displayed when performing the pentagram ritual 'Пентаграмма: Сфера Пламя'.",
+    "trigger_event": "ritual_activation"
+  },
+  {
+    "name": "Пентаграмма: Сфера Пламя",
+    "school": "Пентаграммы",
+    "description": "Комбинация: Сущность — Пламя, Форма — Сфера, Импульс — Резонанс. Заклинание активирует сфера из пламя с эффектом резонанс.",
+    "visual_prompt": "Pixel art magic effect for complex pentagram spell 'Пентаграмма: Сфера Пламя'. Glowing arcane pentagram with elemental effects and five-point geometry. 128x128 SNES RPG FX.",
+    "image_path": "lore/magic/assets/effects/pentagrams/пентаграмма_сфера_пламя.png",
+    "use_case": "Displayed when performing the pentagram ritual 'Пентаграмма: Сфера Пламя'.",
+    "trigger_event": "ritual_activation"
+  },
+  {
+    "name": "Пентаграмма: Память Пламя",
+    "school": "Пентаграммы",
+    "description": "Комбинация: Сущность — Пламя, Форма — Память, Импульс — Удар. Заклинание активирует память из пламя с эффектом удар.",
+    "visual_prompt": "Pixel art magic effect for complex pentagram spell 'Пентаграмма: Память Пламя'. Glowing arcane pentagram with elemental effects and five-point geometry. 128x128 SNES RPG FX.",
+    "image_path": "lore/magic/assets/effects/pentagrams/пентаграмма_память_пламя.png",
+    "use_case": "Displayed when performing the pentagram ritual 'Пентаграмма: Память Пламя'.",
+    "trigger_event": "ritual_activation"
+  },
+  {
+    "name": "Пентаграмма: Память Пламя",
+    "school": "Пентаграммы",
+    "description": "Комбинация: Сущность — Пламя, Форма — Память, Импульс — Звук. Заклинание активирует память из пламя с эффектом звук.",
+    "visual_prompt": "Pixel art magic effect for complex pentagram spell 'Пентаграмма: Память Пламя'. Glowing arcane pentagram with elemental effects and five-point geometry. 128x128 SNES RPG FX.",
+    "image_path": "lore/magic/assets/effects/pentagrams/пентаграмма_память_пламя.png",
+    "use_case": "Displayed when performing the pentagram ritual 'Пентаграмма: Память Пламя'.",
+    "trigger_event": "ritual_activation"
+  },
+  {
+    "name": "Пентаграмма: Память Пламя",
+    "school": "Пентаграммы",
+    "description": "Комбинация: Сущность — Пламя, Форма — Память, Импульс — Резонанс. Заклинание активирует память из пламя с эффектом резонанс.",
+    "visual_prompt": "Pixel art magic effect for complex pentagram spell 'Пентаграмма: Память Пламя'. Glowing arcane pentagram with elemental effects and five-point geometry. 128x128 SNES RPG FX.",
+    "image_path": "lore/magic/assets/effects/pentagrams/пентаграмма_память_пламя.png",
+    "use_case": "Displayed when performing the pentagram ritual 'Пентаграмма: Память Пламя'.",
+    "trigger_event": "ritual_activation"
+  },
+  {
+    "name": "Пентаграмма: Связь Пламя",
+    "school": "Пентаграммы",
+    "description": "Комбинация: Сущность — Пламя, Форма — Связь, Импульс — Удар. Заклинание активирует связь из пламя с эффектом удар.",
+    "visual_prompt": "Pixel art magic effect for complex pentagram spell 'Пентаграмма: Связь Пламя'. Glowing arcane pentagram with elemental effects and five-point geometry. 128x128 SNES RPG FX.",
+    "image_path": "lore/magic/assets/effects/pentagrams/пентаграмма_связь_пламя.png",
+    "use_case": "Displayed when performing the pentagram ritual 'Пентаграмма: Связь Пламя'.",
+    "trigger_event": "ritual_activation"
+  },
+  {
+    "name": "Пентаграмма: Связь Пламя",
+    "school": "Пентаграммы",
+    "description": "Комбинация: Сущность — Пламя, Форма — Связь, Импульс — Звук. Заклинание активирует связь из пламя с эффектом звук.",
+    "visual_prompt": "Pixel art magic effect for complex pentagram spell 'Пентаграмма: Связь Пламя'. Glowing arcane pentagram with elemental effects and five-point geometry. 128x128 SNES RPG FX.",
+    "image_path": "lore/magic/assets/effects/pentagrams/пентаграмма_связь_пламя.png",
+    "use_case": "Displayed when performing the pentagram ritual 'Пентаграмма: Связь Пламя'.",
+    "trigger_event": "ritual_activation"
+  },
+  {
+    "name": "Пентаграмма: Связь Пламя",
+    "school": "Пентаграммы",
+    "description": "Комбинация: Сущность — Пламя, Форма — Связь, Импульс — Резонанс. Заклинание активирует связь из пламя с эффектом резонанс.",
+    "visual_prompt": "Pixel art magic effect for complex pentagram spell 'Пентаграмма: Связь Пламя'. Glowing arcane pentagram with elemental effects and five-point geometry. 128x128 SNES RPG FX.",
+    "image_path": "lore/magic/assets/effects/pentagrams/пентаграмма_связь_пламя.png",
+    "use_case": "Displayed when performing the pentagram ritual 'Пентаграмма: Связь Пламя'.",
+    "trigger_event": "ritual_activation"
+  },
+  {
+    "name": "Пентаграмма: Сфера Структура",
+    "school": "Пентаграммы",
+    "description": "Комбинация: Сущность — Структура, Форма — Сфера, Импульс — Удар. Заклинание активирует сфера из структура с эффектом удар.",
+    "visual_prompt": "Pixel art magic effect for complex pentagram spell 'Пентаграмма: Сфера Структура'. Glowing arcane pentagram with elemental effects and five-point geometry. 128x128 SNES RPG FX.",
+    "image_path": "lore/magic/assets/effects/pentagrams/пентаграмма_сфера_структура.png",
+    "use_case": "Displayed when performing the pentagram ritual 'Пентаграмма: Сфера Структура'.",
+    "trigger_event": "ritual_activation"
+  },
+  {
+    "name": "Пентаграмма: Сфера Структура",
+    "school": "Пентаграммы",
+    "description": "Комбинация: Сущность — Структура, Форма — Сфера, Импульс — Звук. Заклинание активирует сфера из структура с эффектом звук.",
+    "visual_prompt": "Pixel art magic effect for complex pentagram spell 'Пентаграмма: Сфера Структура'. Glowing arcane pentagram with elemental effects and five-point geometry. 128x128 SNES RPG FX.",
+    "image_path": "lore/magic/assets/effects/pentagrams/пентаграмма_сфера_структура.png",
+    "use_case": "Displayed when performing the pentagram ritual 'Пентаграмма: Сфера Структура'.",
+    "trigger_event": "ritual_activation"
+  },
+  {
+    "name": "Пентаграмма: Сфера Структура",
+    "school": "Пентаграммы",
+    "description": "Комбинация: Сущность — Структура, Форма — Сфера, Импульс — Резонанс. Заклинание активирует сфера из структура с эффектом резонанс.",
+    "visual_prompt": "Pixel art magic effect for complex pentagram spell 'Пентаграмма: Сфера Структура'. Glowing arcane pentagram with elemental effects and five-point geometry. 128x128 SNES RPG FX.",
+    "image_path": "lore/magic/assets/effects/pentagrams/пентаграмма_сфера_структура.png",
+    "use_case": "Displayed when performing the pentagram ritual 'Пентаграмма: Сфера Структура'.",
+    "trigger_event": "ritual_activation"
+  },
+  {
+    "name": "Пентаграмма: Память Структура",
+    "school": "Пентаграммы",
+    "description": "Комбинация: Сущность — Структура, Форма — Память, Импульс — Удар. Заклинание активирует память из структура с эффектом удар.",
+    "visual_prompt": "Pixel art magic effect for complex pentagram spell 'Пентаграмма: Память Структура'. Glowing arcane pentagram with elemental effects and five-point geometry. 128x128 SNES RPG FX.",
+    "image_path": "lore/magic/assets/effects/pentagrams/пентаграмма_память_структура.png",
+    "use_case": "Displayed when performing the pentagram ritual 'Пентаграмма: Память Структура'.",
+    "trigger_event": "ritual_activation"
+  },
+  {
+    "name": "Пентаграмма: Память Структура",
+    "school": "Пентаграммы",
+    "description": "Комбинация: Сущность — Структура, Форма — Память, Импульс — Звук. Заклинание активирует память из структура с эффектом звук.",
+    "visual_prompt": "Pixel art magic effect for complex pentagram spell 'Пентаграмма: Память Структура'. Glowing arcane pentagram with elemental effects and five-point geometry. 128x128 SNES RPG FX.",
+    "image_path": "lore/magic/assets/effects/pentagrams/пентаграмма_память_структура.png",
+    "use_case": "Displayed when performing the pentagram ritual 'Пентаграмма: Память Структура'.",
+    "trigger_event": "ritual_activation"
+  },
+  {
+    "name": "Пентаграмма: Память Структура",
+    "school": "Пентаграммы",
+    "description": "Комбинация: Сущность — Структура, Форма — Память, Импульс — Резонанс. Заклинание активирует память из структура с эффектом резонанс.",
+    "visual_prompt": "Pixel art magic effect for complex pentagram spell 'Пентаграмма: Память Структура'. Glowing arcane pentagram with elemental effects and five-point geometry. 128x128 SNES RPG FX.",
+    "image_path": "lore/magic/assets/effects/pentagrams/пентаграмма_память_структура.png",
+    "use_case": "Displayed when performing the pentagram ritual 'Пентаграмма: Память Структура'.",
+    "trigger_event": "ritual_activation"
+  },
+  {
+    "name": "Пентаграмма: Связь Структура",
+    "school": "Пентаграммы",
+    "description": "Комбинация: Сущность — Структура, Форма — Связь, Импульс — Удар. Заклинание активирует связь из структура с эффектом удар.",
+    "visual_prompt": "Pixel art magic effect for complex pentagram spell 'Пентаграмма: Связь Структура'. Glowing arcane pentagram with elemental effects and five-point geometry. 128x128 SNES RPG FX.",
+    "image_path": "lore/magic/assets/effects/pentagrams/пентаграмма_связь_структура.png",
+    "use_case": "Displayed when performing the pentagram ritual 'Пентаграмма: Связь Структура'.",
+    "trigger_event": "ritual_activation"
+  },
+  {
+    "name": "Пентаграмма: Связь Структура",
+    "school": "Пентаграммы",
+    "description": "Комбинация: Сущность — Структура, Форма — Связь, Импульс — Звук. Заклинание активирует связь из структура с эффектом звук.",
+    "visual_prompt": "Pixel art magic effect for complex pentagram spell 'Пентаграмма: Связь Структура'. Glowing arcane pentagram with elemental effects and five-point geometry. 128x128 SNES RPG FX.",
+    "image_path": "lore/magic/assets/effects/pentagrams/пентаграмма_связь_структура.png",
+    "use_case": "Displayed when performing the pentagram ritual 'Пентаграмма: Связь Структура'.",
+    "trigger_event": "ritual_activation"
+  },
+  {
+    "name": "Пентаграмма: Связь Структура",
+    "school": "Пентаграммы",
+    "description": "Комбинация: Сущность — Структура, Форма — Связь, Импульс — Резонанс. Заклинание активирует связь из структура с эффектом резонанс.",
+    "visual_prompt": "Pixel art magic effect for complex pentagram spell 'Пентаграмма: Связь Структура'. Glowing arcane pentagram with elemental effects and five-point geometry. 128x128 SNES RPG FX.",
+    "image_path": "lore/magic/assets/effects/pentagrams/пентаграмма_связь_структура.png",
+    "use_case": "Displayed when performing the pentagram ritual 'Пентаграмма: Связь Структура'.",
+    "trigger_event": "ritual_activation"
+  },
+  {
+    "name": "Пентаграмма: Сфера Врата",
+    "school": "Пентаграммы",
+    "description": "Комбинация: Сущность — Врата, Форма — Сфера, Импульс — Удар. Заклинание активирует сфера из врата с эффектом удар.",
+    "visual_prompt": "Pixel art magic effect for complex pentagram spell 'Пентаграмма: Сфера Врата'. Glowing arcane pentagram with elemental effects and five-point geometry. 128x128 SNES RPG FX.",
+    "image_path": "lore/magic/assets/effects/pentagrams/пентаграмма_сфера_врата.png",
+    "use_case": "Displayed when performing the pentagram ritual 'Пентаграмма: Сфера Врата'.",
+    "trigger_event": "ritual_activation"
+  },
+  {
+    "name": "Пентаграмма: Сфера Врата",
+    "school": "Пентаграммы",
+    "description": "Комбинация: Сущность — Врата, Форма — Сфера, Импульс — Звук. Заклинание активирует сфера из врата с эффектом звук.",
+    "visual_prompt": "Pixel art magic effect for complex pentagram spell 'Пентаграмма: Сфера Врата'. Glowing arcane pentagram with elemental effects and five-point geometry. 128x128 SNES RPG FX.",
+    "image_path": "lore/magic/assets/effects/pentagrams/пентаграмма_сфера_врата.png",
+    "use_case": "Displayed when performing the pentagram ritual 'Пентаграмма: Сфера Врата'.",
+    "trigger_event": "ritual_activation"
+  },
+  {
+    "name": "Пентаграмма: Сфера Врата",
+    "school": "Пентаграммы",
+    "description": "Комбинация: Сущность — Врата, Форма — Сфера, Импульс — Резонанс. Заклинание активирует сфера из врата с эффектом резонанс.",
+    "visual_prompt": "Pixel art magic effect for complex pentagram spell 'Пентаграмма: Сфера Врата'. Glowing arcane pentagram with elemental effects and five-point geometry. 128x128 SNES RPG FX.",
+    "image_path": "lore/magic/assets/effects/pentagrams/пентаграмма_сфера_врата.png",
+    "use_case": "Displayed when performing the pentagram ritual 'Пентаграмма: Сфера Врата'.",
+    "trigger_event": "ritual_activation"
+  },
+  {
+    "name": "Пентаграмма: Память Врата",
+    "school": "Пентаграммы",
+    "description": "Комбинация: Сущность — Врата, Форма — Память, Импульс — Удар. Заклинание активирует память из врата с эффектом удар.",
+    "visual_prompt": "Pixel art magic effect for complex pentagram spell 'Пентаграмма: Память Врата'. Glowing arcane pentagram with elemental effects and five-point geometry. 128x128 SNES RPG FX.",
+    "image_path": "lore/magic/assets/effects/pentagrams/пентаграмма_память_врата.png",
+    "use_case": "Displayed when performing the pentagram ritual 'Пентаграмма: Память Врата'.",
+    "trigger_event": "ritual_activation"
+  },
+  {
+    "name": "Пентаграмма: Память Врата",
+    "school": "Пентаграммы",
+    "description": "Комбинация: Сущность — Врата, Форма — Память, Импульс — Звук. Заклинание активирует память из врата с эффектом звук.",
+    "visual_prompt": "Pixel art magic effect for complex pentagram spell 'Пентаграмма: Память Врата'. Glowing arcane pentagram with elemental effects and five-point geometry. 128x128 SNES RPG FX.",
+    "image_path": "lore/magic/assets/effects/pentagrams/пентаграмма_память_врата.png",
+    "use_case": "Displayed when performing the pentagram ritual 'Пентаграмма: Память Врата'.",
+    "trigger_event": "ritual_activation"
+  },
+  {
+    "name": "Пентаграмма: Память Врата",
+    "school": "Пентаграммы",
+    "description": "Комбинация: Сущность — Врата, Форма — Память, Импульс — Резонанс. Заклинание активирует память из врата с эффектом резонанс.",
+    "visual_prompt": "Pixel art magic effect for complex pentagram spell 'Пентаграмма: Память Врата'. Glowing arcane pentagram with elemental effects and five-point geometry. 128x128 SNES RPG FX.",
+    "image_path": "lore/magic/assets/effects/pentagrams/пентаграмма_память_врата.png",
+    "use_case": "Displayed when performing the pentagram ritual 'Пентаграмма: Память Врата'.",
+    "trigger_event": "ritual_activation"
+  },
+  {
+    "name": "Пентаграмма: Связь Врата",
+    "school": "Пентаграммы",
+    "description": "Комбинация: Сущность — Врата, Форма — Связь, Импульс — Удар. Заклинание активирует связь из врата с эффектом удар.",
+    "visual_prompt": "Pixel art magic effect for complex pentagram spell 'Пентаграмма: Связь Врата'. Glowing arcane pentagram with elemental effects and five-point geometry. 128x128 SNES RPG FX.",
+    "image_path": "lore/magic/assets/effects/pentagrams/пентаграмма_связь_врата.png",
+    "use_case": "Displayed when performing the pentagram ritual 'Пентаграмма: Связь Врата'.",
+    "trigger_event": "ritual_activation"
+  },
+  {
+    "name": "Пентаграмма: Связь Врата",
+    "school": "Пентаграммы",
+    "description": "Комбинация: Сущность — Врата, Форма — Связь, Импульс — Звук. Заклинание активирует связь из врата с эффектом звук.",
+    "visual_prompt": "Pixel art magic effect for complex pentagram spell 'Пентаграмма: Связь Врата'. Glowing arcane pentagram with elemental effects and five-point geometry. 128x128 SNES RPG FX.",
+    "image_path": "lore/magic/assets/effects/pentagrams/пентаграмма_связь_врата.png",
+    "use_case": "Displayed when performing the pentagram ritual 'Пентаграмма: Связь Врата'.",
+    "trigger_event": "ritual_activation"
+  },
+  {
+    "name": "Пентаграмма: Связь Врата",
+    "school": "Пентаграммы",
+    "description": "Комбинация: Сущность — Врата, Форма — Связь, Импульс — Резонанс. Заклинание активирует связь из врата с эффектом резонанс.",
+    "visual_prompt": "Pixel art magic effect for complex pentagram spell 'Пентаграмма: Связь Врата'. Glowing arcane pentagram with elemental effects and five-point geometry. 128x128 SNES RPG FX.",
+    "image_path": "lore/magic/assets/effects/pentagrams/пентаграмма_связь_врата.png",
+    "use_case": "Displayed when performing the pentagram ritual 'Пентаграмма: Связь Врата'.",
+    "trigger_event": "ritual_activation"
+  }
+]

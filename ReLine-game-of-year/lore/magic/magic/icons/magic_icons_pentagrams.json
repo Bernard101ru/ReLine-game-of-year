@@ -1,0 +1,218 @@
+[
+  {
+    "name": "Пентаграмма: Сфера Пламя",
+    "school": "Пентаграммы",
+    "description": "Комбинация: Сущность — Пламя, Форма — Сфера, Импульс — Удар. Заклинание активирует сфера из пламя с эффектом удар.",
+    "icon_prompt": "Pixel art spell icon for pentagram-based spell 'Пентаграмма: Сфера Пламя'. Five-point magical seal with aura in SNES pixel style, 64x64.",
+    "image_path": "lore/magic/assets/icons/pentagrams/пентаграмма_сфера_пламя.png",
+    "use_case": "Used in spell UI or casting interface for 'Пентаграмма: Сфера Пламя'."
+  },
+  {
+    "name": "Пентаграмма: Сфера Пламя",
+    "school": "Пентаграммы",
+    "description": "Комбинация: Сущность — Пламя, Форма — Сфера, Импульс — Звук. Заклинание активирует сфера из пламя с эффектом звук.",
+    "icon_prompt": "Pixel art spell icon for pentagram-based spell 'Пентаграмма: Сфера Пламя'. Five-point magical seal with aura in SNES pixel style, 64x64.",
+    "image_path": "lore/magic/assets/icons/pentagrams/пентаграмма_сфера_пламя.png",
+    "use_case": "Used in spell UI or casting interface for 'Пентаграмма: Сфера Пламя'."
+  },
+  {
+    "name": "Пентаграмма: Сфера Пламя",
+    "school": "Пентаграммы",
+    "description": "Комбинация: Сущность — Пламя, Форма — Сфера, Импульс — Резонанс. Заклинание активирует сфера из пламя с эффектом резонанс.",
+    "icon_prompt": "Pixel art spell icon for pentagram-based spell 'Пентаграмма: Сфера Пламя'. Five-point magical seal with aura in SNES pixel style, 64x64.",
+    "image_path": "lore/magic/assets/icons/pentagrams/пентаграмма_сфера_пламя.png",
+    "use_case": "Used in spell UI or casting interface for 'Пентаграмма: Сфера Пламя'."
+  },
+  {
+    "name": "Пентаграмма: Память Пламя",
+    "school": "Пентаграммы",
+    "description": "Комбинация: Сущность — Пламя, Форма — Память, Импульс — Удар. Заклинание активирует память из пламя с эффектом удар.",
+    "icon_prompt": "Pixel art spell icon for pentagram-based spell 'Пентаграмма: Память Пламя'. Five-point magical seal with aura in SNES pixel style, 64x64.",
+    "image_path": "lore/magic/assets/icons/pentagrams/пентаграмма_память_пламя.png",
+    "use_case": "Used in spell UI or casting interface for 'Пентаграмма: Память Пламя'."
+  },
+  {
+    "name": "Пентаграмма: Память Пламя",
+    "school": "Пентаграммы",
+    "description": "Комбинация: Сущность — Пламя, Форма — Память, Импульс — Звук. Заклинание активирует память из пламя с эффектом звук.",
+    "icon_prompt": "Pixel art spell icon for pentagram-based spell 'Пентаграмма: Память Пламя'. Five-point magical seal with aura in SNES pixel style, 64x64.",
+    "image_path": "lore/magic/assets/icons/pentagrams/пентаграмма_память_пламя.png",
+    "use_case": "Used in spell UI or casting interface for 'Пентаграмма: Память Пламя'."
+  },
+  {
+    "name": "Пентаграмма: Память Пламя",
+    "school": "Пентаграммы",
+    "description": "Комбинация: Сущность — Пламя, Форма — Память, Импульс — Резонанс. Заклинание активирует память из пламя с эффектом резонанс.",
+    "icon_prompt": "Pixel art spell icon for pentagram-based spell 'Пентаграмма: Память Пламя'. Five-point magical seal with aura in SNES pixel style, 64x64.",
+    "image_path": "lore/magic/assets/icons/pentagrams/пентаграмма_память_пламя.png",
+    "use_case": "Used in spell UI or casting interface for 'Пентаграмма: Память Пламя'."
+  },
+  {
+    "name": "Пентаграмма: Связь Пламя",
+    "school": "Пентаграммы",
+    "description": "Комбинация: Сущность — Пламя, Форма — Связь, Импульс — Удар. Заклинание активирует связь из пламя с эффектом удар.",
+    "icon_prompt": "Pixel art spell icon for pentagram-based spell 'Пентаграмма: Связь Пламя'. Five-point magical seal with aura in SNES pixel style, 64x64.",
+    "image_path": "lore/magic/assets/icons/pentagrams/пентаграмма_связь_пламя.png",
+    "use_case": "Used in spell UI or casting interface for 'Пентаграмма: Связь Пламя'."
+  },
+  {
+    "name": "Пентаграмма: Связь Пламя",
+    "school": "Пентаграммы",
+    "description": "Комбинация: Сущность — Пламя, Форма — Связь, Импульс — Звук. Заклинание активирует связь из пламя с эффектом звук.",
+    "icon_prompt": "Pixel art spell icon for pentagram-based spell 'Пентаграмма: Связь Пламя'. Five-point magical seal with aura in SNES pixel style, 64x64.",
+    "image_path": "lore/magic/assets/icons/pentagrams/пентаграмма_связь_пламя.png",
+    "use_case": "Used in spell UI or casting interface for 'Пентаграмма: Связь Пламя'."
+  },
+  {
+    "name": "Пентаграмма: Связь Пламя",
+    "school": "Пентаграммы",
+    "description": "Комбинация: Сущность — Пламя, Форма — Связь, Импульс — Резонанс. Заклинание активирует связь из пламя с эффектом резонанс.",
+    "icon_prompt": "Pixel art spell icon for pentagram-based spell 'Пентаграмма: Связь Пламя'. Five-point magical seal with aura in SNES pixel style, 64x64.",
+    "image_path": "lore/magic/assets/icons/pentagrams/пентаграмма_связь_пламя.png",
+    "use_case": "Used in spell UI or casting interface for 'Пентаграмма: Связь Пламя'."
+  },
+  {
+    "name": "Пентаграмма: Сфера Структура",
+    "school": "Пентаграммы",
+    "description": "Комбинация: Сущность — Структура, Форма — Сфера, Импульс — Удар. Заклинание активирует сфера из структура с эффектом удар.",
+    "icon_prompt": "Pixel art spell icon for pentagram-based spell 'Пентаграмма: Сфера Структура'. Five-point magical seal with aura in SNES pixel style, 64x64.",
+    "image_path": "lore/magic/assets/icons/pentagrams/пентаграмма_сфера_структура.png",
+    "use_case": "Used in spell UI or casting interface for 'Пентаграмма: Сфера Структура'."
+  },
+  {
+    "name": "Пентаграмма: Сфера Структура",
+    "school": "Пентаграммы",
+    "description": "Комбинация: Сущность — Структура, Форма — Сфера, Импульс — Звук. Заклинание активирует сфера из структура с эффектом звук.",
+    "icon_prompt": "Pixel art spell icon for pentagram-based spell 'Пентаграмма: Сфера Структура'. Five-point magical seal with aura in SNES pixel style, 64x64.",
+    "image_path": "lore/magic/assets/icons/pentagrams/пентаграмма_сфера_структура.png",
+    "use_case": "Used in spell UI or casting interface for 'Пентаграмма: Сфера Структура'."
+  },
+  {
+    "name": "Пентаграмма: Сфера Структура",
+    "school": "Пентаграммы",
+    "description": "Комбинация: Сущность — Структура, Форма — Сфера, Импульс — Резонанс. Заклинание активирует сфера из структура с эффектом резонанс.",
+    "icon_prompt": "Pixel art spell icon for pentagram-based spell 'Пентаграмма: Сфера Структура'. Five-point magical seal with aura in SNES pixel style, 64x64.",
+    "image_path": "lore/magic/assets/icons/pentagrams/пентаграмма_сфера_структура.png",
+    "use_case": "Used in spell UI or casting interface for 'Пентаграмма: Сфера Структура'."
+  },
+  {
+    "name": "Пентаграмма: Память Структура",
+    "school": "Пентаграммы",
+    "description": "Комбинация: Сущность — Структура, Форма — Память, Импульс — Удар. Заклинание активирует память из структура с эффектом удар.",
+    "icon_prompt": "Pixel art spell icon for pentagram-based spell 'Пентаграмма: Память Структура'. Five-point magical seal with aura in SNES pixel style, 64x64.",
+    "image_path": "lore/magic/assets/icons/pentagrams/пентаграмма_память_структура.png",
+    "use_case": "Used in spell UI or casting interface for 'Пентаграмма: Память Структура'."
+  },
+  {
+    "name": "Пентаграмма: Память Структура",
+    "school": "Пентаграммы",
+    "description": "Комбинация: Сущность — Структура, Форма — Память, Импульс — Звук. Заклинание активирует память из структура с эффектом звук.",
+    "icon_prompt": "Pixel art spell icon for pentagram-based spell 'Пентаграмма: Память Структура'. Five-point magical seal with aura in SNES pixel style, 64x64.",
+    "image_path": "lore/magic/assets/icons/pentagrams/пентаграмма_память_структура.png",
+    "use_case": "Used in spell UI or casting interface for 'Пентаграмма: Память Структура'."
+  },
+  {
+    "name": "Пентаграмма: Память Структура",
+    "school": "Пентаграммы",
+    "description": "Комбинация: Сущность — Структура, Форма — Память, Импульс — Резонанс. Заклинание активирует память из структура с эффектом резонанс.",
+    "icon_prompt": "Pixel art spell icon for pentagram-based spell 'Пентаграмма: Память Структура'. Five-point magical seal with aura in SNES pixel style, 64x64.",
+    "image_path": "lore/magic/assets/icons/pentagrams/пентаграмма_память_структура.png",
+    "use_case": "Used in spell UI or casting interface for 'Пентаграмма: Память Структура'."
+  },
+  {
+    "name": "Пентаграмма: Связь Структура",
+    "school": "Пентаграммы",
+    "description": "Комбинация: Сущность — Структура, Форма — Связь, Импульс — Удар. Заклинание активирует связь из структура с эффектом удар.",
+    "icon_prompt": "Pixel art spell icon for pentagram-based spell 'Пентаграмма: Связь Структура'. Five-point magical seal with aura in SNES pixel style, 64x64.",
+    "image_path": "lore/magic/assets/icons/pentagrams/пентаграмма_связь_структура.png",
+    "use_case": "Used in spell UI or casting interface for 'Пентаграмма: Связь Структура'."
+  },
+  {
+    "name": "Пентаграмма: Связь Структура",
+    "school": "Пентаграммы",
+    "description": "Комбинация: Сущность — Структура, Форма — Связь, Импульс — Звук. Заклинание активирует связь из структура с эффектом звук.",
+    "icon_prompt": "Pixel art spell icon for pentagram-based spell 'Пентаграмма: Связь Структура'. Five-point magical seal with aura in SNES pixel style, 64x64.",
+    "image_path": "lore/magic/assets/icons/pentagrams/пентаграмма_связь_структура.png",
+    "use_case": "Used in spell UI or casting interface for 'Пентаграмма: Связь Структура'."
+  },
+  {
+    "name": "Пентаграмма: Связь Структура",
+    "school": "Пентаграммы",
+    "description": "Комбинация: Сущность — Структура, Форма — Связь, Импульс — Резонанс. Заклинание активирует связь из структура с эффектом резонанс.",
+    "icon_prompt": "Pixel art spell icon for pentagram-based spell 'Пентаграмма: Связь Структура'. Five-point magical seal with aura in SNES pixel style, 64x64.",
+    "image_path": "lore/magic/assets/icons/pentagrams/пентаграмма_связь_структура.png",
+    "use_case": "Used in spell UI or casting interface for 'Пентаграмма: Связь Структура'."
+  },
+  {
+    "name": "Пентаграмма: Сфера Врата",
+    "school": "Пентаграммы",
+    "description": "Комбинация: Сущность — Врата, Форма — Сфера, Импульс — Удар. Заклинание активирует сфера из врата с эффектом удар.",
+    "icon_prompt": "Pixel art spell icon for pentagram-based spell 'Пентаграмма: Сфера Врата'. Five-point magical seal with aura in SNES pixel style, 64x64.",
+    "image_path": "lore/magic/assets/icons/pentagrams/пентаграмма_сфера_врата.png",
+    "use_case": "Used in spell UI or casting interface for 'Пентаграмма: Сфера Врата'."
+  },
+  {
+    "name": "Пентаграмма: Сфера Врата",
+    "school": "Пентаграммы",
+    "description": "Комбинация: Сущность — Врата, Форма — Сфера, Импульс — Звук. Заклинание активирует сфера из врата с эффектом звук.",
+    "icon_prompt": "Pixel art spell icon for pentagram-based spell 'Пентаграмма: Сфера Врата'. Five-point magical seal with aura in SNES pixel style, 64x64.",
+    "image_path": "lore/magic/assets/icons/pentagrams/пентаграмма_сфера_врата.png",
+    "use_case": "Used in spell UI or casting interface for 'Пентаграмма: Сфера Врата'."
+  },
+  {
+    "name": "Пентаграмма: Сфера Врата",
+    "school": "Пентаграммы",
+    "description": "Комбинация: Сущность — Врата, Форма — Сфера, Импульс — Резонанс. Заклинание активирует сфера из врата с эффектом резонанс.",
+    "icon_prompt": "Pixel art spell icon for pentagram-based spell 'Пентаграмма: Сфера Врата'. Five-point magical seal with aura in SNES pixel style, 64x64.",
+    "image_path": "lore/magic/assets/icons/pentagrams/пентаграмма_сфера_врата.png",
+    "use_case": "Used in spell UI or casting interface for 'Пентаграмма: Сфера Врата'."
+  },
+  {
+    "name": "Пентаграмма: Память Врата",
+    "school": "Пентаграммы",
+    "description": "Комбинация: Сущность — Врата, Форма — Память, Импульс — Удар. Заклинание активирует память из врата с эффектом удар.",
+    "icon_prompt": "Pixel art spell icon for pentagram-based spell 'Пентаграмма: Память Врата'. Five-point magical seal with aura in SNES pixel style, 64x64.",
+    "image_path": "lore/magic/assets/icons/pentagrams/пентаграмма_память_врата.png",
+    "use_case": "Used in spell UI or casting interface for 'Пентаграмма: Память Врата'."
+  },
+  {
+    "name": "Пентаграмма: Память Врата",
+    "school": "Пентаграммы",
+    "description": "Комбинация: Сущность — Врата, Форма — Память, Импульс — Звук. Заклинание активирует память из врата с эффектом звук.",
+    "icon_prompt": "Pixel art spell icon for pentagram-based spell 'Пентаграмма: Память Врата'. Five-point magical seal with aura in SNES pixel style, 64x64.",
+    "image_path": "lore/magic/assets/icons/pentagrams/пентаграмма_память_врата.png",
+    "use_case": "Used in spell UI or casting interface for 'Пентаграмма: Память Врата'."
+  },
+  {
+    "name": "Пентаграмма: Память Врата",
+    "school": "Пентаграммы",
+    "description": "Комбинация: Сущность — Врата, Форма — Память, Импульс — Резонанс. Заклинание активирует память из врата с эффектом резонанс.",
+    "icon_prompt": "Pixel art spell icon for pentagram-based spell 'Пентаграмма: Память Врата'. Five-point magical seal with aura in SNES pixel style, 64x64.",
+    "image_path": "lore/magic/assets/icons/pentagrams/пентаграмма_память_врата.png",
+    "use_case": "Used in spell UI or casting interface for 'Пентаграмма: Память Врата'."
+  },
+  {
+    "name": "Пентаграмма: Связь Врата",
+    "school": "Пентаграммы",
+    "description": "Комбинация: Сущность — Врата, Форма — Связь, Импульс — Удар. Заклинание активирует связь из врата с эффектом удар.",
+    "icon_prompt": "Pixel art spell icon for pentagram-based spell 'Пентаграмма: Связь Врата'. Five-point magical seal with aura in SNES pixel style, 64x64.",
+    "image_path": "lore/magic/assets/icons/pentagrams/пентаграмма_связь_врата.png",
+    "use_case": "Used in spell UI or casting interface for 'Пентаграмма: Связь Врата'."
+  },
+  {
+    "name": "Пентаграмма: Связь Врата",
+    "school": "Пентаграммы",
+    "description": "Комбинация: Сущность — Врата, Форма — Связь, Импульс — Звук. Заклинание активирует связь из врата с эффектом звук.",
+    "icon_prompt": "Pixel art spell icon for pentagram-based spell 'Пентаграмма: Связь Врата'. Five-point magical seal with aura in SNES pixel style, 64x64.",
+    "image_path": "lore/magic/assets/icons/pentagrams/пентаграмма_связь_врата.png",
+    "use_case": "Used in spell UI or casting interface for 'Пентаграмма: Связь Врата'."
+  },
+  {
+    "name": "Пентаграмма: Связь Врата",
+    "school": "Пентаграммы",
+    "description": "Комбинация: Сущность — Врата, Форма — Связь, Импульс — Резонанс. Заклинание активирует связь из врата с эффектом резонанс.",
+    "icon_prompt": "Pixel art spell icon for pentagram-based spell 'Пентаграмма: Связь Врата'. Five-point magical seal with aura in SNES pixel style, 64x64.",
+    "image_path": "lore/magic/assets/icons/pentagrams/пентаграмма_связь_врата.png",
+    "use_case": "Used in spell UI or casting interface for 'Пентаграмма: Связь Врата'."
+  }
+]

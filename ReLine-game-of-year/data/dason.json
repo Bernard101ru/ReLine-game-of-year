@@ -1,0 +1,24 @@
+{
+  "rules": {
+    "scene_entry": "load scene image from assets/scenes/{scene_id}.png",
+    "monster_encounter": "load monster image from monsters/{monster_name}.png",
+    "npc_dialog": "load npc portrait from npcs/{npc_id}.png",
+    "cast_spell": "load effect from lore/magic/assets/effects/{school}/{spell_name}.png",
+    "open_ui": "load icon from assets/icons/{category}/{icon_name}.png",
+    "use_transport": "load transport image from transport/{vehicle_name}.png",
+    "trigger_event": {
+      "on_cast": "load magic effect",
+      "ritual_activation": "load sigil",
+      "on_interaction": "load ambient overlay"
+    }
+  },
+  "fallback": {
+    "missing_image": "display default placeholder frame",
+    "unknown_trigger": "ignore and log warning"
+  },
+  "auto_check": {
+    "on_game_load": true,
+    "verify_image_paths": true,
+    "report_missing": true
+  }
+}

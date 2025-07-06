@@ -1,0 +1,218 @@
+[
+  {
+    "name": "Физическая интеграция магии и движения",
+    "school": "Факультет БОЕВОЙ МАГИИ",
+    "description": "Физическая интеграция магии и движения",
+    "visual_prompt": "Pixel art spell effect for university-level magic: 'Физическая интеграция магии и движения'. SNES-style magical aura, element or flash with academic rune patterns. 128x128.",
+    "image_path": "lore/magic/assets/effects/university/физическая_интеграция_магии_и_движения.png",
+    "use_case": "Appears when casting or studying 'Физическая интеграция магии и движения'.",
+    "trigger_event": "on_cast"
+  },
+  {
+    "name": "Сборка боевых пентаграмм, их ускоренное срабатывание",
+    "school": "Факультет БОЕВОЙ МАГИИ",
+    "description": "Сборка боевых пентаграмм, их ускоренное срабатывание",
+    "visual_prompt": "Pixel art spell effect for university-level magic: 'Сборка боевых пентаграмм, их ускоренное срабатывание'. SNES-style magical aura, element or flash with academic rune patterns. 128x128.",
+    "image_path": "lore/magic/assets/effects/university/сборка_боевых_пентаграмм_их_ускоренное_срабатывание.png",
+    "use_case": "Appears when casting or studying 'Сборка боевых пентаграмм, их ускоренное срабатывание'.",
+    "trigger_event": "on_cast"
+  },
+  {
+    "name": "Полевое заклинание",
+    "school": "Факультет БОЕВОЙ МАГИИ",
+    "description": "Полевое заклинание: практика в дуэлях и реальных условиях",
+    "visual_prompt": "Pixel art spell effect for university-level magic: 'Полевое заклинание'. SNES-style magical aura, element or flash with academic rune patterns. 128x128.",
+    "image_path": "lore/magic/assets/effects/university/полевое_заклинание.png",
+    "use_case": "Appears when casting or studying 'Полевое заклинание'.",
+    "trigger_event": "on_cast"
+  },
+  {
+    "name": "Тактика и взаимодействие с армейскими структурами",
+    "school": "Факультет БОЕВОЙ МАГИИ",
+    "description": "Тактика и взаимодействие с армейскими структурами",
+    "visual_prompt": "Pixel art spell effect for university-level magic: 'Тактика и взаимодействие с армейскими структурами'. SNES-style magical aura, element or flash with academic rune patterns. 128x128.",
+    "image_path": "lore/magic/assets/effects/university/тактика_и_взаимодействие_с_армейскими_структурами.png",
+    "use_case": "Appears when casting or studying 'Тактика и взаимодействие с армейскими структурами'.",
+    "trigger_event": "on_cast"
+  },
+  {
+    "name": "Анатомия, энергетические узлы, раневая память",
+    "school": "Факультет МЕДИЦИНСКОЙ МАГИИ",
+    "description": "Анатомия, энергетические узлы, раневая память",
+    "visual_prompt": "Pixel art spell effect for university-level magic: 'Анатомия, энергетические узлы, раневая память'. SNES-style magical aura, element or flash with academic rune patterns. 128x128.",
+    "image_path": "lore/magic/assets/effects/university/анатомия_энергетические_узлы_раневая_память.png",
+    "use_case": "Appears when casting or studying 'Анатомия, энергетические узлы, раневая память'.",
+    "trigger_event": "on_cast"
+  },
+  {
+    "name": "Использование аурики, гидрокрафта и света",
+    "school": "Факультет МЕДИЦИНСКОЙ МАГИИ",
+    "description": "Использование Аурики, Гидрокрафта и Света",
+    "visual_prompt": "Pixel art spell effect for university-level magic: 'Использование аурики, гидрокрафта и света'. SNES-style magical aura, element or flash with academic rune patterns. 128x128.",
+    "image_path": "lore/magic/assets/effects/university/использование_аурики_гидрокрафта_и_света.png",
+    "use_case": "Appears when casting or studying 'Использование аурики, гидрокрафта и света'.",
+    "trigger_event": "on_cast"
+  },
+  {
+    "name": "Алхимия зелий и восстановительных форм",
+    "school": "Факультет МЕДИЦИНСКОЙ МАГИИ",
+    "description": "Алхимия зелий и восстановительных форм",
+    "visual_prompt": "Pixel art spell effect for university-level magic: 'Алхимия зелий и восстановительных форм'. SNES-style magical aura, element or flash with academic rune patterns. 128x128.",
+    "image_path": "lore/magic/assets/effects/university/алхимия_зелий_и_восстановительных_форм.png",
+    "use_case": "Appears when casting or studying 'Алхимия зелий и восстановительных форм'.",
+    "trigger_event": "on_cast"
+  },
+  {
+    "name": "Работа с магическими инфекциями, ядами, искажениями",
+    "school": "Факультет МЕДИЦИНСКОЙ МАГИИ",
+    "description": "Работа с магическими инфекциями, ядами, искажениями",
+    "visual_prompt": "Pixel art spell effect for university-level magic: 'Работа с магическими инфекциями, ядами, искажениями'. SNES-style magical aura, element or flash with academic rune patterns. 128x128.",
+    "image_path": "lore/magic/assets/effects/university/работа_с_магическими_инфекциями_ядами_искажениями.png",
+    "use_case": "Appears when casting or studying 'Работа с магическими инфекциями, ядами, искажениями'.",
+    "trigger_event": "on_cast"
+  },
+  {
+    "name": "Изучение рунного языка и его структурной силы",
+    "school": "Факультет РУНОЛОГИИ И АРТЕФАКТОВ",
+    "description": "Изучение рунного языка и его структурной силы",
+    "visual_prompt": "Pixel art spell effect for university-level magic: 'Изучение рунного языка и его структурной силы'. SNES-style magical aura, element or flash with academic rune patterns. 128x128.",
+    "image_path": "lore/magic/assets/effects/university/изучение_рунного_языка_и_его_структурной_силы.png",
+    "use_case": "Appears when casting or studying 'Изучение рунного языка и его структурной силы'.",
+    "trigger_event": "on_cast"
+  },
+  {
+    "name": "Гравировка, сборка артефактов, система печатей",
+    "school": "Факультет РУНОЛОГИИ И АРТЕФАКТОВ",
+    "description": "Гравировка, сборка артефактов, система печатей",
+    "visual_prompt": "Pixel art spell effect for university-level magic: 'Гравировка, сборка артефактов, система печатей'. SNES-style magical aura, element or flash with academic rune patterns. 128x128.",
+    "image_path": "lore/magic/assets/effects/university/гравировка_сборка_артефактов_система_печатей.png",
+    "use_case": "Appears when casting or studying 'Гравировка, сборка артефактов, система печатей'.",
+    "trigger_event": "on_cast"
+  },
+  {
+    "name": "Создание маготехнологических объектов",
+    "school": "Факультет РУНОЛОГИИ И АРТЕФАКТОВ",
+    "description": "Создание маготехнологических объектов",
+    "visual_prompt": "Pixel art spell effect for university-level magic: 'Создание маготехнологических объектов'. SNES-style magical aura, element or flash with academic rune patterns. 128x128.",
+    "image_path": "lore/magic/assets/effects/university/создание_маготехнологических_объектов.png",
+    "use_case": "Appears when casting or studying 'Создание маготехнологических объектов'.",
+    "trigger_event": "on_cast"
+  },
+  {
+    "name": "Связь с манапроводами, стабилизаторы",
+    "school": "Факультет РУНОЛОГИИ И АРТЕФАКТОВ",
+    "description": "Связь с манапроводами, стабилизаторы",
+    "visual_prompt": "Pixel art spell effect for university-level magic: 'Связь с манапроводами, стабилизаторы'. SNES-style magical aura, element or flash with academic rune patterns. 128x128.",
+    "image_path": "lore/magic/assets/effects/university/связь_с_манапроводами_стабилизаторы.png",
+    "use_case": "Appears when casting or studying 'Связь с манапроводами, стабилизаторы'.",
+    "trigger_event": "on_cast"
+  },
+  {
+    "name": "Эксперименты с нестабильной маной",
+    "school": "Факультет ИССЛЕДОВАТЕЛЕЙ (МАНА-ФИЗИКА)",
+    "description": "Эксперименты с нестабильной маной",
+    "visual_prompt": "Pixel art spell effect for university-level magic: 'Эксперименты с нестабильной маной'. SNES-style magical aura, element or flash with academic rune patterns. 128x128.",
+    "image_path": "lore/magic/assets/effects/university/эксперименты_с_нестабильной_маной.png",
+    "use_case": "Appears when casting or studying 'Эксперименты с нестабильной маной'.",
+    "trigger_event": "on_cast"
+  },
+  {
+    "name": "Изучение r5-r6 существ, их треск и ядро",
+    "school": "Факультет ИССЛЕДОВАТЕЛЕЙ (МАНА-ФИЗИКА)",
+    "description": "Изучение R5-R6 существ, их треск и ядро",
+    "visual_prompt": "Pixel art spell effect for university-level magic: 'Изучение r5-r6 существ, их треск и ядро'. SNES-style magical aura, element or flash with academic rune patterns. 128x128.",
+    "image_path": "lore/magic/assets/effects/university/изучение_r5r6_существ_их_треск_и_ядро.png",
+    "use_case": "Appears when casting or studying 'Изучение r5-r6 существ, их треск и ядро'.",
+    "trigger_event": "on_cast"
+  },
+  {
+    "name": "Теоретическая сборка новых триграмм",
+    "school": "Факультет ИССЛЕДОВАТЕЛЕЙ (МАНА-ФИЗИКА)",
+    "description": "Теоретическая сборка новых триграмм",
+    "visual_prompt": "Pixel art spell effect for university-level magic: 'Теоретическая сборка новых триграмм'. SNES-style magical aura, element or flash with academic rune patterns. 128x128.",
+    "image_path": "lore/magic/assets/effects/university/теоретическая_сборка_новых_триграмм.png",
+    "use_case": "Appears when casting or studying 'Теоретическая сборка новых триграмм'.",
+    "trigger_event": "on_cast"
+  },
+  {
+    "name": "Маги-учёные, аналитики, проектировщики",
+    "school": "Факультет ИССЛЕДОВАТЕЛЕЙ (МАНА-ФИЗИКА)",
+    "description": "Маги-учёные, аналитики, проектировщики",
+    "visual_prompt": "Pixel art spell effect for university-level magic: 'Маги-учёные, аналитики, проектировщики'. SNES-style magical aura, element or flash with academic rune patterns. 128x128.",
+    "image_path": "lore/magic/assets/effects/university/магиученые_аналитики_проектировщики.png",
+    "use_case": "Appears when casting or studying 'Маги-учёные, аналитики, проектировщики'.",
+    "trigger_event": "on_cast"
+  },
+  {
+    "name": "Онейромантия, психоструктуры",
+    "school": "Факультет ПСИ-МАГИИ И СОЗНАНИЯ",
+    "description": "Онейромантия, психоструктуры",
+    "visual_prompt": "Pixel art spell effect for university-level magic: 'Онейромантия, психоструктуры'. SNES-style magical aura, element or flash with academic rune patterns. 128x128.",
+    "image_path": "lore/magic/assets/effects/university/онейромантия_психоструктуры.png",
+    "use_case": "Appears when casting or studying 'Онейромантия, психоструктуры'.",
+    "trigger_event": "on_cast"
+  },
+  {
+    "name": "Изучение снов, предчувствий и магии сна",
+    "school": "Факультет ПСИ-МАГИИ И СОЗНАНИЯ",
+    "description": "Изучение снов, предчувствий и магии сна",
+    "visual_prompt": "Pixel art spell effect for university-level magic: 'Изучение снов, предчувствий и магии сна'. SNES-style magical aura, element or flash with academic rune patterns. 128x128.",
+    "image_path": "lore/magic/assets/effects/university/изучение_снов_предчувствий_и_магии_сна.png",
+    "use_case": "Appears when casting or studying 'Изучение снов, предчувствий и магии сна'.",
+    "trigger_event": "on_cast"
+  },
+  {
+    "name": "Работа с сознанием, памятью, речевыми аномалиями",
+    "school": "Факультет ПСИ-МАГИИ И СОЗНАНИЯ",
+    "description": "Работа с сознанием, памятью, речевыми аномалиями",
+    "visual_prompt": "Pixel art spell effect for university-level magic: 'Работа с сознанием, памятью, речевыми аномалиями'. SNES-style magical aura, element or flash with academic rune patterns. 128x128.",
+    "image_path": "lore/magic/assets/effects/university/работа_с_сознанием_памятью_речевыми_аномалиями.png",
+    "use_case": "Appears when casting or studying 'Работа с сознанием, памятью, речевыми аномалиями'.",
+    "trigger_event": "on_cast"
+  },
+  {
+    "name": "Метамагическое воздействие на восприятие",
+    "school": "Факультет ПСИ-МАГИИ И СОЗНАНИЯ",
+    "description": "Метамагическое воздействие на восприятие",
+    "visual_prompt": "Pixel art spell effect for university-level magic: 'Метамагическое воздействие на восприятие'. SNES-style magical aura, element or flash with academic rune patterns. 128x128.",
+    "image_path": "lore/magic/assets/effects/university/метамагическое_воздействие_на_восприятие.png",
+    "use_case": "Appears when casting or studying 'Метамагическое воздействие на восприятие'.",
+    "trigger_event": "on_cast"
+  },
+  {
+    "name": "Речевые формулы, старые языки, песнопения",
+    "school": "Факультет ВЕРБАЛЬНОЙ И РИТУАЛЬНОЙ МАГИИ",
+    "description": "Речевые формулы, старые языки, песнопения",
+    "visual_prompt": "Pixel art spell effect for university-level magic: 'Речевые формулы, старые языки, песнопения'. SNES-style magical aura, element or flash with academic rune patterns. 128x128.",
+    "image_path": "lore/magic/assets/effects/university/речевые_формулы_старые_языки_песнопения.png",
+    "use_case": "Appears when casting or studying 'Речевые формулы, старые языки, песнопения'.",
+    "trigger_event": "on_cast"
+  },
+  {
+    "name": "Стабилизация магии через звуковую резонансную волну",
+    "school": "Факультет ВЕРБАЛЬНОЙ И РИТУАЛЬНОЙ МАГИИ",
+    "description": "Стабилизация магии через звуковую резонансную волну",
+    "visual_prompt": "Pixel art spell effect for university-level magic: 'Стабилизация магии через звуковую резонансную волну'. SNES-style magical aura, element or flash with academic rune patterns. 128x128.",
+    "image_path": "lore/magic/assets/effects/university/стабилизация_магии_через_звуковую_резонансную_волну.png",
+    "use_case": "Appears when casting or studying 'Стабилизация магии через звуковую резонансную волну'.",
+    "trigger_event": "on_cast"
+  },
+  {
+    "name": "Мантры, магические поэмы, публичная магия",
+    "school": "Факультет ВЕРБАЛЬНОЙ И РИТУАЛЬНОЙ МАГИИ",
+    "description": "Мантры, магические поэмы, публичная магия",
+    "visual_prompt": "Pixel art spell effect for university-level magic: 'Мантры, магические поэмы, публичная магия'. SNES-style magical aura, element or flash with academic rune patterns. 128x128.",
+    "image_path": "lore/magic/assets/effects/university/мантры_магические_поэмы_публичная_магия.png",
+    "use_case": "Appears when casting or studying 'Мантры, магические поэмы, публичная магия'.",
+    "trigger_event": "on_cast"
+  },
+  {
+    "name": "Создание ритуальных формул под культы и богов",
+    "school": "Факультет ВЕРБАЛЬНОЙ И РИТУАЛЬНОЙ МАГИИ",
+    "description": "Создание ритуальных формул под культы и богов",
+    "visual_prompt": "Pixel art spell effect for university-level magic: 'Создание ритуальных формул под культы и богов'. SNES-style magical aura, element or flash with academic rune patterns. 128x128.",
+    "image_path": "lore/magic/assets/effects/university/создание_ритуальных_формул_под_культы_и_богов.png",
+    "use_case": "Appears when casting or studying 'Создание ритуальных формул под культы и богов'.",
+    "trigger_event": "on_cast"
+  }
+]

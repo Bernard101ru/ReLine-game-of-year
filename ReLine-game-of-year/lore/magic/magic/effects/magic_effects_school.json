@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Свет чаши",
+    "school": "Начальная магия",
+    "description": "Базовое школьное заклинание: Свет чаши. Используется в быту или на тренировках.",
+    "visual_prompt": "Pixel art magical effect for basic school spell 'Свет чаши'. Soft glowing SNES-style magic in simple form. 128x128.",
+    "image_path": "lore/magic/assets/effects/school/свет_чаши.png",
+    "use_case": "Displayed when casting basic magic: 'Свет чаши'.",
+    "trigger_event": "on_cast"
+  },
+  {
+    "name": "Искра очага",
+    "school": "Начальная магия",
+    "description": "Базовое школьное заклинание: Искра очага. Используется в быту или на тренировках.",
+    "visual_prompt": "Pixel art magical effect for basic school spell 'Искра очага'. Soft glowing SNES-style magic in simple form. 128x128.",
+    "image_path": "lore/magic/assets/effects/school/искра_очага.png",
+    "use_case": "Displayed when casting basic magic: 'Искра очага'.",
+    "trigger_event": "on_cast"
+  },
+  {
+    "name": "Лёгкое омовение",
+    "school": "Начальная магия",
+    "description": "Базовое школьное заклинание: Лёгкое омовение. Используется в быту или на тренировках.",
+    "visual_prompt": "Pixel art magical effect for basic school spell 'Лёгкое омовение'. Soft glowing SNES-style magic in simple form. 128x128.",
+    "image_path": "lore/magic/assets/effects/school/легкое_омовение.png",
+    "use_case": "Displayed when casting basic magic: 'Лёгкое омовение'.",
+    "trigger_event": "on_cast"
+  }
+]

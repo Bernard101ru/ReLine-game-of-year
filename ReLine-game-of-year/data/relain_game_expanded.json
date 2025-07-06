@@ -1,0 +1,1908 @@
+{
+  "scenes": {
+    "garden_hollow": "assets/scenes/garden_hollow.png",
+    "library_depths": "assets/scenes/library_depths.png",
+    "valley_depths": "assets/scenes/valley_depths.png",
+    "tower_sunset": "assets/scenes/tower_sunset.png",
+    "grave_ruins": "assets/scenes/grave_ruins.png",
+    "hall_glow": "assets/scenes/hall_glow.png",
+    "sanctum_glow": "assets/scenes/sanctum_glow.png",
+    "garden_glow": "assets/scenes/garden_glow.png",
+    "forest_storm": "assets/scenes/forest_storm.png",
+    "forest_glow": "assets/scenes/forest_glow.png",
+    "bridge_sunset": "assets/scenes/bridge_sunset.png",
+    "shrine_mist": "assets/scenes/shrine_mist.png",
+    "library_storm": "assets/scenes/library_storm.png",
+    "hall_twilight": "assets/scenes/hall_twilight.png",
+    "sanctum_ruins": "assets/scenes/sanctum_ruins.png",
+    "valley_hollow": "assets/scenes/valley_hollow.png",
+    "island_storm": "assets/scenes/island_storm.png",
+    "observatory_night": "assets/scenes/observatory_night.png",
+    "market_ruins": "assets/scenes/market_ruins.png",
+    "docks_glow": "assets/scenes/docks_glow.png",
+    "arena_depths": "assets/scenes/arena_depths.png",
+    "forge_depths": "assets/scenes/forge_depths.png",
+    "docks_ruins": "assets/scenes/docks_ruins.png",
+    "library_dawn": "assets/scenes/library_dawn.png",
+    "library_ruins": "assets/scenes/library_ruins.png",
+    "market_dawn": "assets/scenes/market_dawn.png",
+    "island_hollow": "assets/scenes/island_hollow.png",
+    "forest_hollow": "assets/scenes/forest_hollow.png",
+    "library_mist": "assets/scenes/library_mist.png",
+    "bridge_twilight": "assets/scenes/bridge_twilight.png",
+    "sanctum_dawn": "assets/scenes/sanctum_dawn.png",
+    "grave_twilight": "assets/scenes/grave_twilight.png",
+    "arena_sunset": "assets/scenes/arena_sunset.png",
+    "mountain_hollow": "assets/scenes/mountain_hollow.png",
+    "mountain_twilight": "assets/scenes/mountain_twilight.png",
+    "forest_twilight": "assets/scenes/forest_twilight.png",
+    "forest_depths": "assets/scenes/forest_depths.png",
+    "island_twilight": "assets/scenes/island_twilight.png",
+    "valley_ruins": "assets/scenes/valley_ruins.png",
+    "gates_ruins": "assets/scenes/gates_ruins.png",
+    "shrine_ruins": "assets/scenes/shrine_ruins.png",
+    "shrine_sunset": "assets/scenes/shrine_sunset.png",
+    "valley_glow": "assets/scenes/valley_glow.png",
+    "mountain_ruins": "assets/scenes/mountain_ruins.png",
+    "gates_night": "assets/scenes/gates_night.png",
+    "island_glow": "assets/scenes/island_glow.png",
+    "garden_storm": "assets/scenes/garden_storm.png",
+    "observatory_sunset": "assets/scenes/observatory_sunset.png",
+    "grave_depths": "assets/scenes/grave_depths.png",
+    "docks_sunset": "assets/scenes/docks_sunset.png",
+    "island_night": "assets/scenes/island_night.png",
+    "gates_hollow": "assets/scenes/gates_hollow.png",
+    "garden_night": "assets/scenes/garden_night.png",
+    "hall_hollow": "assets/scenes/hall_hollow.png",
+    "garden_twilight": "assets/scenes/garden_twilight.png",
+    "valley_mist": "assets/scenes/valley_mist.png",
+    "city_mist": "assets/scenes/city_mist.png",
+    "island_ruins": "assets/scenes/island_ruins.png",
+    "temple_dawn": "assets/scenes/temple_dawn.png",
+    "grave_hollow": "assets/scenes/grave_hollow.png",
+    "observatory_glow": "assets/scenes/observatory_glow.png",
+    "forge_sunset": "assets/scenes/forge_sunset.png",
+    "docks_depths": "assets/scenes/docks_depths.png",
+    "mountain_night": "assets/scenes/mountain_night.png",
+    "docks_hollow": "assets/scenes/docks_hollow.png",
+    "arena_dawn": "assets/scenes/arena_dawn.png",
+    "garden_sunset": "assets/scenes/garden_sunset.png",
+    "shrine_night": "assets/scenes/shrine_night.png",
+    "valley_twilight": "assets/scenes/valley_twilight.png",
+    "bridge_depths": "assets/scenes/bridge_depths.png",
+    "shrine_hollow": "assets/scenes/shrine_hollow.png",
+    "temple_mist": "assets/scenes/temple_mist.png",
+    "tower_storm": "assets/scenes/tower_storm.png",
+    "forest_dawn": "assets/scenes/forest_dawn.png",
+    "city_hollow": "assets/scenes/city_hollow.png",
+    "market_mist": "assets/scenes/market_mist.png",
+    "observatory_ruins": "assets/scenes/observatory_ruins.png",
+    "shrine_dawn": "assets/scenes/shrine_dawn.png",
+    "library_sunset": "assets/scenes/library_sunset.png",
+    "forest_mist": "assets/scenes/forest_mist.png",
+    "bridge_storm": "assets/scenes/bridge_storm.png",
+    "forge_twilight": "assets/scenes/forge_twilight.png",
+    "temple_night": "assets/scenes/temple_night.png",
+    "grave_sunset": "assets/scenes/grave_sunset.png",
+    "forge_mist": "assets/scenes/forge_mist.png",
+    "sanctum_night": "assets/scenes/sanctum_night.png",
+    "docks_storm": "assets/scenes/docks_storm.png",
+    "sanctum_depths": "assets/scenes/sanctum_depths.png",
+    "garden_mist": "assets/scenes/garden_mist.png",
+    "arena_ruins": "assets/scenes/arena_ruins.png",
+    "library_hollow": "assets/scenes/library_hollow.png",
+    "arena_glow": "assets/scenes/arena_glow.png",
+    "mountain_glow": "assets/scenes/mountain_glow.png",
+    "tower_ruins": "assets/scenes/tower_ruins.png",
+    "forge_glow": "assets/scenes/forge_glow.png",
+    "tower_twilight": "assets/scenes/tower_twilight.png",
+    "bridge_glow": "assets/scenes/bridge_glow.png",
+    "tower_dawn": "assets/scenes/tower_dawn.png",
+    "arena_twilight": "assets/scenes/arena_twilight.png",
+    "temple_ruins": "assets/scenes/temple_ruins.png",
+    "temple_depths": "assets/scenes/temple_depths.png",
+    "gates_glow": "assets/scenes/gates_glow.png",
+    "sanctum_storm": "assets/scenes/sanctum_storm.png",
+    "gates_sunset": "assets/scenes/gates_sunset.png",
+    "forest_night": "assets/scenes/forest_night.png",
+    "tower_hollow": "assets/scenes/tower_hollow.png",
+    "forge_dawn": "assets/scenes/forge_dawn.png",
+    "forest_ruins": "assets/scenes/forest_ruins.png",
+    "valley_dawn": "assets/scenes/valley_dawn.png",
+    "grave_mist": "assets/scenes/grave_mist.png",
+    "valley_storm": "assets/scenes/valley_storm.png",
+    "bridge_night": "assets/scenes/bridge_night.png",
+    "temple_hollow": "assets/scenes/temple_hollow.png",
+    "hall_night": "assets/scenes/hall_night.png",
+    "hall_storm": "assets/scenes/hall_storm.png",
+    "bridge_ruins": "assets/scenes/bridge_ruins.png",
+    "city_dawn": "assets/scenes/city_dawn.png",
+    "temple_glow": "assets/scenes/temple_glow.png",
+    "city_storm": "assets/scenes/city_storm.png",
+    "bridge_dawn": "assets/scenes/bridge_dawn.png",
+    "garden_depths": "assets/scenes/garden_depths.png",
+    "observatory_storm": "assets/scenes/observatory_storm.png",
+    "bridge_mist": "assets/scenes/bridge_mist.png",
+    "hall_ruins": "assets/scenes/hall_ruins.png",
+    "market_depths": "assets/scenes/market_depths.png",
+    "temple_storm": "assets/scenes/temple_storm.png",
+    "shrine_depths": "assets/scenes/shrine_depths.png",
+    "city_night": "assets/scenes/city_night.png",
+    "mountain_storm": "assets/scenes/mountain_storm.png",
+    "hall_dawn": "assets/scenes/hall_dawn.png",
+    "mountain_depths": "assets/scenes/mountain_depths.png",
+    "market_sunset": "assets/scenes/market_sunset.png",
+    "tower_depths": "assets/scenes/tower_depths.png",
+    "city_twilight": "assets/scenes/city_twilight.png",
+    "forest_sunset": "assets/scenes/forest_sunset.png",
+    "observatory_depths": "assets/scenes/observatory_depths.png",
+    "island_mist": "assets/scenes/island_mist.png",
+    "market_storm": "assets/scenes/market_storm.png",
+    "sanctum_mist": "assets/scenes/sanctum_mist.png",
+    "mountain_mist": "assets/scenes/mountain_mist.png",
+    "market_night": "assets/scenes/market_night.png",
+    "valley_night": "assets/scenes/valley_night.png",
+    "valley_sunset": "assets/scenes/valley_sunset.png",
+    "gates_twilight": "assets/scenes/gates_twilight.png",
+    "gates_dawn": "assets/scenes/gates_dawn.png",
+    "shrine_twilight": "assets/scenes/shrine_twilight.png",
+    "arena_hollow": "assets/scenes/arena_hollow.png",
+    "temple_sunset": "assets/scenes/temple_sunset.png",
+    "grave_dawn": "assets/scenes/grave_dawn.png",
+    "island_dawn": "assets/scenes/island_dawn.png",
+    "docks_mist": "assets/scenes/docks_mist.png",
+    "docks_twilight": "assets/scenes/docks_twilight.png",
+    "shrine_storm": "assets/scenes/shrine_storm.png",
+    "arena_storm": "assets/scenes/arena_storm.png",
+    "sanctum_twilight": "assets/scenes/sanctum_twilight.png",
+    "city_ruins": "assets/scenes/city_ruins.png",
+    "shrine_glow": "assets/scenes/shrine_glow.png",
+    "forge_ruins": "assets/scenes/forge_ruins.png",
+    "garden_ruins": "assets/scenes/garden_ruins.png",
+    "sanctum_sunset": "assets/scenes/sanctum_sunset.png",
+    "arena_night": "assets/scenes/arena_night.png",
+    "city_depths": "assets/scenes/city_depths.png",
+    "island_sunset": "assets/scenes/island_sunset.png",
+    "bridge_hollow": "assets/scenes/bridge_hollow.png",
+    "mountain_sunset": "assets/scenes/mountain_sunset.png",
+    "arena_mist": "assets/scenes/arena_mist.png",
+    "gates_depths": "assets/scenes/gates_depths.png",
+    "market_glow": "assets/scenes/market_glow.png",
+    "forge_hollow": "assets/scenes/forge_hollow.png",
+    "forge_storm": "assets/scenes/forge_storm.png",
+    "library_glow": "assets/scenes/library_glow.png",
+    "hall_mist": "assets/scenes/hall_mist.png",
+    "city_sunset": "assets/scenes/city_sunset.png",
+    "city_glow": "assets/scenes/city_glow.png",
+    "tower_glow": "assets/scenes/tower_glow.png",
+    "grave_storm": "assets/scenes/grave_storm.png",
+    "gates_storm": "assets/scenes/gates_storm.png",
+    "observatory_dawn": "assets/scenes/observatory_dawn.png",
+    "docks_dawn": "assets/scenes/docks_dawn.png",
+    "docks_night": "assets/scenes/docks_night.png",
+    "observatory_mist": "assets/scenes/observatory_mist.png",
+    "market_hollow": "assets/scenes/market_hollow.png",
+    "garden_dawn": "assets/scenes/garden_dawn.png",
+    "hall_depths": "assets/scenes/hall_depths.png",
+    "mountain_dawn": "assets/scenes/mountain_dawn.png",
+    "library_twilight": "assets/scenes/library_twilight.png",
+    "grave_glow": "assets/scenes/grave_glow.png",
+    "tower_mist": "assets/scenes/tower_mist.png",
+    "tower_night": "assets/scenes/tower_night.png",
+    "island_depths": "assets/scenes/island_depths.png",
+    "grave_night": "assets/scenes/grave_night.png",
+    "market_twilight": "assets/scenes/market_twilight.png",
+    "temple_twilight": "assets/scenes/temple_twilight.png",
+    "sanctum_hollow": "assets/scenes/sanctum_hollow.png",
+    "observatory_hollow": "assets/scenes/observatory_hollow.png",
+    "library_night": "assets/scenes/library_night.png",
+    "gates_mist": "assets/scenes/gates_mist.png",
+    "forge_night": "assets/scenes/forge_night.png",
+    "observatory_twilight": "assets/scenes/observatory_twilight.png",
+    "hall_sunset": "assets/scenes/hall_sunset.png"
+  },
+  "monsters": [
+    {
+      "monster": "Fire_Salamander",
+      "image_path": "monsters/Fire_Salamander.png"
+    },
+    {
+      "monster": "Crystal_Golem",
+      "image_path": "monsters/Crystal_Golem.png"
+    },
+    {
+      "monster": "Forest_Spirit",
+      "image_path": "monsters/Forest_Spirit.png"
+    },
+    {
+      "monster": "Ancient_Treant",
+      "image_path": "monsters/Ancient_Treant.png"
+    },
+    {
+      "monster": "Cave_Spider",
+      "image_path": "monsters/Cave_Spider.png"
+    },
+    {
+      "monster": "Storm_Drake",
+      "image_path": "monsters/Storm_Drake.png"
+    },
+    {
+      "monster": "Shadow_Hound",
+      "image_path": "monsters/Shadow_Hound.png"
+    },
+    {
+      "monster": "Ice_Wyrm",
+      "image_path": "monsters/Ice_Wyrm.png"
+    },
+    {
+      "monster": "Rock_Elemental",
+      "image_path": "monsters/Rock_Elemental.png"
+    },
+    {
+      "monster": "Poison_Toad",
+      "image_path": "monsters/Poison_Toad.png"
+    },
+    {
+      "monster": "Ghostly_Deer",
+      "image_path": "monsters/Ghostly_Deer.png"
+    },
+    {
+      "monster": "Thunder_Griffin",
+      "image_path": "monsters/Thunder_Griffin.png"
+    },
+    {
+      "monster": "Blight_Bat",
+      "image_path": "monsters/Blight_Bat.png"
+    },
+    {
+      "monster": "Bone_Serpent",
+      "image_path": "monsters/Bone_Serpent.png"
+    },
+    {
+      "monster": "Volcanic_Beetle",
+      "image_path": "monsters/Volcanic_Beetle.png"
+    },
+    {
+      "monster": "Snow_Lynx",
+      "image_path": "monsters/Snow_Lynx.png"
+    },
+    {
+      "monster": "Ash_Wolf",
+      "image_path": "monsters/Ash_Wolf.png"
+    },
+    {
+      "monster": "Wisp",
+      "image_path": "monsters/Wisp.png"
+    },
+    {
+      "monster": "Sand_Scorpion",
+      "image_path": "monsters/Sand_Scorpion.png"
+    },
+    {
+      "monster": "Lava_Slug",
+      "image_path": "monsters/Lava_Slug.png"
+    },
+    {
+      "monster": "Nether_Moth",
+      "image_path": "monsters/Nether_Moth.png"
+    },
+    {
+      "monster": "Marsh_Lurker",
+      "image_path": "monsters/Marsh_Lurker.png"
+    },
+    {
+      "monster": "Frost_Fox",
+      "image_path": "monsters/Frost_Fox.png"
+    },
+    {
+      "monster": "Ember_Basilisk",
+      "image_path": "monsters/Ember_Basilisk.png"
+    },
+    {
+      "monster": "Sky_Ray",
+      "image_path": "monsters/Sky_Ray.png"
+    },
+    {
+      "monster": "Bog_Creeper",
+      "image_path": "monsters/Bog_Creeper.png"
+    },
+    {
+      "monster": "Sunscale_Lizard",
+      "image_path": "monsters/Sunscale_Lizard.png"
+    },
+    {
+      "monster": "Crystal_Stag",
+      "image_path": "monsters/Crystal_Stag.png"
+    },
+    {
+      "monster": "Fungal_Warden",
+      "image_path": "monsters/Fungal_Warden.png"
+    },
+    {
+      "monster": "Moonshade_Panther",
+      "image_path": "monsters/Moonshade_Panther.png"
+    },
+    {
+      "monster": "Iron_Beak",
+      "image_path": "monsters/Iron_Beak.png"
+    },
+    {
+      "monster": "Whisper_Owl",
+      "image_path": "monsters/Whisper_Owl.png"
+    },
+    {
+      "monster": "Duskfang_Viper",
+      "image_path": "monsters/Duskfang_Viper.png"
+    },
+    {
+      "monster": "Shimmer_Frog",
+      "image_path": "monsters/Shimmer_Frog.png"
+    },
+    {
+      "monster": "Runestone_Beetle",
+      "image_path": "monsters/Runestone_Beetle.png"
+    },
+    {
+      "monster": "Glacier_Elk",
+      "image_path": "monsters/Glacier_Elk.png"
+    },
+    {
+      "monster": "Bloodroot_Hydra",
+      "image_path": "monsters/Bloodroot_Hydra.png"
+    },
+    {
+      "monster": "Spark_Spider",
+      "image_path": "monsters/Spark_Spider.png"
+    },
+    {
+      "monster": "Wind_Serpent",
+      "image_path": "monsters/Wind_Serpent.png"
+    },
+    {
+      "monster": "Thunder_Elk",
+      "image_path": "monsters/Thunder_Elk.png"
+    },
+    {
+      "monster": "Voidling",
+      "image_path": "monsters/Voidling.png"
+    },
+    {
+      "monster": "Silt_Serpent",
+      "image_path": "monsters/Silt_Serpent.png"
+    },
+    {
+      "monster": "Quicksilver_Lynx",
+      "image_path": "monsters/Quicksilver_Lynx.png"
+    },
+    {
+      "monster": "Obsidian_Hare",
+      "image_path": "monsters/Obsidian_Hare.png"
+    },
+    {
+      "monster": "Glowcap_Snail",
+      "image_path": "monsters/Glowcap_Snail.png"
+    },
+    {
+      "monster": "Swamp_Drake",
+      "image_path": "monsters/Swamp_Drake.png"
+    },
+    {
+      "monster": "Blazehorn",
+      "image_path": "monsters/Blazehorn.png"
+    },
+    {
+      "monster": "Thornhide_Boar",
+      "image_path": "monsters/Thornhide_Boar.png"
+    },
+    {
+      "monster": "Rift_Squirrel",
+      "image_path": "monsters/Rift_Squirrel.png"
+    },
+    {
+      "monster": "Mist_Wyrmling",
+      "image_path": "monsters/Mist_Wyrmling.png"
+    },
+    {
+      "monster": "Eclipse_Raven",
+      "image_path": "monsters/Eclipse_Raven.png"
+    },
+    {
+      "monster": "Frostscale",
+      "image_path": "monsters/Frostscale.png"
+    },
+    {
+      "monster": "Emberling",
+      "image_path": "monsters/Emberling.png"
+    },
+    {
+      "monster": "Cinder_Rat",
+      "image_path": "monsters/Cinder_Rat.png"
+    },
+    {
+      "monster": "Stoneshell_Crab",
+      "image_path": "monsters/Stoneshell_Crab.png"
+    },
+    {
+      "monster": "Star_Serpent",
+      "image_path": "monsters/Star_Serpent.png"
+    },
+    {
+      "monster": "Gloom_Rat",
+      "image_path": "monsters/Gloom_Rat.png"
+    },
+    {
+      "monster": "Twilight_Gecko",
+      "image_path": "monsters/Twilight_Gecko.png"
+    },
+    {
+      "monster": "Ashscale",
+      "image_path": "monsters/Ashscale.png"
+    },
+    {
+      "monster": "Cavern_Dweller",
+      "image_path": "monsters/Cavern_Dweller.png"
+    },
+    {
+      "monster": "Rootling",
+      "image_path": "monsters/Rootling.png"
+    },
+    {
+      "monster": "Grave_Tortoise",
+      "image_path": "monsters/Grave_Tortoise.png"
+    },
+    {
+      "monster": "Dust_Moth",
+      "image_path": "monsters/Dust_Moth.png"
+    },
+    {
+      "monster": "Sunflare_Cobra",
+      "image_path": "monsters/Sunflare_Cobra.png"
+    },
+    {
+      "monster": "Hollow_Beetle",
+      "image_path": "monsters/Hollow_Beetle.png"
+    },
+    {
+      "monster": "Gust_Bat",
+      "image_path": "monsters/Gust_Bat.png"
+    },
+    {
+      "monster": "Coral_Eel",
+      "image_path": "monsters/Coral_Eel.png"
+    },
+    {
+      "monster": "Rockhide_Ram",
+      "image_path": "monsters/Rockhide_Ram.png"
+    },
+    {
+      "monster": "Crimson_Newt",
+      "image_path": "monsters/Crimson_Newt.png"
+    },
+    {
+      "monster": "Tangle_Vine",
+      "image_path": "monsters/Tangle_Vine.png"
+    },
+    {
+      "monster": "Marrow_Prowler",
+      "image_path": "monsters/Marrow_Prowler.png"
+    },
+    {
+      "monster": "Frostcap_Hare",
+      "image_path": "monsters/Frostcap_Hare.png"
+    },
+    {
+      "monster": "Skyhorn",
+      "image_path": "monsters/Skyhorn.png"
+    },
+    {
+      "monster": "Flicker_Bug",
+      "image_path": "monsters/Flicker_Bug.png"
+    },
+    {
+      "monster": "Barkfang",
+      "image_path": "monsters/Barkfang.png"
+    },
+    {
+      "monster": "Sapling_Sentinel",
+      "image_path": "monsters/Sapling_Sentinel.png"
+    },
+    {
+      "monster": "Glimmer_Wasp",
+      "image_path": "monsters/Glimmer_Wasp.png"
+    },
+    {
+      "monster": "Wyrm_Larva",
+      "image_path": "monsters/Wyrm_Larva.png"
+    },
+    {
+      "monster": "Ember_Scarab",
+      "image_path": "monsters/Ember_Scarab.png"
+    },
+    {
+      "monster": "Frost_Owl",
+      "image_path": "monsters/Frost_Owl.png"
+    },
+    {
+      "monster": "Glowtail_Lemur",
+      "image_path": "monsters/Glowtail_Lemur.png"
+    },
+    {
+      "monster": "Dune_Hopper",
+      "image_path": "monsters/Dune_Hopper.png"
+    },
+    {
+      "monster": "Wisp_Rat",
+      "image_path": "monsters/Wisp_Rat.png"
+    },
+    {
+      "monster": "Spiketooth_Mole",
+      "image_path": "monsters/Spiketooth_Mole.png"
+    },
+    {
+      "monster": "Shadowfin",
+      "image_path": "monsters/Shadowfin.png"
+    },
+    {
+      "monster": "Lichen_Lurker",
+      "image_path": "monsters/Lichen_Lurker.png"
+    },
+    {
+      "monster": "Burning_Imp",
+      "image_path": "monsters/Burning_Imp.png"
+    },
+    {
+      "monster": "Boulder_Beetle",
+      "image_path": "monsters/Boulder_Beetle.png"
+    },
+    {
+      "monster": "Mycelium_Drake",
+      "image_path": "monsters/Mycelium_Drake.png"
+    },
+    {
+      "monster": "Moonroot",
+      "image_path": "monsters/Moonroot.png"
+    },
+    {
+      "monster": "Thundertail",
+      "image_path": "monsters/Thundertail.png"
+    },
+    {
+      "monster": "Gloam_Adder",
+      "image_path": "monsters/Gloam_Adder.png"
+    },
+    {
+      "monster": "Emberjaw",
+      "image_path": "monsters/Emberjaw.png"
+    },
+    {
+      "monster": "Cragcat",
+      "image_path": "monsters/Cragcat.png"
+    },
+    {
+      "monster": "Ash_Stalker",
+      "image_path": "monsters/Ash_Stalker.png"
+    },
+    {
+      "monster": "Frosthorn_Yak",
+      "image_path": "monsters/Frosthorn_Yak.png"
+    },
+    {
+      "monster": "Duskridge_Bear",
+      "image_path": "monsters/Duskridge_Bear.png"
+    },
+    {
+      "monster": "Spark_Beetle",
+      "image_path": "monsters/Spark_Beetle.png"
+    },
+    {
+      "monster": "Crystal_Cobra",
+      "image_path": "monsters/Crystal_Cobra.png"
+    },
+    {
+      "monster": "Void_Pup",
+      "image_path": "monsters/Void_Pup.png"
+    },
+    {
+      "monster": "Mist_Seraph",
+      "image_path": "monsters/Mist_Seraph.png"
+    },
+    {
+      "monster": "Rootfang",
+      "image_path": "monsters/Rootfang.png"
+    },
+    {
+      "monster": "Twilight_Crawler",
+      "image_path": "monsters/Twilight_Crawler.png"
+    },
+    {
+      "monster": "Fire_Salamander",
+      "image_path": "monsters/Fire_Salamander.png"
+    },
+    {
+      "monster": "Crystal_Golem_Made_Of_Glowing_Blue_Crystals,_Standing_In_A_Sparkling_Crystal_Forest,_16-Bit_Fantasy_Rpg_Sprite_Style,_Vibrant_Colors,_Isolated_Simple_Background",
+      "image_path": "monsters/Crystal_Golem_Made_Of_Glowing_Blue_Crystals,_Standing_In_A_Sparkling_Crystal_Forest,_16-Bit_Fantasy_Rpg_Sprite_Style,_Vibrant_Colors,_Isolated_Simple_Background.png"
+    },
+    {
+      "monster": "Mystical_Forest_Spirit_Made_Of_Leaves_And_Light,_Floating_In_An_Ancient_Woodland_Grove,_16-Bit_Fantasy_Rpg_Sprite_Style,_Vibrant_Colors,_Isolated_Simple_Background",
+      "image_path": "monsters/Mystical_Forest_Spirit_Made_Of_Leaves_And_Light,_Floating_In_An_Ancient_Woodland_Grove,_16-Bit_Fantasy_Rpg_Sprite_Style,_Vibrant_Colors,_Isolated_Simple_Background.png"
+    },
+    {
+      "monster": "Ancient_Treant",
+      "image_path": "monsters/Ancient_Treant.png"
+    },
+    {
+      "monster": "Giant_Cave_Spider",
+      "image_path": "monsters/Giant_Cave_Spider.png"
+    },
+    {
+      "monster": "Storm_Drake",
+      "image_path": "monsters/Storm_Drake.png"
+    },
+    {
+      "monster": "Shadow_Hound",
+      "image_path": "monsters/Shadow_Hound.png"
+    },
+    {
+      "monster": "Serpentine_Ice_Wyrm_Coiled_Around_A_Frozen_Shrine_In_The_Sacred_Snowy_Grove,_16-Bit_Fantasy_Rpg_Sprite_Style,_Vibrant_Colors,_Isolated_Simple_Background",
+      "image_path": "monsters/Serpentine_Ice_Wyrm_Coiled_Around_A_Frozen_Shrine_In_The_Sacred_Snowy_Grove,_16-Bit_Fantasy_Rpg_Sprite_Style,_Vibrant_Colors,_Isolated_Simple_Background.png"
+    },
+    {
+      "monster": "Rock_Elemental",
+      "image_path": "monsters/Rock_Elemental.png"
+    },
+    {
+      "monster": "Toxic_Poison_Toad",
+      "image_path": "monsters/Toxic_Poison_Toad.png"
+    },
+    {
+      "monster": "Phantom-Like_Deer",
+      "image_path": "monsters/Phantom-Like_Deer.png"
+    },
+    {
+      "monster": "Thunder_Griffin",
+      "image_path": "monsters/Thunder_Griffin.png"
+    },
+    {
+      "monster": "Blight_Bat",
+      "image_path": "monsters/Blight_Bat.png"
+    },
+    {
+      "monster": "Bone_Serpent",
+      "image_path": "monsters/Bone_Serpent.png"
+    },
+    {
+      "monster": "Obsidian_Volcanic_Beetle",
+      "image_path": "monsters/Obsidian_Volcanic_Beetle.png"
+    },
+    {
+      "monster": "Frost-Coated_Snow_Lynx",
+      "image_path": "monsters/Frost-Coated_Snow_Lynx.png"
+    },
+    {
+      "monster": "Ashen-Furred_Wolf",
+      "image_path": "monsters/Ashen-Furred_Wolf.png"
+    },
+    {
+      "monster": "Glowing_Blue_Wisp_Floating_Above_Sacred_Grove_Stones,_Pulsing",
+      "image_path": "monsters/Glowing_Blue_Wisp_Floating_Above_Sacred_Grove_Stones,_Pulsing.png"
+    },
+    {
+      "monster": "Sand_Scorpion",
+      "image_path": "monsters/Sand_Scorpion.png"
+    },
+    {
+      "monster": "Lava_Slug_Leaving_Fiery_Trails_Across_Cracked_Obsidian_By_A_Moonlit_Lake,_16-Bit_Fantasy_Rpg_Sprite_Style,_Vibrant_Colors,_Isolated_Simple_Background",
+      "image_path": "monsters/Lava_Slug_Leaving_Fiery_Trails_Across_Cracked_Obsidian_By_A_Moonlit_Lake,_16-Bit_Fantasy_Rpg_Sprite_Style,_Vibrant_Colors,_Isolated_Simple_Background.png"
+    },
+    {
+      "monster": "Fire_Salamander",
+      "image_path": "monsters/Fire_Salamander.png"
+    },
+    {
+      "monster": "Crystal_Golem_Made_Of_Glowing_Blue_Crystals,_Standing_In_A_Sparkling_Crystal_Forest,_16-Bit_Fantasy_Rpg_Sprite_Style,_Vibrant_Colors,_Isolated_Simple_Background",
+      "image_path": "monsters/Crystal_Golem_Made_Of_Glowing_Blue_Crystals,_Standing_In_A_Sparkling_Crystal_Forest,_16-Bit_Fantasy_Rpg_Sprite_Style,_Vibrant_Colors,_Isolated_Simple_Background.png"
+    },
+    {
+      "monster": "Mystical_Forest_Spirit_Made_Of_Leaves_And_Light,_Floating_In_An_Ancient_Woodland_Grove,_16-Bit_Fantasy_Rpg_Sprite_Style,_Vibrant_Colors,_Isolated_Simple_Background",
+      "image_path": "monsters/Mystical_Forest_Spirit_Made_Of_Leaves_And_Light,_Floating_In_An_Ancient_Woodland_Grove,_16-Bit_Fantasy_Rpg_Sprite_Style,_Vibrant_Colors,_Isolated_Simple_Background.png"
+    },
+    {
+      "monster": "Ancient_Treant",
+      "image_path": "monsters/Ancient_Treant.png"
+    },
+    {
+      "monster": "Giant_Cave_Spider",
+      "image_path": "monsters/Giant_Cave_Spider.png"
+    },
+    {
+      "monster": "Storm_Drake",
+      "image_path": "monsters/Storm_Drake.png"
+    },
+    {
+      "monster": "Shadow_Hound",
+      "image_path": "monsters/Shadow_Hound.png"
+    },
+    {
+      "monster": "Serpentine_Ice_Wyrm_Coiled_Around_A_Frozen_Shrine_In_The_Sacred_Snowy_Grove,_16-Bit_Fantasy_Rpg_Sprite_Style,_Vibrant_Colors,_Isolated_Simple_Background",
+      "image_path": "monsters/Serpentine_Ice_Wyrm_Coiled_Around_A_Frozen_Shrine_In_The_Sacred_Snowy_Grove,_16-Bit_Fantasy_Rpg_Sprite_Style,_Vibrant_Colors,_Isolated_Simple_Background.png"
+    },
+    {
+      "monster": "Rock_Elemental",
+      "image_path": "monsters/Rock_Elemental.png"
+    },
+    {
+      "monster": "Toxic_Poison_Toad",
+      "image_path": "monsters/Toxic_Poison_Toad.png"
+    },
+    {
+      "monster": "Phantom-Like_Deer",
+      "image_path": "monsters/Phantom-Like_Deer.png"
+    },
+    {
+      "monster": "Thunder_Griffin",
+      "image_path": "monsters/Thunder_Griffin.png"
+    },
+    {
+      "monster": "Blight_Bat",
+      "image_path": "monsters/Blight_Bat.png"
+    },
+    {
+      "monster": "Bone_Serpent",
+      "image_path": "monsters/Bone_Serpent.png"
+    },
+    {
+      "monster": "Obsidian_Volcanic_Beetle",
+      "image_path": "monsters/Obsidian_Volcanic_Beetle.png"
+    },
+    {
+      "monster": "Frost-Coated_Snow_Lynx",
+      "image_path": "monsters/Frost-Coated_Snow_Lynx.png"
+    },
+    {
+      "monster": "Ashen-Furred_Wolf",
+      "image_path": "monsters/Ashen-Furred_Wolf.png"
+    },
+    {
+      "monster": "Glowing_Blue_Wisp_Floating_Above_Sacred_Grove_Stones,_Pulsing",
+      "image_path": "monsters/Glowing_Blue_Wisp_Floating_Above_Sacred_Grove_Stones,_Pulsing.png"
+    },
+    {
+      "monster": "Sand_Scorpion",
+      "image_path": "monsters/Sand_Scorpion.png"
+    },
+    {
+      "monster": "Lava_Slug_Leaving_Fiery_Trails_Across_Cracked_Obsidian_By_A_Moonlit_Lake,_16-Bit_Fantasy_Rpg_Sprite_Style,_Vibrant_Colors,_Isolated_Simple_Background",
+      "image_path": "monsters/Lava_Slug_Leaving_Fiery_Trails_Across_Cracked_Obsidian_By_A_Moonlit_Lake,_16-Bit_Fantasy_Rpg_Sprite_Style,_Vibrant_Colors,_Isolated_Simple_Background.png"
+    },
+    {
+      "monster": "Fire_Salamander",
+      "image_path": "monsters/Fire_Salamander.png"
+    },
+    {
+      "monster": "Crystal_Golem_Made_Of_Glowing_Blue_Crystals,_Standing_In_A_Sparkling_Crystal_Forest,_16-Bit_Fantasy_Rpg_Sprite_Style,_Vibrant_Colors,_Isolated_Simple_Background",
+      "image_path": "monsters/Crystal_Golem_Made_Of_Glowing_Blue_Crystals,_Standing_In_A_Sparkling_Crystal_Forest,_16-Bit_Fantasy_Rpg_Sprite_Style,_Vibrant_Colors,_Isolated_Simple_Background.png"
+    },
+    {
+      "monster": "Mystical_Forest_Spirit_Made_Of_Leaves_And_Light,_Floating_In_An_Ancient_Woodland_Grove,_16-Bit_Fantasy_Rpg_Sprite_Style,_Vibrant_Colors,_Isolated_Simple_Background",
+      "image_path": "monsters/Mystical_Forest_Spirit_Made_Of_Leaves_And_Light,_Floating_In_An_Ancient_Woodland_Grove,_16-Bit_Fantasy_Rpg_Sprite_Style,_Vibrant_Colors,_Isolated_Simple_Background.png"
+    },
+    {
+      "monster": "Ancient_Treant",
+      "image_path": "monsters/Ancient_Treant.png"
+    },
+    {
+      "monster": "Giant_Cave_Spider",
+      "image_path": "monsters/Giant_Cave_Spider.png"
+    },
+    {
+      "monster": "Storm_Drake",
+      "image_path": "monsters/Storm_Drake.png"
+    },
+    {
+      "monster": "Shadow_Hound",
+      "image_path": "monsters/Shadow_Hound.png"
+    },
+    {
+      "monster": "Serpentine_Ice_Wyrm_Coiled_Around_A_Frozen_Shrine_In_The_Sacred_Snowy_Grove,_16-Bit_Fantasy_Rpg_Sprite_Style,_Vibrant_Colors,_Isolated_Simple_Background",
+      "image_path": "monsters/Serpentine_Ice_Wyrm_Coiled_Around_A_Frozen_Shrine_In_The_Sacred_Snowy_Grove,_16-Bit_Fantasy_Rpg_Sprite_Style,_Vibrant_Colors,_Isolated_Simple_Background.png"
+    },
+    {
+      "monster": "Rock_Elemental",
+      "image_path": "monsters/Rock_Elemental.png"
+    },
+    {
+      "monster": "Toxic_Poison_Toad",
+      "image_path": "monsters/Toxic_Poison_Toad.png"
+    },
+    {
+      "monster": "Phantom-Like_Deer",
+      "image_path": "monsters/Phantom-Like_Deer.png"
+    },
+    {
+      "monster": "Thunder_Griffin",
+      "image_path": "monsters/Thunder_Griffin.png"
+    },
+    {
+      "monster": "Blight_Bat",
+      "image_path": "monsters/Blight_Bat.png"
+    },
+    {
+      "monster": "Bone_Serpent",
+      "image_path": "monsters/Bone_Serpent.png"
+    },
+    {
+      "monster": "Obsidian_Volcanic_Beetle",
+      "image_path": "monsters/Obsidian_Volcanic_Beetle.png"
+    },
+    {
+      "monster": "Frost-Coated_Snow_Lynx",
+      "image_path": "monsters/Frost-Coated_Snow_Lynx.png"
+    },
+    {
+      "monster": "Ashen-Furred_Wolf",
+      "image_path": "monsters/Ashen-Furred_Wolf.png"
+    },
+    {
+      "monster": "Glowing_Blue_Wisp_Floating_Above_Sacred_Grove_Stones,_Pulsing",
+      "image_path": "monsters/Glowing_Blue_Wisp_Floating_Above_Sacred_Grove_Stones,_Pulsing.png"
+    },
+    {
+      "monster": "Sand_Scorpion",
+      "image_path": "monsters/Sand_Scorpion.png"
+    },
+    {
+      "monster": "Lava_Slug_Leaving_Fiery_Trails_Across_Cracked_Obsidian_By_A_Moonlit_Lake,_16-Bit_Fantasy_Rpg_Sprite_Style,_Vibrant_Colors,_Isolated_Simple_Background",
+      "image_path": "monsters/Lava_Slug_Leaving_Fiery_Trails_Across_Cracked_Obsidian_By_A_Moonlit_Lake,_16-Bit_Fantasy_Rpg_Sprite_Style,_Vibrant_Colors,_Isolated_Simple_Background.png"
+    },
+    {
+      "monster": "Fire_Salamander",
+      "image_path": "monsters/Fire_Salamander.png"
+    },
+    {
+      "monster": "Crystal_Golem_Made_Of_Glowing_Blue_Crystals,_Standing_In_A_Sparkling_Crystal_Forest,_16-Bit_Fantasy_Rpg_Sprite_Style,_Vibrant_Colors,_Isolated_Simple_Background",
+      "image_path": "monsters/Crystal_Golem_Made_Of_Glowing_Blue_Crystals,_Standing_In_A_Sparkling_Crystal_Forest,_16-Bit_Fantasy_Rpg_Sprite_Style,_Vibrant_Colors,_Isolated_Simple_Background.png"
+    },
+    {
+      "monster": "Mystical_Forest_Spirit_Made_Of_Leaves_And_Light,_Floating_In_An_Ancient_Woodland_Grove,_16-Bit_Fantasy_Rpg_Sprite_Style,_Vibrant_Colors,_Isolated_Simple_Background",
+      "image_path": "monsters/Mystical_Forest_Spirit_Made_Of_Leaves_And_Light,_Floating_In_An_Ancient_Woodland_Grove,_16-Bit_Fantasy_Rpg_Sprite_Style,_Vibrant_Colors,_Isolated_Simple_Background.png"
+    },
+    {
+      "monster": "Ancient_Treant",
+      "image_path": "monsters/Ancient_Treant.png"
+    },
+    {
+      "monster": "Giant_Cave_Spider",
+      "image_path": "monsters/Giant_Cave_Spider.png"
+    },
+    {
+      "monster": "Storm_Drake",
+      "image_path": "monsters/Storm_Drake.png"
+    },
+    {
+      "monster": "Shadow_Hound",
+      "image_path": "monsters/Shadow_Hound.png"
+    },
+    {
+      "monster": "Serpentine_Ice_Wyrm_Coiled_Around_A_Frozen_Shrine_In_The_Sacred_Snowy_Grove,_16-Bit_Fantasy_Rpg_Sprite_Style,_Vibrant_Colors,_Isolated_Simple_Background",
+      "image_path": "monsters/Serpentine_Ice_Wyrm_Coiled_Around_A_Frozen_Shrine_In_The_Sacred_Snowy_Grove,_16-Bit_Fantasy_Rpg_Sprite_Style,_Vibrant_Colors,_Isolated_Simple_Background.png"
+    },
+    {
+      "monster": "Rock_Elemental",
+      "image_path": "monsters/Rock_Elemental.png"
+    },
+    {
+      "monster": "Toxic_Poison_Toad",
+      "image_path": "monsters/Toxic_Poison_Toad.png"
+    },
+    {
+      "monster": "Phantom-Like_Deer",
+      "image_path": "monsters/Phantom-Like_Deer.png"
+    },
+    {
+      "monster": "Thunder_Griffin",
+      "image_path": "monsters/Thunder_Griffin.png"
+    },
+    {
+      "monster": "Blight_Bat",
+      "image_path": "monsters/Blight_Bat.png"
+    },
+    {
+      "monster": "Bone_Serpent",
+      "image_path": "monsters/Bone_Serpent.png"
+    },
+    {
+      "monster": "Obsidian_Volcanic_Beetle",
+      "image_path": "monsters/Obsidian_Volcanic_Beetle.png"
+    },
+    {
+      "monster": "Frost-Coated_Snow_Lynx",
+      "image_path": "monsters/Frost-Coated_Snow_Lynx.png"
+    },
+    {
+      "monster": "Ashen-Furred_Wolf",
+      "image_path": "monsters/Ashen-Furred_Wolf.png"
+    },
+    {
+      "monster": "Glowing_Blue_Wisp_Floating_Above_Sacred_Grove_Stones,_Pulsing",
+      "image_path": "monsters/Glowing_Blue_Wisp_Floating_Above_Sacred_Grove_Stones,_Pulsing.png"
+    },
+    {
+      "monster": "Sand_Scorpion",
+      "image_path": "monsters/Sand_Scorpion.png"
+    },
+    {
+      "monster": "Lava_Slug_Leaving_Fiery_Trails_Across_Cracked_Obsidian_By_A_Moonlit_Lake,_16-Bit_Fantasy_Rpg_Sprite_Style,_Vibrant_Colors,_Isolated_Simple_Background",
+      "image_path": "monsters/Lava_Slug_Leaving_Fiery_Trails_Across_Cracked_Obsidian_By_A_Moonlit_Lake,_16-Bit_Fantasy_Rpg_Sprite_Style,_Vibrant_Colors,_Isolated_Simple_Background.png"
+    },
+    {
+      "monster": "Fire_Salamander",
+      "image_path": "monsters/Fire_Salamander.png"
+    },
+    {
+      "monster": "Crystal_Golem_Made_Of_Glowing_Blue_Crystals,_Standing_In_A_Sparkling_Crystal_Forest,_16-Bit_Fantasy_Rpg_Sprite_Style,_Vibrant_Colors,_Isolated_Simple_Background",
+      "image_path": "monsters/Crystal_Golem_Made_Of_Glowing_Blue_Crystals,_Standing_In_A_Sparkling_Crystal_Forest,_16-Bit_Fantasy_Rpg_Sprite_Style,_Vibrant_Colors,_Isolated_Simple_Background.png"
+    },
+    {
+      "monster": "Mystical_Forest_Spirit_Made_Of_Leaves_And_Light,_Floating_In_An_Ancient_Woodland_Grove,_16-Bit_Fantasy_Rpg_Sprite_Style,_Vibrant_Colors,_Isolated_Simple_Background",
+      "image_path": "monsters/Mystical_Forest_Spirit_Made_Of_Leaves_And_Light,_Floating_In_An_Ancient_Woodland_Grove,_16-Bit_Fantasy_Rpg_Sprite_Style,_Vibrant_Colors,_Isolated_Simple_Background.png"
+    },
+    {
+      "monster": "Ancient_Treant",
+      "image_path": "monsters/Ancient_Treant.png"
+    },
+    {
+      "monster": "Giant_Cave_Spider",
+      "image_path": "monsters/Giant_Cave_Spider.png"
+    },
+    {
+      "monster": "Storm_Drake",
+      "image_path": "monsters/Storm_Drake.png"
+    },
+    {
+      "monster": "Shadow_Hound",
+      "image_path": "monsters/Shadow_Hound.png"
+    },
+    {
+      "monster": "Serpentine_Ice_Wyrm_Coiled_Around_A_Frozen_Shrine_In_The_Sacred_Snowy_Grove,_16-Bit_Fantasy_Rpg_Sprite_Style,_Vibrant_Colors,_Isolated_Simple_Background",
+      "image_path": "monsters/Serpentine_Ice_Wyrm_Coiled_Around_A_Frozen_Shrine_In_The_Sacred_Snowy_Grove,_16-Bit_Fantasy_Rpg_Sprite_Style,_Vibrant_Colors,_Isolated_Simple_Background.png"
+    },
+    {
+      "monster": "Rock_Elemental",
+      "image_path": "monsters/Rock_Elemental.png"
+    },
+    {
+      "monster": "Toxic_Poison_Toad",
+      "image_path": "monsters/Toxic_Poison_Toad.png"
+    },
+    {
+      "monster": "Phantom-Like_Deer",
+      "image_path": "monsters/Phantom-Like_Deer.png"
+    },
+    {
+      "monster": "Thunder_Griffin",
+      "image_path": "monsters/Thunder_Griffin.png"
+    },
+    {
+      "monster": "Blight_Bat",
+      "image_path": "monsters/Blight_Bat.png"
+    },
+    {
+      "monster": "Bone_Serpent",
+      "image_path": "monsters/Bone_Serpent.png"
+    },
+    {
+      "monster": "Obsidian_Volcanic_Beetle",
+      "image_path": "monsters/Obsidian_Volcanic_Beetle.png"
+    },
+    {
+      "monster": "Frost-Coated_Snow_Lynx",
+      "image_path": "monsters/Frost-Coated_Snow_Lynx.png"
+    },
+    {
+      "monster": "Ashen-Furred_Wolf",
+      "image_path": "monsters/Ashen-Furred_Wolf.png"
+    },
+    {
+      "monster": "Glowing_Blue_Wisp_Floating_Above_Sacred_Grove_Stones,_Pulsing",
+      "image_path": "monsters/Glowing_Blue_Wisp_Floating_Above_Sacred_Grove_Stones,_Pulsing.png"
+    },
+    {
+      "monster": "Sand_Scorpion",
+      "image_path": "monsters/Sand_Scorpion.png"
+    },
+    {
+      "monster": "Lava_Slug_Leaving_Fiery_Trails_Across_Cracked_Obsidian_By_A_Moonlit_Lake,_16-Bit_Fantasy_Rpg_Sprite_Style,_Vibrant_Colors,_Isolated_Simple_Background",
+      "image_path": "monsters/Lava_Slug_Leaving_Fiery_Trails_Across_Cracked_Obsidian_By_A_Moonlit_Lake,_16-Bit_Fantasy_Rpg_Sprite_Style,_Vibrant_Colors,_Isolated_Simple_Background.png"
+    },
+    {
+      "monster": "Fire_Salamander",
+      "image_path": "monsters/Fire_Salamander.png"
+    },
+    {
+      "monster": "Crystal_Golem_Made_Of_Glowing_Blue_Crystals,_Standing_In_A_Sparkling_Crystal_Forest,_16-Bit_Fantasy_Rpg_Sprite_Style,_Vibrant_Colors,_Isolated_Simple_Background",
+      "image_path": "monsters/Crystal_Golem_Made_Of_Glowing_Blue_Crystals,_Standing_In_A_Sparkling_Crystal_Forest,_16-Bit_Fantasy_Rpg_Sprite_Style,_Vibrant_Colors,_Isolated_Simple_Background.png"
+    },
+    {
+      "monster": "Mystical_Forest_Spirit_Made_Of_Leaves_And_Light,_Floating_In_An_Ancient_Woodland_Grove,_16-Bit_Fantasy_Rpg_Sprite_Style,_Vibrant_Colors,_Isolated_Simple_Background",
+      "image_path": "monsters/Mystical_Forest_Spirit_Made_Of_Leaves_And_Light,_Floating_In_An_Ancient_Woodland_Grove,_16-Bit_Fantasy_Rpg_Sprite_Style,_Vibrant_Colors,_Isolated_Simple_Background.png"
+    },
+    {
+      "monster": "Ancient_Treant",
+      "image_path": "monsters/Ancient_Treant.png"
+    },
+    {
+      "monster": "Giant_Cave_Spider",
+      "image_path": "monsters/Giant_Cave_Spider.png"
+    },
+    {
+      "monster": "Storm_Drake",
+      "image_path": "monsters/Storm_Drake.png"
+    },
+    {
+      "monster": "Shadow_Hound",
+      "image_path": "monsters/Shadow_Hound.png"
+    },
+    {
+      "monster": "Serpentine_Ice_Wyrm_Coiled_Around_A_Frozen_Shrine_In_The_Sacred_Snowy_Grove,_16-Bit_Fantasy_Rpg_Sprite_Style,_Vibrant_Colors,_Isolated_Simple_Background",
+      "image_path": "monsters/Serpentine_Ice_Wyrm_Coiled_Around_A_Frozen_Shrine_In_The_Sacred_Snowy_Grove,_16-Bit_Fantasy_Rpg_Sprite_Style,_Vibrant_Colors,_Isolated_Simple_Background.png"
+    },
+    {
+      "monster": "Rock_Elemental",
+      "image_path": "monsters/Rock_Elemental.png"
+    },
+    {
+      "monster": "Toxic_Poison_Toad",
+      "image_path": "monsters/Toxic_Poison_Toad.png"
+    },
+    {
+      "monster": "Phantom-Like_Deer",
+      "image_path": "monsters/Phantom-Like_Deer.png"
+    },
+    {
+      "monster": "Thunder_Griffin",
+      "image_path": "monsters/Thunder_Griffin.png"
+    },
+    {
+      "monster": "Blight_Bat",
+      "image_path": "monsters/Blight_Bat.png"
+    },
+    {
+      "monster": "Bone_Serpent",
+      "image_path": "monsters/Bone_Serpent.png"
+    },
+    {
+      "monster": "Obsidian_Volcanic_Beetle",
+      "image_path": "monsters/Obsidian_Volcanic_Beetle.png"
+    },
+    {
+      "monster": "Frost-Coated_Snow_Lynx",
+      "image_path": "monsters/Frost-Coated_Snow_Lynx.png"
+    },
+    {
+      "monster": "Ashen-Furred_Wolf",
+      "image_path": "monsters/Ashen-Furred_Wolf.png"
+    },
+    {
+      "monster": "Glowing_Blue_Wisp_Floating_Above_Sacred_Grove_Stones,_Pulsing",
+      "image_path": "monsters/Glowing_Blue_Wisp_Floating_Above_Sacred_Grove_Stones,_Pulsing.png"
+    },
+    {
+      "monster": "Sand_Scorpion",
+      "image_path": "monsters/Sand_Scorpion.png"
+    },
+    {
+      "monster": "Lava_Slug_Leaving_Fiery_Trails_Across_Cracked_Obsidian_By_A_Moonlit_Lake,_16-Bit_Fantasy_Rpg_Sprite_Style,_Vibrant_Colors,_Isolated_Simple_Background",
+      "image_path": "monsters/Lava_Slug_Leaving_Fiery_Trails_Across_Cracked_Obsidian_By_A_Moonlit_Lake,_16-Bit_Fantasy_Rpg_Sprite_Style,_Vibrant_Colors,_Isolated_Simple_Background.png"
+    },
+    {
+      "monster": "Fire_Salamander",
+      "image_path": "monsters/Fire_Salamander.png"
+    },
+    {
+      "monster": "Crystal_Golem_Made_Of_Glowing_Blue_Crystals,_Standing_In_A_Sparkling_Crystal_Forest,_16-Bit_Fantasy_Rpg_Sprite_Style,_Vibrant_Colors,_Isolated_Simple_Background",
+      "image_path": "monsters/Crystal_Golem_Made_Of_Glowing_Blue_Crystals,_Standing_In_A_Sparkling_Crystal_Forest,_16-Bit_Fantasy_Rpg_Sprite_Style,_Vibrant_Colors,_Isolated_Simple_Background.png"
+    },
+    {
+      "monster": "Mystical_Forest_Spirit_Made_Of_Leaves_And_Light,_Floating_In_An_Ancient_Woodland_Grove,_16-Bit_Fantasy_Rpg_Sprite_Style,_Vibrant_Colors,_Isolated_Simple_Background",
+      "image_path": "monsters/Mystical_Forest_Spirit_Made_Of_Leaves_And_Light,_Floating_In_An_Ancient_Woodland_Grove,_16-Bit_Fantasy_Rpg_Sprite_Style,_Vibrant_Colors,_Isolated_Simple_Background.png"
+    },
+    {
+      "monster": "Ancient_Treant",
+      "image_path": "monsters/Ancient_Treant.png"
+    },
+    {
+      "monster": "Giant_Cave_Spider",
+      "image_path": "monsters/Giant_Cave_Spider.png"
+    },
+    {
+      "monster": "Storm_Drake",
+      "image_path": "monsters/Storm_Drake.png"
+    },
+    {
+      "monster": "Shadow_Hound",
+      "image_path": "monsters/Shadow_Hound.png"
+    },
+    {
+      "monster": "Serpentine_Ice_Wyrm_Coiled_Around_A_Frozen_Shrine_In_The_Sacred_Snowy_Grove,_16-Bit_Fantasy_Rpg_Sprite_Style,_Vibrant_Colors,_Isolated_Simple_Background",
+      "image_path": "monsters/Serpentine_Ice_Wyrm_Coiled_Around_A_Frozen_Shrine_In_The_Sacred_Snowy_Grove,_16-Bit_Fantasy_Rpg_Sprite_Style,_Vibrant_Colors,_Isolated_Simple_Background.png"
+    },
+    {
+      "monster": "Rock_Elemental",
+      "image_path": "monsters/Rock_Elemental.png"
+    },
+    {
+      "monster": "Toxic_Poison_Toad",
+      "image_path": "monsters/Toxic_Poison_Toad.png"
+    },
+    {
+      "monster": "Phantom-Like_Deer",
+      "image_path": "monsters/Phantom-Like_Deer.png"
+    },
+    {
+      "monster": "Thunder_Griffin",
+      "image_path": "monsters/Thunder_Griffin.png"
+    },
+    {
+      "monster": "Blight_Bat",
+      "image_path": "monsters/Blight_Bat.png"
+    },
+    {
+      "monster": "Bone_Serpent",
+      "image_path": "monsters/Bone_Serpent.png"
+    },
+    {
+      "monster": "Obsidian_Volcanic_Beetle",
+      "image_path": "monsters/Obsidian_Volcanic_Beetle.png"
+    },
+    {
+      "monster": "Frost-Coated_Snow_Lynx",
+      "image_path": "monsters/Frost-Coated_Snow_Lynx.png"
+    },
+    {
+      "monster": "Ashen-Furred_Wolf",
+      "image_path": "monsters/Ashen-Furred_Wolf.png"
+    },
+    {
+      "monster": "Glowing_Blue_Wisp_Floating_Above_Sacred_Grove_Stones,_Pulsing",
+      "image_path": "monsters/Glowing_Blue_Wisp_Floating_Above_Sacred_Grove_Stones,_Pulsing.png"
+    },
+    {
+      "monster": "Sand_Scorpion",
+      "image_path": "monsters/Sand_Scorpion.png"
+    },
+    {
+      "monster": "Lava_Slug_Leaving_Fiery_Trails_Across_Cracked_Obsidian_By_A_Moonlit_Lake,_16-Bit_Fantasy_Rpg_Sprite_Style,_Vibrant_Colors,_Isolated_Simple_Background",
+      "image_path": "monsters/Lava_Slug_Leaving_Fiery_Trails_Across_Cracked_Obsidian_By_A_Moonlit_Lake,_16-Bit_Fantasy_Rpg_Sprite_Style,_Vibrant_Colors,_Isolated_Simple_Background.png"
+    },
+    {
+      "monster": "Fire_Salamander",
+      "image_path": "monsters/Fire_Salamander.png"
+    },
+    {
+      "monster": "Crystal_Golem_Made_Of_Glowing_Blue_Crystals,_Standing_In_A_Sparkling_Crystal_Forest,_16-Bit_Fantasy_Rpg_Sprite_Style,_Vibrant_Colors,_Isolated_Simple_Background",
+      "image_path": "monsters/Crystal_Golem_Made_Of_Glowing_Blue_Crystals,_Standing_In_A_Sparkling_Crystal_Forest,_16-Bit_Fantasy_Rpg_Sprite_Style,_Vibrant_Colors,_Isolated_Simple_Background.png"
+    },
+    {
+      "monster": "Mystical_Forest_Spirit_Made_Of_Leaves_And_Light,_Floating_In_An_Ancient_Woodland_Grove,_16-Bit_Fantasy_Rpg_Sprite_Style,_Vibrant_Colors,_Isolated_Simple_Background",
+      "image_path": "monsters/Mystical_Forest_Spirit_Made_Of_Leaves_And_Light,_Floating_In_An_Ancient_Woodland_Grove,_16-Bit_Fantasy_Rpg_Sprite_Style,_Vibrant_Colors,_Isolated_Simple_Background.png"
+    },
+    {
+      "monster": "Ancient_Treant",
+      "image_path": "monsters/Ancient_Treant.png"
+    },
+    {
+      "monster": "Giant_Cave_Spider",
+      "image_path": "monsters/Giant_Cave_Spider.png"
+    },
+    {
+      "monster": "Storm_Drake",
+      "image_path": "monsters/Storm_Drake.png"
+    },
+    {
+      "monster": "Shadow_Hound",
+      "image_path": "monsters/Shadow_Hound.png"
+    },
+    {
+      "monster": "Serpentine_Ice_Wyrm_Coiled_Around_A_Frozen_Shrine_In_The_Sacred_Snowy_Grove,_16-Bit_Fantasy_Rpg_Sprite_Style,_Vibrant_Colors,_Isolated_Simple_Background",
+      "image_path": "monsters/Serpentine_Ice_Wyrm_Coiled_Around_A_Frozen_Shrine_In_The_Sacred_Snowy_Grove,_16-Bit_Fantasy_Rpg_Sprite_Style,_Vibrant_Colors,_Isolated_Simple_Background.png"
+    },
+    {
+      "monster": "Rock_Elemental",
+      "image_path": "monsters/Rock_Elemental.png"
+    },
+    {
+      "monster": "Toxic_Poison_Toad",
+      "image_path": "monsters/Toxic_Poison_Toad.png"
+    },
+    {
+      "monster": "Phantom-Like_Deer",
+      "image_path": "monsters/Phantom-Like_Deer.png"
+    },
+    {
+      "monster": "Thunder_Griffin",
+      "image_path": "monsters/Thunder_Griffin.png"
+    },
+    {
+      "monster": "Blight_Bat",
+      "image_path": "monsters/Blight_Bat.png"
+    },
+    {
+      "monster": "Bone_Serpent",
+      "image_path": "monsters/Bone_Serpent.png"
+    },
+    {
+      "monster": "Obsidian_Volcanic_Beetle",
+      "image_path": "monsters/Obsidian_Volcanic_Beetle.png"
+    },
+    {
+      "monster": "Frost-Coated_Snow_Lynx",
+      "image_path": "monsters/Frost-Coated_Snow_Lynx.png"
+    },
+    {
+      "monster": "Ashen-Furred_Wolf",
+      "image_path": "monsters/Ashen-Furred_Wolf.png"
+    },
+    {
+      "monster": "Glowing_Blue_Wisp_Floating_Above_Sacred_Grove_Stones,_Pulsing",
+      "image_path": "monsters/Glowing_Blue_Wisp_Floating_Above_Sacred_Grove_Stones,_Pulsing.png"
+    },
+    {
+      "monster": "Sand_Scorpion",
+      "image_path": "monsters/Sand_Scorpion.png"
+    },
+    {
+      "monster": "Lava_Slug_Leaving_Fiery_Trails_Across_Cracked_Obsidian_By_A_Moonlit_Lake,_16-Bit_Fantasy_Rpg_Sprite_Style,_Vibrant_Colors,_Isolated_Simple_Background",
+      "image_path": "monsters/Lava_Slug_Leaving_Fiery_Trails_Across_Cracked_Obsidian_By_A_Moonlit_Lake,_16-Bit_Fantasy_Rpg_Sprite_Style,_Vibrant_Colors,_Isolated_Simple_Background.png"
+    },
+    {
+      "monster": "Fire_Salamander",
+      "image_path": "monsters/Fire_Salamander.png"
+    },
+    {
+      "monster": "Crystal_Golem_Made_Of_Glowing_Blue_Crystals,_Standing_In_A_Sparkling_Crystal_Forest,_16-Bit_Fantasy_Rpg_Sprite_Style,_Vibrant_Colors,_Isolated_Simple_Background",
+      "image_path": "monsters/Crystal_Golem_Made_Of_Glowing_Blue_Crystals,_Standing_In_A_Sparkling_Crystal_Forest,_16-Bit_Fantasy_Rpg_Sprite_Style,_Vibrant_Colors,_Isolated_Simple_Background.png"
+    },
+    {
+      "monster": "Mystical_Forest_Spirit_Made_Of_Leaves_And_Light,_Floating_In_An_Ancient_Woodland_Grove,_16-Bit_Fantasy_Rpg_Sprite_Style,_Vibrant_Colors,_Isolated_Simple_Background",
+      "image_path": "monsters/Mystical_Forest_Spirit_Made_Of_Leaves_And_Light,_Floating_In_An_Ancient_Woodland_Grove,_16-Bit_Fantasy_Rpg_Sprite_Style,_Vibrant_Colors,_Isolated_Simple_Background.png"
+    },
+    {
+      "monster": "Ancient_Treant",
+      "image_path": "monsters/Ancient_Treant.png"
+    },
+    {
+      "monster": "Giant_Cave_Spider",
+      "image_path": "monsters/Giant_Cave_Spider.png"
+    },
+    {
+      "monster": "Storm_Drake",
+      "image_path": "monsters/Storm_Drake.png"
+    },
+    {
+      "monster": "Shadow_Hound",
+      "image_path": "monsters/Shadow_Hound.png"
+    },
+    {
+      "monster": "Serpentine_Ice_Wyrm_Coiled_Around_A_Frozen_Shrine_In_The_Sacred_Snowy_Grove,_16-Bit_Fantasy_Rpg_Sprite_Style,_Vibrant_Colors,_Isolated_Simple_Background",
+      "image_path": "monsters/Serpentine_Ice_Wyrm_Coiled_Around_A_Frozen_Shrine_In_The_Sacred_Snowy_Grove,_16-Bit_Fantasy_Rpg_Sprite_Style,_Vibrant_Colors,_Isolated_Simple_Background.png"
+    },
+    {
+      "monster": "Rock_Elemental",
+      "image_path": "monsters/Rock_Elemental.png"
+    },
+    {
+      "monster": "Toxic_Poison_Toad",
+      "image_path": "monsters/Toxic_Poison_Toad.png"
+    },
+    {
+      "monster": "Phantom-Like_Deer",
+      "image_path": "monsters/Phantom-Like_Deer.png"
+    },
+    {
+      "monster": "Thunder_Griffin",
+      "image_path": "monsters/Thunder_Griffin.png"
+    },
+    {
+      "monster": "Blight_Bat",
+      "image_path": "monsters/Blight_Bat.png"
+    },
+    {
+      "monster": "Bone_Serpent",
+      "image_path": "monsters/Bone_Serpent.png"
+    },
+    {
+      "monster": "Obsidian_Volcanic_Beetle",
+      "image_path": "monsters/Obsidian_Volcanic_Beetle.png"
+    },
+    {
+      "monster": "Frost-Coated_Snow_Lynx",
+      "image_path": "monsters/Frost-Coated_Snow_Lynx.png"
+    },
+    {
+      "monster": "Ashen-Furred_Wolf",
+      "image_path": "monsters/Ashen-Furred_Wolf.png"
+    },
+    {
+      "monster": "Glowing_Blue_Wisp_Floating_Above_Sacred_Grove_Stones,_Pulsing",
+      "image_path": "monsters/Glowing_Blue_Wisp_Floating_Above_Sacred_Grove_Stones,_Pulsing.png"
+    },
+    {
+      "monster": "Sand_Scorpion",
+      "image_path": "monsters/Sand_Scorpion.png"
+    },
+    {
+      "monster": "Lava_Slug_Leaving_Fiery_Trails_Across_Cracked_Obsidian_By_A_Moonlit_Lake,_16-Bit_Fantasy_Rpg_Sprite_Style,_Vibrant_Colors,_Isolated_Simple_Background",
+      "image_path": "monsters/Lava_Slug_Leaving_Fiery_Trails_Across_Cracked_Obsidian_By_A_Moonlit_Lake,_16-Bit_Fantasy_Rpg_Sprite_Style,_Vibrant_Colors,_Isolated_Simple_Background.png"
+    },
+    {
+      "monster": "Fire_Salamander",
+      "image_path": "monsters/Fire_Salamander.png"
+    },
+    {
+      "monster": "Crystal_Golem_Made_Of_Glowing_Blue_Crystals,_Standing_In_A_Sparkling_Crystal_Forest,_16-Bit_Fantasy_Rpg_Sprite_Style,_Vibrant_Colors,_Isolated_Simple_Background",
+      "image_path": "monsters/Crystal_Golem_Made_Of_Glowing_Blue_Crystals,_Standing_In_A_Sparkling_Crystal_Forest,_16-Bit_Fantasy_Rpg_Sprite_Style,_Vibrant_Colors,_Isolated_Simple_Background.png"
+    },
+    {
+      "monster": "Mystical_Forest_Spirit_Made_Of_Leaves_And_Light,_Floating_In_An_Ancient_Woodland_Grove,_16-Bit_Fantasy_Rpg_Sprite_Style,_Vibrant_Colors,_Isolated_Simple_Background",
+      "image_path": "monsters/Mystical_Forest_Spirit_Made_Of_Leaves_And_Light,_Floating_In_An_Ancient_Woodland_Grove,_16-Bit_Fantasy_Rpg_Sprite_Style,_Vibrant_Colors,_Isolated_Simple_Background.png"
+    },
+    {
+      "monster": "Ancient_Treant",
+      "image_path": "monsters/Ancient_Treant.png"
+    },
+    {
+      "monster": "Giant_Cave_Spider",
+      "image_path": "monsters/Giant_Cave_Spider.png"
+    },
+    {
+      "monster": "Storm_Drake",
+      "image_path": "monsters/Storm_Drake.png"
+    },
+    {
+      "monster": "Shadow_Hound",
+      "image_path": "monsters/Shadow_Hound.png"
+    },
+    {
+      "monster": "Serpentine_Ice_Wyrm_Coiled_Around_A_Frozen_Shrine_In_The_Sacred_Snowy_Grove,_16-Bit_Fantasy_Rpg_Sprite_Style,_Vibrant_Colors,_Isolated_Simple_Background",
+      "image_path": "monsters/Serpentine_Ice_Wyrm_Coiled_Around_A_Frozen_Shrine_In_The_Sacred_Snowy_Grove,_16-Bit_Fantasy_Rpg_Sprite_Style,_Vibrant_Colors,_Isolated_Simple_Background.png"
+    },
+    {
+      "monster": "Rock_Elemental",
+      "image_path": "monsters/Rock_Elemental.png"
+    },
+    {
+      "monster": "Toxic_Poison_Toad",
+      "image_path": "monsters/Toxic_Poison_Toad.png"
+    },
+    {
+      "monster": "Phantom-Like_Deer",
+      "image_path": "monsters/Phantom-Like_Deer.png"
+    },
+    {
+      "monster": "Thunder_Griffin",
+      "image_path": "monsters/Thunder_Griffin.png"
+    },
+    {
+      "monster": "Blight_Bat",
+      "image_path": "monsters/Blight_Bat.png"
+    },
+    {
+      "monster": "Bone_Serpent",
+      "image_path": "monsters/Bone_Serpent.png"
+    },
+    {
+      "monster": "Obsidian_Volcanic_Beetle",
+      "image_path": "monsters/Obsidian_Volcanic_Beetle.png"
+    },
+    {
+      "monster": "Frost-Coated_Snow_Lynx",
+      "image_path": "monsters/Frost-Coated_Snow_Lynx.png"
+    },
+    {
+      "monster": "Ashen-Furred_Wolf",
+      "image_path": "monsters/Ashen-Furred_Wolf.png"
+    },
+    {
+      "monster": "Glowing_Blue_Wisp_Floating_Above_Sacred_Grove_Stones,_Pulsing",
+      "image_path": "monsters/Glowing_Blue_Wisp_Floating_Above_Sacred_Grove_Stones,_Pulsing.png"
+    },
+    {
+      "monster": "Sand_Scorpion",
+      "image_path": "monsters/Sand_Scorpion.png"
+    },
+    {
+      "monster": "Lava_Slug_Leaving_Fiery_Trails_Across_Cracked_Obsidian_By_A_Moonlit_Lake,_16-Bit_Fantasy_Rpg_Sprite_Style,_Vibrant_Colors,_Isolated_Simple_Background",
+      "image_path": "monsters/Lava_Slug_Leaving_Fiery_Trails_Across_Cracked_Obsidian_By_A_Moonlit_Lake,_16-Bit_Fantasy_Rpg_Sprite_Style,_Vibrant_Colors,_Isolated_Simple_Background.png"
+    }
+  ],
+  "npc_portraits": {
+    "rogue_adult_male_001": "assets/npc_portraits/rogue_adult_male_001.png",
+    "farmer_young_female_002": "assets/npc_portraits/farmer_young_female_002.png",
+    "knight_child_female_003": "assets/npc_portraits/knight_child_female_003.png",
+    "rogue_young_female_004": "assets/npc_portraits/rogue_young_female_004.png",
+    "villager_elderly_male_005": "assets/npc_portraits/villager_elderly_male_005.png",
+    "villager_young_male_006": "assets/npc_portraits/villager_young_male_006.png",
+    "bard_child_male_007": "assets/npc_portraits/bard_child_male_007.png",
+    "traveler_young_female_008": "assets/npc_portraits/traveler_young_female_008.png",
+    "villager_adult_female_009": "assets/npc_portraits/villager_adult_female_009.png",
+    "bard_adult_male_010": "assets/npc_portraits/bard_adult_male_010.png",
+    "merchant_young_male_011": "assets/npc_portraits/merchant_young_male_011.png",
+    "bard_adult_female_012": "assets/npc_portraits/bard_adult_female_012.png",
+    "mage_elderly_female_013": "assets/npc_portraits/mage_elderly_female_013.png",
+    "hunter_adult_female_014": "assets/npc_portraits/hunter_adult_female_014.png",
+    "farmer_adult_female_015": "assets/npc_portraits/farmer_adult_female_015.png",
+    "villager_elderly_male_016": "assets/npc_portraits/villager_elderly_male_016.png",
+    "knight_adult_female_017": "assets/npc_portraits/knight_adult_female_017.png",
+    "bard_elderly_male_018": "assets/npc_portraits/bard_elderly_male_018.png",
+    "scholar_adult_female_019": "assets/npc_portraits/scholar_adult_female_019.png",
+    "scholar_young_female_020": "assets/npc_portraits/scholar_young_female_020.png",
+    "noble_child_male_021": "assets/npc_portraits/noble_child_male_021.png",
+    "rogue_young_female_022": "assets/npc_portraits/rogue_young_female_022.png",
+    "hunter_child_female_023": "assets/npc_portraits/hunter_child_female_023.png",
+    "scholar_young_female_024": "assets/npc_portraits/scholar_young_female_024.png",
+    "knight_child_female_025": "assets/npc_portraits/knight_child_female_025.png",
+    "priest_child_female_026": "assets/npc_portraits/priest_child_female_026.png",
+    "rogue_adult_male_027": "assets/npc_portraits/rogue_adult_male_027.png",
+    "knight_elderly_male_028": "assets/npc_portraits/knight_elderly_male_028.png",
+    "knight_young_male_029": "assets/npc_portraits/knight_young_male_029.png",
+    "hunter_child_male_030": "assets/npc_portraits/hunter_child_male_030.png",
+    "mage_young_male_031": "assets/npc_portraits/mage_young_male_031.png",
+    "priest_adult_male_032": "assets/npc_portraits/priest_adult_male_032.png",
+    "scholar_adult_female_033": "assets/npc_portraits/scholar_adult_female_033.png",
+    "bard_child_female_034": "assets/npc_portraits/bard_child_female_034.png",
+    "farmer_child_female_035": "assets/npc_portraits/farmer_child_female_035.png",
+    "mage_young_female_036": "assets/npc_portraits/mage_young_female_036.png",
+    "hunter_adult_male_037": "assets/npc_portraits/hunter_adult_male_037.png",
+    "bard_adult_male_038": "assets/npc_portraits/bard_adult_male_038.png",
+    "noble_elderly_male_039": "assets/npc_portraits/noble_elderly_male_039.png",
+    "traveler_elderly_female_040": "assets/npc_portraits/traveler_elderly_female_040.png",
+    "villager_young_female_041": "assets/npc_portraits/villager_young_female_041.png",
+    "scholar_elderly_male_042": "assets/npc_portraits/scholar_elderly_male_042.png",
+    "traveler_elderly_male_043": "assets/npc_portraits/traveler_elderly_male_043.png",
+    "traveler_adult_female_044": "assets/npc_portraits/traveler_adult_female_044.png",
+    "mage_elderly_female_045": "assets/npc_portraits/mage_elderly_female_045.png",
+    "villager_elderly_female_046": "assets/npc_portraits/villager_elderly_female_046.png",
+    "farmer_child_male_047": "assets/npc_portraits/farmer_child_male_047.png",
+    "noble_adult_female_048": "assets/npc_portraits/noble_adult_female_048.png",
+    "knight_adult_female_049": "assets/npc_portraits/knight_adult_female_049.png",
+    "hunter_adult_male_050": "assets/npc_portraits/hunter_adult_male_050.png",
+    "rogue_adult_male_051": "assets/npc_portraits/rogue_adult_male_051.png",
+    "bard_elderly_female_052": "assets/npc_portraits/bard_elderly_female_052.png",
+    "villager_child_male_053": "assets/npc_portraits/villager_child_male_053.png",
+    "villager_young_female_054": "assets/npc_portraits/villager_young_female_054.png",
+    "traveler_young_female_055": "assets/npc_portraits/traveler_young_female_055.png",
+    "villager_child_female_056": "assets/npc_portraits/villager_child_female_056.png",
+    "farmer_young_female_057": "assets/npc_portraits/farmer_young_female_057.png",
+    "mage_adult_female_058": "assets/npc_portraits/mage_adult_female_058.png",
+    "farmer_elderly_male_059": "assets/npc_portraits/farmer_elderly_male_059.png",
+    "merchant_adult_female_060": "assets/npc_portraits/merchant_adult_female_060.png",
+    "traveler_adult_female_061": "assets/npc_portraits/traveler_adult_female_061.png",
+    "hunter_elderly_female_062": "assets/npc_portraits/hunter_elderly_female_062.png",
+    "scholar_child_male_063": "assets/npc_portraits/scholar_child_male_063.png",
+    "merchant_young_male_064": "assets/npc_portraits/merchant_young_male_064.png",
+    "merchant_adult_female_065": "assets/npc_portraits/merchant_adult_female_065.png",
+    "hunter_child_female_066": "assets/npc_portraits/hunter_child_female_066.png",
+    "priest_young_male_067": "assets/npc_portraits/priest_young_male_067.png",
+    "noble_young_male_068": "assets/npc_portraits/noble_young_male_068.png",
+    "priest_elderly_female_069": "assets/npc_portraits/priest_elderly_female_069.png",
+    "traveler_child_male_070": "assets/npc_portraits/traveler_child_male_070.png",
+    "noble_adult_female_071": "assets/npc_portraits/noble_adult_female_071.png",
+    "merchant_adult_male_072": "assets/npc_portraits/merchant_adult_male_072.png",
+    "hunter_young_female_073": "assets/npc_portraits/hunter_young_female_073.png",
+    "bard_young_male_074": "assets/npc_portraits/bard_young_male_074.png",
+    "knight_adult_female_075": "assets/npc_portraits/knight_adult_female_075.png",
+    "farmer_adult_female_076": "assets/npc_portraits/farmer_adult_female_076.png",
+    "merchant_adult_female_077": "assets/npc_portraits/merchant_adult_female_077.png",
+    "rogue_child_female_078": "assets/npc_portraits/rogue_child_female_078.png",
+    "knight_young_female_079": "assets/npc_portraits/knight_young_female_079.png",
+    "farmer_elderly_male_080": "assets/npc_portraits/farmer_elderly_male_080.png",
+    "villager_young_female_081": "assets/npc_portraits/villager_young_female_081.png",
+    "rogue_adult_female_082": "assets/npc_portraits/rogue_adult_female_082.png",
+    "priest_adult_male_083": "assets/npc_portraits/priest_adult_male_083.png",
+    "mage_elderly_female_084": "assets/npc_portraits/mage_elderly_female_084.png",
+    "villager_young_female_085": "assets/npc_portraits/villager_young_female_085.png",
+    "rogue_young_male_086": "assets/npc_portraits/rogue_young_male_086.png",
+    "knight_elderly_female_087": "assets/npc_portraits/knight_elderly_female_087.png",
+    "priest_child_male_088": "assets/npc_portraits/priest_child_male_088.png",
+    "mage_child_male_089": "assets/npc_portraits/mage_child_male_089.png",
+    "hunter_adult_male_090": "assets/npc_portraits/hunter_adult_male_090.png",
+    "noble_adult_male_091": "assets/npc_portraits/noble_adult_male_091.png",
+    "merchant_elderly_female_092": "assets/npc_portraits/merchant_elderly_female_092.png",
+    "priest_adult_male_093": "assets/npc_portraits/priest_adult_male_093.png",
+    "scholar_elderly_male_094": "assets/npc_portraits/scholar_elderly_male_094.png",
+    "rogue_young_female_095": "assets/npc_portraits/rogue_young_female_095.png",
+    "traveler_child_male_096": "assets/npc_portraits/traveler_child_male_096.png",
+    "bard_adult_male_097": "assets/npc_portraits/bard_adult_male_097.png",
+    "mage_elderly_female_098": "assets/npc_portraits/mage_elderly_female_098.png",
+    "knight_young_female_099": "assets/npc_portraits/knight_young_female_099.png",
+    "farmer_elderly_male_100": "assets/npc_portraits/farmer_elderly_male_100.png",
+    "mage_young_female_101": "assets/npc_portraits/mage_young_female_101.png",
+    "villager_adult_male_102": "assets/npc_portraits/villager_adult_male_102.png",
+    "farmer_child_female_103": "assets/npc_portraits/farmer_child_female_103.png",
+    "traveler_adult_male_104": "assets/npc_portraits/traveler_adult_male_104.png",
+    "noble_child_female_105": "assets/npc_portraits/noble_child_female_105.png",
+    "noble_young_female_106": "assets/npc_portraits/noble_young_female_106.png",
+    "noble_young_male_107": "assets/npc_portraits/noble_young_male_107.png",
+    "mage_young_male_108": "assets/npc_portraits/mage_young_male_108.png",
+    "scholar_adult_female_109": "assets/npc_portraits/scholar_adult_female_109.png",
+    "knight_adult_male_110": "assets/npc_portraits/knight_adult_male_110.png",
+    "priest_child_female_111": "assets/npc_portraits/priest_child_female_111.png",
+    "mage_adult_male_112": "assets/npc_portraits/mage_adult_male_112.png",
+    "merchant_adult_male_113": "assets/npc_portraits/merchant_adult_male_113.png",
+    "traveler_elderly_male_114": "assets/npc_portraits/traveler_elderly_male_114.png",
+    "merchant_adult_male_115": "assets/npc_portraits/merchant_adult_male_115.png",
+    "villager_child_female_116": "assets/npc_portraits/villager_child_female_116.png",
+    "hunter_adult_male_117": "assets/npc_portraits/hunter_adult_male_117.png",
+    "scholar_child_male_118": "assets/npc_portraits/scholar_child_male_118.png",
+    "rogue_child_female_119": "assets/npc_portraits/rogue_child_female_119.png",
+    "bard_child_male_120": "assets/npc_portraits/bard_child_male_120.png",
+    "merchant_adult_female_121": "assets/npc_portraits/merchant_adult_female_121.png",
+    "knight_child_male_122": "assets/npc_portraits/knight_child_male_122.png",
+    "noble_young_female_123": "assets/npc_portraits/noble_young_female_123.png",
+    "scholar_young_female_124": "assets/npc_portraits/scholar_young_female_124.png",
+    "hunter_child_female_125": "assets/npc_portraits/hunter_child_female_125.png",
+    "scholar_young_female_126": "assets/npc_portraits/scholar_young_female_126.png",
+    "rogue_adult_male_127": "assets/npc_portraits/rogue_adult_male_127.png",
+    "scholar_young_male_128": "assets/npc_portraits/scholar_young_male_128.png",
+    "bard_young_female_129": "assets/npc_portraits/bard_young_female_129.png",
+    "knight_adult_female_130": "assets/npc_portraits/knight_adult_female_130.png",
+    "priest_child_female_131": "assets/npc_portraits/priest_child_female_131.png",
+    "hunter_elderly_male_132": "assets/npc_portraits/hunter_elderly_male_132.png",
+    "scholar_adult_male_133": "assets/npc_portraits/scholar_adult_male_133.png",
+    "scholar_young_female_134": "assets/npc_portraits/scholar_young_female_134.png",
+    "hunter_young_female_135": "assets/npc_portraits/hunter_young_female_135.png",
+    "villager_elderly_female_136": "assets/npc_portraits/villager_elderly_female_136.png",
+    "scholar_young_female_137": "assets/npc_portraits/scholar_young_female_137.png",
+    "rogue_adult_male_138": "assets/npc_portraits/rogue_adult_male_138.png",
+    "scholar_adult_female_139": "assets/npc_portraits/scholar_adult_female_139.png",
+    "farmer_elderly_female_140": "assets/npc_portraits/farmer_elderly_female_140.png",
+    "hunter_elderly_male_141": "assets/npc_portraits/hunter_elderly_male_141.png",
+    "knight_young_male_142": "assets/npc_portraits/knight_young_male_142.png",
+    "farmer_adult_female_143": "assets/npc_portraits/farmer_adult_female_143.png",
+    "bard_child_female_144": "assets/npc_portraits/bard_child_female_144.png",
+    "scholar_adult_male_145": "assets/npc_portraits/scholar_adult_male_145.png",
+    "hunter_elderly_male_146": "assets/npc_portraits/hunter_elderly_male_146.png",
+    "scholar_child_male_147": "assets/npc_portraits/scholar_child_male_147.png",
+    "villager_child_male_148": "assets/npc_portraits/villager_child_male_148.png",
+    "hunter_young_male_149": "assets/npc_portraits/hunter_young_male_149.png",
+    "traveler_elderly_female_150": "assets/npc_portraits/traveler_elderly_female_150.png",
+    "rogue_child_male_151": "assets/npc_portraits/rogue_child_male_151.png",
+    "knight_adult_female_152": "assets/npc_portraits/knight_adult_female_152.png",
+    "hunter_young_male_153": "assets/npc_portraits/hunter_young_male_153.png",
+    "farmer_child_female_154": "assets/npc_portraits/farmer_child_female_154.png",
+    "hunter_young_female_155": "assets/npc_portraits/hunter_young_female_155.png",
+    "priest_child_male_156": "assets/npc_portraits/priest_child_male_156.png",
+    "rogue_child_male_157": "assets/npc_portraits/rogue_child_male_157.png",
+    "merchant_elderly_male_158": "assets/npc_portraits/merchant_elderly_male_158.png",
+    "villager_adult_male_159": "assets/npc_portraits/villager_adult_male_159.png",
+    "villager_elderly_male_160": "assets/npc_portraits/villager_elderly_male_160.png",
+    "knight_adult_male_161": "assets/npc_portraits/knight_adult_male_161.png",
+    "bard_child_female_162": "assets/npc_portraits/bard_child_female_162.png",
+    "mage_elderly_female_163": "assets/npc_portraits/mage_elderly_female_163.png",
+    "villager_adult_female_164": "assets/npc_portraits/villager_adult_female_164.png",
+    "bard_child_female_165": "assets/npc_portraits/bard_child_female_165.png",
+    "priest_adult_male_166": "assets/npc_portraits/priest_adult_male_166.png",
+    "priest_young_female_167": "assets/npc_portraits/priest_young_female_167.png",
+    "knight_adult_female_168": "assets/npc_portraits/knight_adult_female_168.png",
+    "bard_elderly_male_169": "assets/npc_portraits/bard_elderly_male_169.png",
+    "villager_young_male_170": "assets/npc_portraits/villager_young_male_170.png",
+    "traveler_child_male_171": "assets/npc_portraits/traveler_child_male_171.png",
+    "priest_child_female_172": "assets/npc_portraits/priest_child_female_172.png",
+    "bard_child_male_173": "assets/npc_portraits/bard_child_male_173.png",
+    "hunter_child_male_174": "assets/npc_portraits/hunter_child_male_174.png",
+    "farmer_elderly_female_175": "assets/npc_portraits/farmer_elderly_female_175.png",
+    "traveler_young_female_176": "assets/npc_portraits/traveler_young_female_176.png",
+    "rogue_child_male_177": "assets/npc_portraits/rogue_child_male_177.png",
+    "merchant_elderly_male_178": "assets/npc_portraits/merchant_elderly_male_178.png",
+    "villager_child_female_179": "assets/npc_portraits/villager_child_female_179.png",
+    "rogue_elderly_female_180": "assets/npc_portraits/rogue_elderly_female_180.png",
+    "villager_young_male_181": "assets/npc_portraits/villager_young_male_181.png",
+    "hunter_child_male_182": "assets/npc_portraits/hunter_child_male_182.png",
+    "mage_elderly_male_183": "assets/npc_portraits/mage_elderly_male_183.png",
+    "bard_young_male_184": "assets/npc_portraits/bard_young_male_184.png",
+    "bard_young_female_185": "assets/npc_portraits/bard_young_female_185.png",
+    "mage_young_female_186": "assets/npc_portraits/mage_young_female_186.png",
+    "farmer_child_female_187": "assets/npc_portraits/farmer_child_female_187.png",
+    "mage_adult_male_188": "assets/npc_portraits/mage_adult_male_188.png",
+    "priest_adult_female_189": "assets/npc_portraits/priest_adult_female_189.png",
+    "villager_elderly_female_190": "assets/npc_portraits/villager_elderly_female_190.png",
+    "noble_child_female_191": "assets/npc_portraits/noble_child_female_191.png",
+    "hunter_adult_male_192": "assets/npc_portraits/hunter_adult_male_192.png",
+    "villager_child_male_193": "assets/npc_portraits/villager_child_male_193.png",
+    "farmer_child_female_194": "assets/npc_portraits/farmer_child_female_194.png",
+    "mage_young_male_195": "assets/npc_portraits/mage_young_male_195.png",
+    "mage_young_male_196": "assets/npc_portraits/mage_young_male_196.png",
+    "priest_adult_male_197": "assets/npc_portraits/priest_adult_male_197.png",
+    "farmer_elderly_male_198": "assets/npc_portraits/farmer_elderly_male_198.png",
+    "villager_elderly_female_199": "assets/npc_portraits/villager_elderly_female_199.png",
+    "scholar_adult_male_200": "assets/npc_portraits/scholar_adult_male_200.png",
+    "mage_elderly_male_201": "assets/npc_portraits/mage_elderly_male_201.png",
+    "traveler_adult_male_202": "assets/npc_portraits/traveler_adult_male_202.png",
+    "traveler_young_male_203": "assets/npc_portraits/traveler_young_male_203.png",
+    "priest_young_female_204": "assets/npc_portraits/priest_young_female_204.png",
+    "noble_elderly_male_205": "assets/npc_portraits/noble_elderly_male_205.png",
+    "merchant_young_female_206": "assets/npc_portraits/merchant_young_female_206.png",
+    "mage_adult_male_207": "assets/npc_portraits/mage_adult_male_207.png",
+    "villager_adult_male_208": "assets/npc_portraits/villager_adult_male_208.png",
+    "priest_elderly_male_209": "assets/npc_portraits/priest_elderly_male_209.png",
+    "knight_elderly_female_210": "assets/npc_portraits/knight_elderly_female_210.png",
+    "villager_elderly_female_211": "assets/npc_portraits/villager_elderly_female_211.png",
+    "villager_adult_female_212": "assets/npc_portraits/villager_adult_female_212.png",
+    "scholar_child_female_213": "assets/npc_portraits/scholar_child_female_213.png",
+    "mage_child_male_214": "assets/npc_portraits/mage_child_male_214.png",
+    "merchant_adult_male_215": "assets/npc_portraits/merchant_adult_male_215.png",
+    "knight_elderly_female_216": "assets/npc_portraits/knight_elderly_female_216.png",
+    "knight_adult_female_217": "assets/npc_portraits/knight_adult_female_217.png",
+    "mage_young_male_218": "assets/npc_portraits/mage_young_male_218.png",
+    "rogue_child_male_219": "assets/npc_portraits/rogue_child_male_219.png",
+    "priest_child_male_220": "assets/npc_portraits/priest_child_male_220.png",
+    "priest_child_female_221": "assets/npc_portraits/priest_child_female_221.png",
+    "merchant_young_female_222": "assets/npc_portraits/merchant_young_female_222.png",
+    "traveler_child_male_223": "assets/npc_portraits/traveler_child_male_223.png",
+    "hunter_young_female_224": "assets/npc_portraits/hunter_young_female_224.png",
+    "hunter_child_male_225": "assets/npc_portraits/hunter_child_male_225.png",
+    "hunter_elderly_female_226": "assets/npc_portraits/hunter_elderly_female_226.png",
+    "priest_child_male_227": "assets/npc_portraits/priest_child_male_227.png",
+    "hunter_elderly_male_228": "assets/npc_portraits/hunter_elderly_male_228.png",
+    "mage_adult_male_229": "assets/npc_portraits/mage_adult_male_229.png",
+    "mage_adult_male_230": "assets/npc_portraits/mage_adult_male_230.png",
+    "priest_child_male_231": "assets/npc_portraits/priest_child_male_231.png",
+    "noble_young_female_232": "assets/npc_portraits/noble_young_female_232.png",
+    "farmer_elderly_male_233": "assets/npc_portraits/farmer_elderly_male_233.png",
+    "priest_child_male_234": "assets/npc_portraits/priest_child_male_234.png",
+    "bard_child_male_235": "assets/npc_portraits/bard_child_male_235.png",
+    "bard_elderly_female_236": "assets/npc_portraits/bard_elderly_female_236.png",
+    "hunter_adult_female_237": "assets/npc_portraits/hunter_adult_female_237.png",
+    "rogue_child_female_238": "assets/npc_portraits/rogue_child_female_238.png",
+    "bard_adult_female_239": "assets/npc_portraits/bard_adult_female_239.png",
+    "priest_young_female_240": "assets/npc_portraits/priest_young_female_240.png",
+    "mage_young_male_241": "assets/npc_portraits/mage_young_male_241.png",
+    "mage_child_male_242": "assets/npc_portraits/mage_child_male_242.png",
+    "bard_elderly_male_243": "assets/npc_portraits/bard_elderly_male_243.png",
+    "hunter_adult_female_244": "assets/npc_portraits/hunter_adult_female_244.png",
+    "mage_child_male_245": "assets/npc_portraits/mage_child_male_245.png",
+    "merchant_young_female_246": "assets/npc_portraits/merchant_young_female_246.png",
+    "knight_child_female_247": "assets/npc_portraits/knight_child_female_247.png",
+    "merchant_child_male_248": "assets/npc_portraits/merchant_child_male_248.png",
+    "noble_young_male_249": "assets/npc_portraits/noble_young_male_249.png",
+    "farmer_child_female_250": "assets/npc_portraits/farmer_child_female_250.png",
+    "hunter_adult_female_251": "assets/npc_portraits/hunter_adult_female_251.png",
+    "knight_young_male_252": "assets/npc_portraits/knight_young_male_252.png",
+    "priest_adult_male_253": "assets/npc_portraits/priest_adult_male_253.png",
+    "noble_child_male_254": "assets/npc_portraits/noble_child_male_254.png",
+    "farmer_child_male_255": "assets/npc_portraits/farmer_child_male_255.png",
+    "priest_young_female_256": "assets/npc_portraits/priest_young_female_256.png",
+    "villager_elderly_male_257": "assets/npc_portraits/villager_elderly_male_257.png",
+    "rogue_young_female_258": "assets/npc_portraits/rogue_young_female_258.png",
+    "mage_young_male_259": "assets/npc_portraits/mage_young_male_259.png",
+    "villager_elderly_male_260": "assets/npc_portraits/villager_elderly_male_260.png",
+    "scholar_child_male_261": "assets/npc_portraits/scholar_child_male_261.png",
+    "noble_young_male_262": "assets/npc_portraits/noble_young_male_262.png",
+    "noble_young_male_263": "assets/npc_portraits/noble_young_male_263.png",
+    "priest_adult_male_264": "assets/npc_portraits/priest_adult_male_264.png",
+    "scholar_young_female_265": "assets/npc_portraits/scholar_young_female_265.png",
+    "traveler_young_male_266": "assets/npc_portraits/traveler_young_male_266.png",
+    "knight_elderly_male_267": "assets/npc_portraits/knight_elderly_male_267.png",
+    "hunter_elderly_male_268": "assets/npc_portraits/hunter_elderly_male_268.png",
+    "mage_elderly_male_269": "assets/npc_portraits/mage_elderly_male_269.png",
+    "mage_child_female_270": "assets/npc_portraits/mage_child_female_270.png",
+    "rogue_elderly_female_271": "assets/npc_portraits/rogue_elderly_female_271.png",
+    "scholar_elderly_female_272": "assets/npc_portraits/scholar_elderly_female_272.png",
+    "farmer_young_male_273": "assets/npc_portraits/farmer_young_male_273.png",
+    "hunter_adult_female_274": "assets/npc_portraits/hunter_adult_female_274.png",
+    "farmer_elderly_female_275": "assets/npc_portraits/farmer_elderly_female_275.png",
+    "farmer_elderly_female_276": "assets/npc_portraits/farmer_elderly_female_276.png",
+    "traveler_adult_male_277": "assets/npc_portraits/traveler_adult_male_277.png",
+    "bard_elderly_male_278": "assets/npc_portraits/bard_elderly_male_278.png",
+    "mage_child_male_279": "assets/npc_portraits/mage_child_male_279.png",
+    "mage_young_male_280": "assets/npc_portraits/mage_young_male_280.png",
+    "noble_young_male_281": "assets/npc_portraits/noble_young_male_281.png",
+    "hunter_young_male_282": "assets/npc_portraits/hunter_young_male_282.png",
+    "noble_adult_male_283": "assets/npc_portraits/noble_adult_male_283.png",
+    "traveler_adult_female_284": "assets/npc_portraits/traveler_adult_female_284.png",
+    "hunter_young_male_285": "assets/npc_portraits/hunter_young_male_285.png",
+    "scholar_elderly_female_286": "assets/npc_portraits/scholar_elderly_female_286.png",
+    "rogue_child_male_287": "assets/npc_portraits/rogue_child_male_287.png",
+    "rogue_adult_female_288": "assets/npc_portraits/rogue_adult_female_288.png",
+    "hunter_child_male_289": "assets/npc_portraits/hunter_child_male_289.png",
+    "bard_young_female_290": "assets/npc_portraits/bard_young_female_290.png",
+    "traveler_child_female_291": "assets/npc_portraits/traveler_child_female_291.png",
+    "priest_elderly_female_292": "assets/npc_portraits/priest_elderly_female_292.png",
+    "merchant_elderly_female_293": "assets/npc_portraits/merchant_elderly_female_293.png",
+    "farmer_adult_female_294": "assets/npc_portraits/farmer_adult_female_294.png",
+    "rogue_child_female_295": "assets/npc_portraits/rogue_child_female_295.png",
+    "merchant_elderly_female_296": "assets/npc_portraits/merchant_elderly_female_296.png",
+    "scholar_child_female_297": "assets/npc_portraits/scholar_child_female_297.png",
+    "bard_young_female_298": "assets/npc_portraits/bard_young_female_298.png",
+    "priest_child_female_299": "assets/npc_portraits/priest_child_female_299.png",
+    "merchant_adult_male_300": "assets/npc_portraits/merchant_adult_male_300.png",
+    "scholar_elderly_female_301": "assets/npc_portraits/scholar_elderly_female_301.png",
+    "scholar_elderly_female_302": "assets/npc_portraits/scholar_elderly_female_302.png",
+    "priest_adult_female_303": "assets/npc_portraits/priest_adult_female_303.png",
+    "traveler_young_female_304": "assets/npc_portraits/traveler_young_female_304.png",
+    "scholar_adult_female_305": "assets/npc_portraits/scholar_adult_female_305.png",
+    "hunter_child_male_306": "assets/npc_portraits/hunter_child_male_306.png",
+    "noble_elderly_female_307": "assets/npc_portraits/noble_elderly_female_307.png",
+    "priest_elderly_male_308": "assets/npc_portraits/priest_elderly_male_308.png",
+    "mage_adult_male_309": "assets/npc_portraits/mage_adult_male_309.png",
+    "merchant_child_female_310": "assets/npc_portraits/merchant_child_female_310.png",
+    "rogue_adult_male_311": "assets/npc_portraits/rogue_adult_male_311.png",
+    "hunter_adult_female_312": "assets/npc_portraits/hunter_adult_female_312.png",
+    "merchant_child_male_313": "assets/npc_portraits/merchant_child_male_313.png",
+    "priest_elderly_male_314": "assets/npc_portraits/priest_elderly_male_314.png",
+    "priest_elderly_female_315": "assets/npc_portraits/priest_elderly_female_315.png",
+    "noble_elderly_female_316": "assets/npc_portraits/noble_elderly_female_316.png",
+    "merchant_elderly_male_317": "assets/npc_portraits/merchant_elderly_male_317.png",
+    "merchant_child_female_318": "assets/npc_portraits/merchant_child_female_318.png",
+    "scholar_elderly_male_319": "assets/npc_portraits/scholar_elderly_male_319.png",
+    "traveler_child_female_320": "assets/npc_portraits/traveler_child_female_320.png",
+    "bard_young_female_321": "assets/npc_portraits/bard_young_female_321.png",
+    "bard_child_female_322": "assets/npc_portraits/bard_child_female_322.png",
+    "hunter_adult_male_323": "assets/npc_portraits/hunter_adult_male_323.png",
+    "merchant_adult_male_324": "assets/npc_portraits/merchant_adult_male_324.png",
+    "farmer_elderly_female_325": "assets/npc_portraits/farmer_elderly_female_325.png",
+    "bard_young_female_326": "assets/npc_portraits/bard_young_female_326.png",
+    "priest_child_female_327": "assets/npc_portraits/priest_child_female_327.png",
+    "priest_elderly_female_328": "assets/npc_portraits/priest_elderly_female_328.png",
+    "rogue_child_male_329": "assets/npc_portraits/rogue_child_male_329.png",
+    "hunter_elderly_female_330": "assets/npc_portraits/hunter_elderly_female_330.png",
+    "merchant_young_male_331": "assets/npc_portraits/merchant_young_male_331.png",
+    "rogue_adult_male_332": "assets/npc_portraits/rogue_adult_male_332.png",
+    "merchant_elderly_female_333": "assets/npc_portraits/merchant_elderly_female_333.png",
+    "mage_adult_female_334": "assets/npc_portraits/mage_adult_female_334.png",
+    "merchant_young_female_335": "assets/npc_portraits/merchant_young_female_335.png",
+    "noble_child_male_336": "assets/npc_portraits/noble_child_male_336.png",
+    "villager_adult_female_337": "assets/npc_portraits/villager_adult_female_337.png",
+    "noble_child_female_338": "assets/npc_portraits/noble_child_female_338.png",
+    "rogue_adult_female_339": "assets/npc_portraits/rogue_adult_female_339.png",
+    "scholar_elderly_male_340": "assets/npc_portraits/scholar_elderly_male_340.png",
+    "villager_child_female_341": "assets/npc_portraits/villager_child_female_341.png",
+    "priest_child_male_342": "assets/npc_portraits/priest_child_male_342.png",
+    "mage_young_female_343": "assets/npc_portraits/mage_young_female_343.png",
+    "scholar_child_male_344": "assets/npc_portraits/scholar_child_male_344.png",
+    "farmer_adult_female_345": "assets/npc_portraits/farmer_adult_female_345.png",
+    "priest_child_male_346": "assets/npc_portraits/priest_child_male_346.png",
+    "noble_adult_male_347": "assets/npc_portraits/noble_adult_male_347.png",
+    "mage_elderly_male_348": "assets/npc_portraits/mage_elderly_male_348.png",
+    "merchant_young_male_349": "assets/npc_portraits/merchant_young_male_349.png",
+    "priest_adult_male_350": "assets/npc_portraits/priest_adult_male_350.png",
+    "farmer_elderly_female_351": "assets/npc_portraits/farmer_elderly_female_351.png",
+    "noble_adult_male_352": "assets/npc_portraits/noble_adult_male_352.png",
+    "priest_child_male_353": "assets/npc_portraits/priest_child_male_353.png",
+    "noble_child_female_354": "assets/npc_portraits/noble_child_female_354.png",
+    "knight_child_female_355": "assets/npc_portraits/knight_child_female_355.png",
+    "priest_elderly_female_356": "assets/npc_portraits/priest_elderly_female_356.png",
+    "bard_young_male_357": "assets/npc_portraits/bard_young_male_357.png",
+    "hunter_adult_female_358": "assets/npc_portraits/hunter_adult_female_358.png",
+    "knight_young_female_359": "assets/npc_portraits/knight_young_female_359.png",
+    "merchant_adult_female_360": "assets/npc_portraits/merchant_adult_female_360.png",
+    "mage_child_female_361": "assets/npc_portraits/mage_child_female_361.png",
+    "bard_young_male_362": "assets/npc_portraits/bard_young_male_362.png",
+    "merchant_elderly_female_363": "assets/npc_portraits/merchant_elderly_female_363.png",
+    "bard_elderly_male_364": "assets/npc_portraits/bard_elderly_male_364.png",
+    "traveler_adult_female_365": "assets/npc_portraits/traveler_adult_female_365.png",
+    "noble_adult_female_366": "assets/npc_portraits/noble_adult_female_366.png",
+    "noble_adult_female_367": "assets/npc_portraits/noble_adult_female_367.png",
+    "priest_adult_female_368": "assets/npc_portraits/priest_adult_female_368.png",
+    "knight_adult_female_369": "assets/npc_portraits/knight_adult_female_369.png",
+    "scholar_child_female_370": "assets/npc_portraits/scholar_child_female_370.png",
+    "priest_child_male_371": "assets/npc_portraits/priest_child_male_371.png",
+    "bard_adult_male_372": "assets/npc_portraits/bard_adult_male_372.png",
+    "knight_child_male_373": "assets/npc_portraits/knight_child_male_373.png",
+    "traveler_young_female_374": "assets/npc_portraits/traveler_young_female_374.png",
+    "priest_child_male_375": "assets/npc_portraits/priest_child_male_375.png",
+    "scholar_adult_male_376": "assets/npc_portraits/scholar_adult_male_376.png",
+    "priest_elderly_female_377": "assets/npc_portraits/priest_elderly_female_377.png",
+    "mage_young_female_378": "assets/npc_portraits/mage_young_female_378.png",
+    "farmer_adult_female_379": "assets/npc_portraits/farmer_adult_female_379.png",
+    "hunter_child_female_380": "assets/npc_portraits/hunter_child_female_380.png",
+    "rogue_young_male_381": "assets/npc_portraits/rogue_young_male_381.png",
+    "priest_child_female_382": "assets/npc_portraits/priest_child_female_382.png",
+    "villager_young_female_383": "assets/npc_portraits/villager_young_female_383.png",
+    "noble_young_male_384": "assets/npc_portraits/noble_young_male_384.png",
+    "farmer_young_male_385": "assets/npc_portraits/farmer_young_male_385.png",
+    "knight_elderly_male_386": "assets/npc_portraits/knight_elderly_male_386.png",
+    "merchant_adult_male_387": "assets/npc_portraits/merchant_adult_male_387.png",
+    "merchant_adult_female_388": "assets/npc_portraits/merchant_adult_female_388.png",
+    "farmer_young_female_389": "assets/npc_portraits/farmer_young_female_389.png",
+    "knight_child_male_390": "assets/npc_portraits/knight_child_male_390.png",
+    "villager_elderly_male_391": "assets/npc_portraits/villager_elderly_male_391.png",
+    "scholar_elderly_female_392": "assets/npc_portraits/scholar_elderly_female_392.png",
+    "merchant_child_female_393": "assets/npc_portraits/merchant_child_female_393.png",
+    "rogue_elderly_female_394": "assets/npc_portraits/rogue_elderly_female_394.png",
+    "priest_child_male_395": "assets/npc_portraits/priest_child_male_395.png",
+    "noble_adult_female_396": "assets/npc_portraits/noble_adult_female_396.png",
+    "priest_adult_male_397": "assets/npc_portraits/priest_adult_male_397.png",
+    "rogue_adult_male_398": "assets/npc_portraits/rogue_adult_male_398.png",
+    "scholar_adult_female_399": "assets/npc_portraits/scholar_adult_female_399.png",
+    "rogue_adult_male_400": "assets/npc_portraits/rogue_adult_male_400.png"
+  },
+  "icons": {
+    "attack": "assets/icons/attack.png",
+    "cast_spell": "assets/icons/cast_spell.png",
+    "interact": "assets/icons/interact.png",
+    "move": "assets/icons/move.png",
+    "talk": "assets/icons/talk.png"
+  },
+  "lore_index": {
+    "world": {
+      "мир.txt": "Общее описание мира Relain, география, структура государств и цивилизаций.",
+      "Миф_о_Зарождении_Вселенной_Dewfals_с_Пантеоном.txt": "Миф о создании вселенной и боги Пантеона Dewfals.",
+      "фендаментальные законы мирв.txt": "Фундаментальные физические и магические законы мира Relain.",
+      "Hero_Origin_Echoes_of_Relain.txt": "Происхождение главного героя, его путь и ключевые события.",
+      "Echoes_of_Relain_Magic_Spells_Expanded.txt": "Описание базовых и продвинутых заклинаний.",
+      "Echoes_of_Relain_Magic_Spells_Expanded_v3.txt": "Обновлённая версия расширенных магических школ."
+    },
+    "panteon": {
+      "пантеон.txt": "Боги, их сферы влияния, атрибуты, святые места и взаимодействие с миром."
+    },
+    "magic": {
+      "Academy_Life_Echoes_of_Relain.txt": "Жизнь студентов академии магии. Повседневность, ритуалы, учеба.",
+      "School_Magic_Education_Echoes_of_Relain.txt": "Общее описание системы обучения магии.",
+      "University_Magic_Education_Echoes_of_Relain.txt": "Образование в университетах магии.",
+      "University_Internal_Structure_Echoes_of_Relain.txt": "Устройство магических академий и факультетов.",
+      "Universities_and_Student_Profiles_Echoes_of_Relain.txt": "Типы студентов, профили, академическая жизнь.",
+      "Runic_Language_and_Trigrams_Echoes_of_Relain.txt": "Руны, триграммы, использование в магии.",
+      "Pentagram_Visual_Guide_Echoes_of_Relain.docx": "Визуальное руководство по построению пентаграмм.",
+      "Trigram_Effect_Table_Echoes_of_Relain.docx": "Эффекты триграмм и взаимодействие в ритуалах."
+    }
+  },
+  "items": {
+    "Ancient_Key": "assets/items/Ancient_Key.png",
+    "Void_Crystal": "assets/items/Void_Crystal.png",
+    "Healing_Potion": "assets/items/Healing_Potion.png"
+  },
+  "quests": {
+    "Q001": {
+      "name": "Echo of the Forgotten",
+      "status": "not_started",
+      "objectives": [
+        "Reach the ruins",
+        "Find the lost artifact",
+        "Return to the archivist"
+      ]
+    },
+    "Q002": {
+      "name": "Veilwood Whispers",
+      "status": "not_started",
+      "objectives": [
+        "Speak to the witch",
+        "Survive the vision",
+        "Seal the gate"
+      ]
+    }
+  },
+  "saves": {
+    "save_slots": {
+      "slot_01": "saves/save_01.json",
+      "slot_02": "saves/save_02.json"
+    }
+  },
+  "map_data": {
+    "main_world_map": "maps/relain_overworld_map.png",
+    "regions": {
+      "Veilwood": "maps/veilwood_map.png",
+      "Sapphire Coast": "maps/sapphire_coast.png"
+    }
+  },
+  "skills": {
+    "Arcane_Blast": {
+      "icon": "skills/arcane_blast.png",
+      "description": "Unleashes a burst of unstable mana at the target."
+    },
+    "Stealth_Step": {
+      "icon": "skills/stealth_step.png",
+      "description": "Briefly vanish from sight and reappear behind an enemy."
+    }
+  },
+  "factions": {
+    "Order_of_The_Aegis": {
+      "symbol": "factions/order_aegis.png",
+      "description": "An elite guild of magic-wielding protectors sworn to guard the balance."
+    },
+    "Crimson_Tide": {
+      "symbol": "factions/crimson_tide.png",
+      "description": "Rogue mages and mercenaries thriving on chaos and forbidden rites."
+    }
+  }
+}

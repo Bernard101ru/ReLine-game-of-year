@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Свет чаши",
+    "school": "Начальная магия",
+    "description": "Базовое школьное заклинание: Свет чаши. Используется в быту или на тренировках.",
+    "icon_prompt": "Pixel art UI icon for school magic spell 'Свет чаши'. Clean glyph or item icon in SNES RPG style. 64x64.",
+    "image_path": "lore/magic/assets/icons/school/свет_чаши.png",
+    "use_case": "Used in beginner spell UI interface: 'Свет чаши'."
+  },
+  {
+    "name": "Искра очага",
+    "school": "Начальная магия",
+    "description": "Базовое школьное заклинание: Искра очага. Используется в быту или на тренировках.",
+    "icon_prompt": "Pixel art UI icon for school magic spell 'Искра очага'. Clean glyph or item icon in SNES RPG style. 64x64.",
+    "image_path": "lore/magic/assets/icons/school/искра_очага.png",
+    "use_case": "Used in beginner spell UI interface: 'Искра очага'."
+  },
+  {
+    "name": "Лёгкое омовение",
+    "school": "Начальная магия",
+    "description": "Базовое школьное заклинание: Лёгкое омовение. Используется в быту или на тренировках.",
+    "icon_prompt": "Pixel art UI icon for school magic spell 'Лёгкое омовение'. Clean glyph or item icon in SNES RPG style. 64x64.",
+    "image_path": "lore/magic/assets/icons/school/легкое_омовение.png",
+    "use_case": "Used in beginner spell UI interface: 'Лёгкое омовение'."
+  }
+]

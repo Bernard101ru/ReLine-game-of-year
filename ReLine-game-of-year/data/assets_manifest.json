@@ -1,0 +1,100 @@
+[
+  {
+    "name": "knight",
+    "path": "assets/characters/humans/knight.png",
+    "type": "characters",
+    "category": "humans",
+    "tags": []
+  },
+  {
+    "name": "archer",
+    "path": "assets/characters/humans/archer.png",
+    "type": "characters",
+    "category": "humans",
+    "tags": []
+  },
+  {
+    "name": "goblin",
+    "path": "assets/characters/monsters/goblin.png",
+    "type": "characters",
+    "category": "monsters",
+    "tags": []
+  },
+  {
+    "name": "orc",
+    "path": "assets/characters/monsters/orc.png",
+    "type": "characters",
+    "category": "monsters",
+    "tags": []
+  },
+  {
+    "name": "sword",
+    "path": "assets/items/weapons/sword.png",
+    "type": "items",
+    "category": "weapons",
+    "tags": []
+  },
+  {
+    "name": "bow",
+    "path": "assets/items/weapons/bow.png",
+    "type": "items",
+    "category": "weapons",
+    "tags": []
+  },
+  {
+    "name": "sword_icon",
+    "path": "assets/items/assets/icons/sword_icon.png",
+    "type": "items",
+    "category": "icons",
+    "tags": []
+  },
+  {
+    "name": "bow_icon",
+    "path": "assets/items/assets/icons/bow_icon.png",
+    "type": "items",
+    "category": "icons",
+    "tags": []
+  },
+  {
+    "name": "fireball",
+    "path": "assets/spells/fire/fireball.png",
+    "type": "spells",
+    "category": "fire",
+    "tags": []
+  },
+  {
+    "name": "ice_shard",
+    "path": "assets/spells/ice/ice_shard.png",
+    "type": "spells",
+    "category": "ice",
+    "tags": []
+  },
+  {
+    "name": "slash_effect",
+    "path": "assets/effects/slash_effect.png",
+    "type": "effects",
+    "category": "",
+    "tags": []
+  },
+  {
+    "name": "cursor",
+    "path": "assets/ui/cursor.png",
+    "type": "ui",
+    "category": "",
+    "tags": []
+  },
+  {
+    "name": "tree",
+    "path": "environment/tree.png",
+    "type": "environment",
+    "category": "",
+    "tags": []
+  },
+  {
+    "name": "rock",
+    "path": "environment/rock.png",
+    "type": "environment",
+    "category": "",
+    "tags": []
+  }
+]
