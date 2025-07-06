@@ -1,0 +1,298 @@
+[
+  {
+    "name": "Атака",
+    "category": "actions",
+    "description": "Кнопка для физической атаки",
+    "prompt": "Pixel art RPG icon for 'Атака'. Simple symbolic glyph, SNES Final Fantasy VI interface style, 32x32, flat color with fantasy UI clarity.",
+    "image_path": "icons/actions/атака.png",
+    "use_case": "Кнопка для физической атаки"
+  },
+  {
+    "name": "Защита",
+    "category": "actions",
+    "description": "Активация режима защиты или блок",
+    "prompt": "Pixel art RPG icon for 'Защита'. Simple symbolic glyph, SNES Final Fantasy VI interface style, 32x32, flat color with fantasy UI clarity.",
+    "image_path": "icons/actions/защита.png",
+    "use_case": "Активация режима защиты или блок"
+  },
+  {
+    "name": "Уворот",
+    "category": "actions",
+    "description": "Избежать следующей атаки",
+    "prompt": "Pixel art RPG icon for 'Уворот'. Simple symbolic glyph, SNES Final Fantasy VI interface style, 32x32, flat color with fantasy UI clarity.",
+    "image_path": "icons/actions/уворот.png",
+    "use_case": "Избежать следующей атаки"
+  },
+  {
+    "name": "Изучить",
+    "category": "actions",
+    "description": "Осмотреть объект, исследовать",
+    "prompt": "Pixel art RPG icon for 'Изучить'. Simple symbolic glyph, SNES Final Fantasy VI interface style, 32x32, flat color with fantasy UI clarity.",
+    "image_path": "icons/actions/изучить.png",
+    "use_case": "Осмотреть объект, исследовать"
+  },
+  {
+    "name": "Поднять",
+    "category": "actions",
+    "description": "Поднять предмет",
+    "prompt": "Pixel art RPG icon for 'Поднять'. Simple symbolic glyph, SNES Final Fantasy VI interface style, 32x32, flat color with fantasy UI clarity.",
+    "image_path": "icons/actions/поднять.png",
+    "use_case": "Поднять предмет"
+  },
+  {
+    "name": "Открыть",
+    "category": "actions",
+    "description": "Открыть сундук, дверь, интерфейс",
+    "prompt": "Pixel art RPG icon for 'Открыть'. Simple symbolic glyph, SNES Final Fantasy VI interface style, 32x32, flat color with fantasy UI clarity.",
+    "image_path": "icons/actions/открыть.png",
+    "use_case": "Открыть сундук, дверь, интерфейс"
+  },
+  {
+    "name": "Взаимодействие",
+    "category": "actions",
+    "description": "Начать взаимодействие с NPC или объектом",
+    "prompt": "Pixel art RPG icon for 'Взаимодействие'. Simple symbolic glyph, SNES Final Fantasy VI interface style, 32x32, flat color with fantasy UI clarity.",
+    "image_path": "icons/actions/взаимодействие.png",
+    "use_case": "Начать взаимодействие с NPC или объектом"
+  },
+  {
+    "name": "Применить",
+    "category": "actions",
+    "description": "Использовать выбранный предмет или заклинание",
+    "prompt": "Pixel art RPG icon for 'Применить'. Simple symbolic glyph, SNES Final Fantasy VI interface style, 32x32, flat color with fantasy UI clarity.",
+    "image_path": "icons/actions/применить.png",
+    "use_case": "Использовать выбранный предмет или заклинание"
+  },
+  {
+    "name": "Скрыться",
+    "category": "actions",
+    "description": "Активация режима скрытности",
+    "prompt": "Pixel art RPG icon for 'Скрыться'. Simple symbolic glyph, SNES Final Fantasy VI interface style, 32x32, flat color with fantasy UI clarity.",
+    "image_path": "icons/actions/скрыться.png",
+    "use_case": "Активация режима скрытности"
+  },
+  {
+    "name": "Каст",
+    "category": "actions",
+    "description": "Начало применения магии",
+    "prompt": "Pixel art RPG icon for 'Каст'. Simple symbolic glyph, SNES Final Fantasy VI interface style, 32x32, flat color with fantasy UI clarity.",
+    "image_path": "icons/actions/каст.png",
+    "use_case": "Начало применения магии"
+  },
+  {
+    "name": "Инвентарь",
+    "category": "system",
+    "description": "Открыть рюкзак",
+    "prompt": "Pixel art RPG icon for 'Инвентарь'. Simple symbolic glyph, SNES Final Fantasy VI interface style, 32x32, flat color with fantasy UI clarity.",
+    "image_path": "icons/system/инвентарь.png",
+    "use_case": "Открыть рюкзак"
+  },
+  {
+    "name": "Карта",
+    "category": "system",
+    "description": "Открыть карту мира",
+    "prompt": "Pixel art RPG icon for 'Карта'. Simple symbolic glyph, SNES Final Fantasy VI interface style, 32x32, flat color with fantasy UI clarity.",
+    "image_path": "icons/system/карта.png",
+    "use_case": "Открыть карту мира"
+  },
+  {
+    "name": "Меню",
+    "category": "system",
+    "description": "Главное меню",
+    "prompt": "Pixel art RPG icon for 'Меню'. Simple symbolic glyph, SNES Final Fantasy VI interface style, 32x32, flat color with fantasy UI clarity.",
+    "image_path": "icons/system/меню.png",
+    "use_case": "Главное меню"
+  },
+  {
+    "name": "Настройки",
+    "category": "system",
+    "description": "Настройки игры",
+    "prompt": "Pixel art RPG icon for 'Настройки'. Simple symbolic glyph, SNES Final Fantasy VI interface style, 32x32, flat color with fantasy UI clarity.",
+    "image_path": "icons/system/настройки.png",
+    "use_case": "Настройки игры"
+  },
+  {
+    "name": "Сохранить",
+    "category": "system",
+    "description": "Создать точку сохранения",
+    "prompt": "Pixel art RPG icon for 'Сохранить'. Simple symbolic glyph, SNES Final Fantasy VI interface style, 32x32, flat color with fantasy UI clarity.",
+    "image_path": "icons/system/сохранить.png",
+    "use_case": "Создать точку сохранения"
+  },
+  {
+    "name": "Загрузить",
+    "category": "system",
+    "description": "Загрузить сохранение",
+    "prompt": "Pixel art RPG icon for 'Загрузить'. Simple symbolic glyph, SNES Final Fantasy VI interface style, 32x32, flat color with fantasy UI clarity.",
+    "image_path": "icons/system/загрузить.png",
+    "use_case": "Загрузить сохранение"
+  },
+  {
+    "name": "Журнал",
+    "category": "system",
+    "description": "Журнал квестов",
+    "prompt": "Pixel art RPG icon for 'Журнал'. Simple symbolic glyph, SNES Final Fantasy VI interface style, 32x32, flat color with fantasy UI clarity.",
+    "image_path": "icons/system/журнал.png",
+    "use_case": "Журнал квестов"
+  },
+  {
+    "name": "Выход",
+    "category": "system",
+    "description": "Выйти из игры",
+    "prompt": "Pixel art RPG icon for 'Выход'. Simple symbolic glyph, SNES Final Fantasy VI interface style, 32x32, flat color with fantasy UI clarity.",
+    "image_path": "icons/system/выход.png",
+    "use_case": "Выйти из игры"
+  },
+  {
+    "name": "Справка",
+    "category": "system",
+    "description": "Информация и подсказки",
+    "prompt": "Pixel art RPG icon for 'Справка'. Simple symbolic glyph, SNES Final Fantasy VI interface style, 32x32, flat color with fantasy UI clarity.",
+    "image_path": "icons/system/справка.png",
+    "use_case": "Информация и подсказки"
+  },
+  {
+    "name": "Зарядка",
+    "category": "magic",
+    "description": "Подготовка магии перед кастом",
+    "prompt": "Pixel art RPG icon for 'Зарядка'. Simple symbolic glyph, SNES Final Fantasy VI interface style, 32x32, flat color with fantasy UI clarity.",
+    "image_path": "icons/magic/зарядка.png",
+    "use_case": "Подготовка магии перед кастом"
+  },
+  {
+    "name": "Концентрация",
+    "category": "magic",
+    "description": "Фокусировка энергии",
+    "prompt": "Pixel art RPG icon for 'Концентрация'. Simple symbolic glyph, SNES Final Fantasy VI interface style, 32x32, flat color with fantasy UI clarity.",
+    "image_path": "icons/magic/концентрация.png",
+    "use_case": "Фокусировка энергии"
+  },
+  {
+    "name": "Барьер",
+    "category": "magic",
+    "description": "Активация защитного заклинания",
+    "prompt": "Pixel art RPG icon for 'Барьер'. Simple symbolic glyph, SNES Final Fantasy VI interface style, 32x32, flat color with fantasy UI clarity.",
+    "image_path": "icons/magic/барьер.png",
+    "use_case": "Активация защитного заклинания"
+  },
+  {
+    "name": "Область",
+    "category": "magic",
+    "description": "Выбор зоны применения",
+    "prompt": "Pixel art RPG icon for 'Область'. Simple symbolic glyph, SNES Final Fantasy VI interface style, 32x32, flat color with fantasy UI clarity.",
+    "image_path": "icons/magic/область.png",
+    "use_case": "Выбор зоны применения"
+  },
+  {
+    "name": "Разряд",
+    "category": "magic",
+    "description": "Момент выпуска магии",
+    "prompt": "Pixel art RPG icon for 'Разряд'. Simple symbolic glyph, SNES Final Fantasy VI interface style, 32x32, flat color with fantasy UI clarity.",
+    "image_path": "icons/magic/разряд.png",
+    "use_case": "Момент выпуска магии"
+  },
+  {
+    "name": "Призыв",
+    "category": "magic",
+    "description": "Призыв существа или структуры",
+    "prompt": "Pixel art RPG icon for 'Призыв'. Simple symbolic glyph, SNES Final Fantasy VI interface style, 32x32, flat color with fantasy UI clarity.",
+    "image_path": "icons/magic/призыв.png",
+    "use_case": "Призыв существа или структуры"
+  },
+  {
+    "name": "Откат",
+    "category": "magic",
+    "description": "Иконка ожидания перезарядки",
+    "prompt": "Pixel art RPG icon for 'Откат'. Simple symbolic glyph, SNES Final Fantasy VI interface style, 32x32, flat color with fantasy UI clarity.",
+    "image_path": "icons/magic/откат.png",
+    "use_case": "Иконка ожидания перезарядки"
+  },
+  {
+    "name": "Манипуляция",
+    "category": "magic",
+    "description": "Изменение объекта заклинанием",
+    "prompt": "Pixel art RPG icon for 'Манипуляция'. Simple symbolic glyph, SNES Final Fantasy VI interface style, 32x32, flat color with fantasy UI clarity.",
+    "image_path": "icons/magic/манипуляция.png",
+    "use_case": "Изменение объекта заклинанием"
+  },
+  {
+    "name": "Легенда карты",
+    "category": "map",
+    "description": "Показать условные обозначения",
+    "prompt": "Pixel art RPG icon for 'Легенда карты'. Symbolic flat fantasy UI icon, SNES interface style, 32x32.",
+    "image_path": "icons/map/легенда_карты.png",
+    "use_case": "Показать условные обозначения"
+  },
+  {
+    "name": "Метка игрока",
+    "category": "map",
+    "description": "Позиция игрока на карте",
+    "prompt": "Pixel art RPG icon for 'Метка игрока'. Symbolic flat fantasy UI icon, SNES interface style, 32x32.",
+    "image_path": "icons/map/метка_игрока.png",
+    "use_case": "Позиция игрока на карте"
+  },
+  {
+    "name": "Цель квеста",
+    "category": "map",
+    "description": "Отображение текущей задачи",
+    "prompt": "Pixel art RPG icon for 'Цель квеста'. Symbolic flat fantasy UI icon, SNES interface style, 32x32.",
+    "image_path": "icons/map/цель_квеста.png",
+    "use_case": "Отображение текущей задачи"
+  },
+  {
+    "name": "Точка интереса",
+    "category": "map",
+    "description": "Обозначение места исследования",
+    "prompt": "Pixel art RPG icon for 'Точка интереса'. Symbolic flat fantasy UI icon, SNES interface style, 32x32.",
+    "image_path": "icons/map/точка_интереса.png",
+    "use_case": "Обозначение места исследования"
+  },
+  {
+    "name": "Портал",
+    "category": "map",
+    "description": "Магическая точка перемещения",
+    "prompt": "Pixel art RPG icon for 'Портал'. Symbolic flat fantasy UI icon, SNES interface style, 32x32.",
+    "image_path": "icons/map/портал.png",
+    "use_case": "Магическая точка перемещения"
+  },
+  {
+    "name": "Диалог",
+    "category": "interaction",
+    "description": "Начало разговора с NPC",
+    "prompt": "Pixel art RPG icon for 'Диалог'. Symbolic flat fantasy UI icon, SNES interface style, 32x32.",
+    "image_path": "icons/interaction/диалог.png",
+    "use_case": "Начало разговора с NPC"
+  },
+  {
+    "name": "Выбор",
+    "category": "interaction",
+    "description": "Игровой выбор в диалоге",
+    "prompt": "Pixel art RPG icon for 'Выбор'. Symbolic flat fantasy UI icon, SNES interface style, 32x32.",
+    "image_path": "icons/interaction/выбор.png",
+    "use_case": "Игровой выбор в диалоге"
+  },
+  {
+    "name": "Поиск",
+    "category": "interaction",
+    "description": "Изучение локации на предмет объектов",
+    "prompt": "Pixel art RPG icon for 'Поиск'. Symbolic flat fantasy UI icon, SNES interface style, 32x32.",
+    "image_path": "icons/interaction/поиск.png",
+    "use_case": "Изучение локации на предмет объектов"
+  },
+  {
+    "name": "Замок",
+    "category": "interaction",
+    "description": "Закрытый объект",
+    "prompt": "Pixel art RPG icon for 'Замок'. Symbolic flat fantasy UI icon, SNES interface style, 32x32.",
+    "image_path": "icons/interaction/замок.png",
+    "use_case": "Закрытый объект"
+  },
+  {
+    "name": "Открыт",
+    "category": "interaction",
+    "description": "Открытый объект",
+    "prompt": "Pixel art RPG icon for 'Открыт'. Symbolic flat fantasy UI icon, SNES interface style, 32x32.",
+    "image_path": "icons/interaction/открыт.png",
+    "use_case": "Открытый объект"
+  }
+]

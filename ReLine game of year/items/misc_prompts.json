@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Old Map",
+    "prompt": "Pixel art of a old map as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/misc/old_map.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in misc category."
+  },
+  {
+    "name": "Mechanical Part",
+    "prompt": "Pixel art of a mechanical part as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/misc/mechanical_part.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in misc category."
+  },
+  {
+    "name": "Glass Bottle",
+    "prompt": "Pixel art of a glass bottle as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/misc/glass_bottle.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in misc category."
+  },
+  {
+    "name": "Dice",
+    "prompt": "Pixel art of a dice as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/misc/dice.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in misc category."
+  },
+  {
+    "name": "Playing Cards",
+    "prompt": "Pixel art of a playing cards as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/misc/playing_cards.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in misc category."
+  },
+  {
+    "name": "Rope",
+    "prompt": "Pixel art of a rope as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/misc/rope.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in misc category."
+  },
+  {
+    "name": "Candle",
+    "prompt": "Pixel art of a candle as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/misc/candle.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in misc category."
+  },
+  {
+    "name": "Pocket Watch",
+    "prompt": "Pixel art of a pocket watch as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/misc/pocket_watch.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in misc category."
+  },
+  {
+    "name": "Music Box",
+    "prompt": "Pixel art of a music box as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/misc/music_box.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in misc category."
+  }
+]

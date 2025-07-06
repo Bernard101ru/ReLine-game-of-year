@@ -1,0 +1,1322 @@
+[
+  {
+    "name": "Arcane Pistol",
+    "prompt": "Pixel art of a arcane pistol as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/arcane_pistol.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Battle Axe",
+    "prompt": "Pixel art of a battle axe as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/battle_axe.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Boomerang",
+    "prompt": "Pixel art of a boomerang as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/boomerang.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Carved Boomerang",
+    "prompt": "Pixel art of a carved boomerang as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/carved_boomerang.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Carved Chakram",
+    "prompt": "Pixel art of a carved chakram as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/carved_chakram.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Carved Crossbow",
+    "prompt": "Pixel art of a carved crossbow as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/carved_crossbow.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Carved Hand Crossbow",
+    "prompt": "Pixel art of a carved hand crossbow as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/carved_hand_crossbow.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Carved Hunting Bow",
+    "prompt": "Pixel art of a carved hunting bow as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/carved_hunting_bow.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Carved Javelin",
+    "prompt": "Pixel art of a carved javelin as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/carved_javelin.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Carved Longbow",
+    "prompt": "Pixel art of a carved longbow as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/carved_longbow.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Carved Recurve Bow",
+    "prompt": "Pixel art of a carved recurve bow as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/carved_recurve_bow.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Carved Repeating Crossbow",
+    "prompt": "Pixel art of a carved repeating crossbow as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/carved_repeating_crossbow.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Carved Shortbow",
+    "prompt": "Pixel art of a carved shortbow as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/carved_shortbow.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Carved Throwing Axe",
+    "prompt": "Pixel art of a carved throwing axe as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/carved_throwing_axe.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Carved Throwing Knife",
+    "prompt": "Pixel art of a carved throwing knife as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/carved_throwing_knife.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Chakram",
+    "prompt": "Pixel art of a chakram as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/chakram.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Club",
+    "prompt": "Pixel art of a club as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/club.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Composite Boomerang",
+    "prompt": "Pixel art of a composite boomerang as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/composite_boomerang.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Composite Chakram",
+    "prompt": "Pixel art of a composite chakram as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/composite_chakram.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Composite Crossbow",
+    "prompt": "Pixel art of a composite crossbow as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/composite_crossbow.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Composite Hand Crossbow",
+    "prompt": "Pixel art of a composite hand crossbow as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/composite_hand_crossbow.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Composite Hunting Bow",
+    "prompt": "Pixel art of a composite hunting bow as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/composite_hunting_bow.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Composite Javelin",
+    "prompt": "Pixel art of a composite javelin as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/composite_javelin.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Composite Longbow",
+    "prompt": "Pixel art of a composite longbow as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/composite_longbow.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Composite Recurve Bow",
+    "prompt": "Pixel art of a composite recurve bow as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/composite_recurve_bow.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Composite Repeating Crossbow",
+    "prompt": "Pixel art of a composite repeating crossbow as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/composite_repeating_crossbow.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Composite Shortbow",
+    "prompt": "Pixel art of a composite shortbow as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/composite_shortbow.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Composite Throwing Axe",
+    "prompt": "Pixel art of a composite throwing axe as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/composite_throwing_axe.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Composite Throwing Knife",
+    "prompt": "Pixel art of a composite throwing knife as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/composite_throwing_knife.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Crossbow",
+    "prompt": "Pixel art of a crossbow as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/crossbow.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Crystal Musket",
+    "prompt": "Pixel art of a crystal musket as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/crystal_musket.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Cutlass",
+    "prompt": "Pixel art of a cutlass as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/cutlass.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Dagger",
+    "prompt": "Pixel art of a dagger as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/dagger.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Elemental Revolver",
+    "prompt": "Pixel art of a elemental revolver as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/elemental_revolver.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Elven Boomerang",
+    "prompt": "Pixel art of a elven boomerang as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/elven_boomerang.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Elven Chakram",
+    "prompt": "Pixel art of a elven chakram as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/elven_chakram.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Elven Crossbow",
+    "prompt": "Pixel art of a elven crossbow as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/elven_crossbow.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Elven Hand Crossbow",
+    "prompt": "Pixel art of a elven hand crossbow as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/elven_hand_crossbow.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Elven Hunting Bow",
+    "prompt": "Pixel art of a elven hunting bow as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/elven_hunting_bow.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Elven Javelin",
+    "prompt": "Pixel art of a elven javelin as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/elven_javelin.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Elven Longbow",
+    "prompt": "Pixel art of a elven longbow as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/elven_longbow.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Elven Recurve Bow",
+    "prompt": "Pixel art of a elven recurve bow as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/elven_recurve_bow.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Elven Repeating Crossbow",
+    "prompt": "Pixel art of a elven repeating crossbow as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/elven_repeating_crossbow.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Elven Shortbow",
+    "prompt": "Pixel art of a elven shortbow as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/elven_shortbow.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Elven Throwing Axe",
+    "prompt": "Pixel art of a elven throwing axe as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/elven_throwing_axe.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Elven Throwing Knife",
+    "prompt": "Pixel art of a elven throwing knife as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/elven_throwing_knife.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Enchanted Battle Axe",
+    "prompt": "Pixel art of a enchanted battle axe as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/enchanted_battle_axe.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Enchanted Club",
+    "prompt": "Pixel art of a enchanted club as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/enchanted_club.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Enchanted Cutlass",
+    "prompt": "Pixel art of a enchanted cutlass as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/enchanted_cutlass.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Enchanted Dagger",
+    "prompt": "Pixel art of a enchanted dagger as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/enchanted_dagger.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Enchanted Flanged Mace",
+    "prompt": "Pixel art of a enchanted flanged mace as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/enchanted_flanged_mace.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Enchanted Glaive",
+    "prompt": "Pixel art of a enchanted glaive as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/enchanted_glaive.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Enchanted Greatsword",
+    "prompt": "Pixel art of a enchanted greatsword as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/enchanted_greatsword.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Enchanted Halberd",
+    "prompt": "Pixel art of a enchanted halberd as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/enchanted_halberd.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Enchanted Hatchet",
+    "prompt": "Pixel art of a enchanted hatchet as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/enchanted_hatchet.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Enchanted Lance",
+    "prompt": "Pixel art of a enchanted lance as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/enchanted_lance.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Enchanted Long Sword",
+    "prompt": "Pixel art of a enchanted long sword as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/enchanted_long_sword.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Enchanted Mace",
+    "prompt": "Pixel art of a enchanted mace as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/enchanted_mace.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Enchanted Morning Star",
+    "prompt": "Pixel art of a enchanted morning star as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/enchanted_morning_star.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Enchanted Pike",
+    "prompt": "Pixel art of a enchanted pike as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/enchanted_pike.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Enchanted Quarterstaff",
+    "prompt": "Pixel art of a enchanted quarterstaff as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/enchanted_quarterstaff.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Enchanted Rapier",
+    "prompt": "Pixel art of a enchanted rapier as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/enchanted_rapier.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Enchanted Scimitar",
+    "prompt": "Pixel art of a enchanted scimitar as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/enchanted_scimitar.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Enchanted Short Sword",
+    "prompt": "Pixel art of a enchanted short sword as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/enchanted_short_sword.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Enchanted Spear",
+    "prompt": "Pixel art of a enchanted spear as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/enchanted_spear.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Enchanted Spiked Club",
+    "prompt": "Pixel art of a enchanted spiked club as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/enchanted_spiked_club.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Enchanted Stiletto",
+    "prompt": "Pixel art of a enchanted stiletto as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/enchanted_stiletto.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Enchanted Tomahawk",
+    "prompt": "Pixel art of a enchanted tomahawk as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/enchanted_tomahawk.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Enchanted Trident",
+    "prompt": "Pixel art of a enchanted trident as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/enchanted_trident.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Enchanted War Axe",
+    "prompt": "Pixel art of a enchanted war axe as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/enchanted_war_axe.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Enchanted Warhammer",
+    "prompt": "Pixel art of a enchanted warhammer as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/enchanted_warhammer.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Flanged Mace",
+    "prompt": "Pixel art of a flanged mace as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/flanged_mace.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Freezing Barrel",
+    "prompt": "Pixel art of a freezing barrel as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/freezing_barrel.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Glaive",
+    "prompt": "Pixel art of a glaive as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/glaive.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Golemshot",
+    "prompt": "Pixel art of a golemshot as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/golemshot.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Greatsword",
+    "prompt": "Pixel art of a greatsword as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/greatsword.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Halberd",
+    "prompt": "Pixel art of a halberd as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/halberd.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Hand Crossbow",
+    "prompt": "Pixel art of a hand crossbow as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/hand_crossbow.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Hatchet",
+    "prompt": "Pixel art of a hatchet as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/hatchet.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Heavy Arcane Pistol",
+    "prompt": "Pixel art of a heavy arcane pistol as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/heavy_arcane_pistol.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Heavy Crystal Musket",
+    "prompt": "Pixel art of a heavy crystal musket as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/heavy_crystal_musket.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Heavy Elemental Revolver",
+    "prompt": "Pixel art of a heavy elemental revolver as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/heavy_elemental_revolver.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Heavy Freezing Barrel",
+    "prompt": "Pixel art of a heavy freezing barrel as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/heavy_freezing_barrel.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Heavy Golemshot",
+    "prompt": "Pixel art of a heavy golemshot as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/heavy_golemshot.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Heavy Inferno Gun",
+    "prompt": "Pixel art of a heavy inferno gun as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/heavy_inferno_gun.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Heavy Magnetic Blaster",
+    "prompt": "Pixel art of a heavy magnetic blaster as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/heavy_magnetic_blaster.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Heavy Mana Charger",
+    "prompt": "Pixel art of a heavy mana charger as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/heavy_mana_charger.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Heavy Runed Shotgun",
+    "prompt": "Pixel art of a heavy runed shotgun as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/heavy_runed_shotgun.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Heavy Runic Flintlock",
+    "prompt": "Pixel art of a heavy runic flintlock as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/heavy_runic_flintlock.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Heavy Sparkshot",
+    "prompt": "Pixel art of a heavy sparkshot as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/heavy_sparkshot.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Heavy Thaumaturgic Handgun",
+    "prompt": "Pixel art of a heavy thaumaturgic handgun as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/heavy_thaumaturgic_handgun.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Hunting Bow",
+    "prompt": "Pixel art of a hunting bow as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/hunting_bow.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Inferno Gun",
+    "prompt": "Pixel art of a inferno gun as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/inferno_gun.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Javelin",
+    "prompt": "Pixel art of a javelin as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/javelin.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Lance",
+    "prompt": "Pixel art of a lance as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/lance.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Long Sword",
+    "prompt": "Pixel art of a long sword as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/long_sword.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Longbow",
+    "prompt": "Pixel art of a longbow as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/longbow.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Mace",
+    "prompt": "Pixel art of a mace as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/mace.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Magnetic Blaster",
+    "prompt": "Pixel art of a magnetic blaster as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/magnetic_blaster.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Mana Charger",
+    "prompt": "Pixel art of a mana charger as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/mana_charger.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Modified Arcane Pistol",
+    "prompt": "Pixel art of a modified arcane pistol as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/modified_arcane_pistol.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Modified Crystal Musket",
+    "prompt": "Pixel art of a modified crystal musket as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/modified_crystal_musket.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Modified Elemental Revolver",
+    "prompt": "Pixel art of a modified elemental revolver as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/modified_elemental_revolver.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Modified Freezing Barrel",
+    "prompt": "Pixel art of a modified freezing barrel as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/modified_freezing_barrel.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Modified Golemshot",
+    "prompt": "Pixel art of a modified golemshot as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/modified_golemshot.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Modified Inferno Gun",
+    "prompt": "Pixel art of a modified inferno gun as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/modified_inferno_gun.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Modified Magnetic Blaster",
+    "prompt": "Pixel art of a modified magnetic blaster as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/modified_magnetic_blaster.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Modified Mana Charger",
+    "prompt": "Pixel art of a modified mana charger as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/modified_mana_charger.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Modified Runed Shotgun",
+    "prompt": "Pixel art of a modified runed shotgun as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/modified_runed_shotgun.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Modified Runic Flintlock",
+    "prompt": "Pixel art of a modified runic flintlock as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/modified_runic_flintlock.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Modified Sparkshot",
+    "prompt": "Pixel art of a modified sparkshot as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/modified_sparkshot.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Modified Thaumaturgic Handgun",
+    "prompt": "Pixel art of a modified thaumaturgic handgun as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/modified_thaumaturgic_handgun.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Morning Star",
+    "prompt": "Pixel art of a morning star as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/morning_star.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Ornate Battle Axe",
+    "prompt": "Pixel art of a ornate battle axe as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/ornate_battle_axe.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Ornate Club",
+    "prompt": "Pixel art of a ornate club as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/ornate_club.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Ornate Cutlass",
+    "prompt": "Pixel art of a ornate cutlass as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/ornate_cutlass.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Ornate Dagger",
+    "prompt": "Pixel art of a ornate dagger as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/ornate_dagger.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Ornate Flanged Mace",
+    "prompt": "Pixel art of a ornate flanged mace as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/ornate_flanged_mace.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Ornate Glaive",
+    "prompt": "Pixel art of a ornate glaive as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/ornate_glaive.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Ornate Greatsword",
+    "prompt": "Pixel art of a ornate greatsword as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/ornate_greatsword.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Ornate Halberd",
+    "prompt": "Pixel art of a ornate halberd as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/ornate_halberd.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Ornate Hatchet",
+    "prompt": "Pixel art of a ornate hatchet as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/ornate_hatchet.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Ornate Lance",
+    "prompt": "Pixel art of a ornate lance as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/ornate_lance.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Ornate Long Sword",
+    "prompt": "Pixel art of a ornate long sword as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/ornate_long_sword.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Ornate Mace",
+    "prompt": "Pixel art of a ornate mace as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/ornate_mace.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Ornate Morning Star",
+    "prompt": "Pixel art of a ornate morning star as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/ornate_morning_star.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Ornate Pike",
+    "prompt": "Pixel art of a ornate pike as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/ornate_pike.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Ornate Quarterstaff",
+    "prompt": "Pixel art of a ornate quarterstaff as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/ornate_quarterstaff.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Ornate Rapier",
+    "prompt": "Pixel art of a ornate rapier as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/ornate_rapier.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Ornate Scimitar",
+    "prompt": "Pixel art of a ornate scimitar as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/ornate_scimitar.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Ornate Short Sword",
+    "prompt": "Pixel art of a ornate short sword as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/ornate_short_sword.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Ornate Spear",
+    "prompt": "Pixel art of a ornate spear as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/ornate_spear.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Ornate Spiked Club",
+    "prompt": "Pixel art of a ornate spiked club as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/ornate_spiked_club.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Ornate Stiletto",
+    "prompt": "Pixel art of a ornate stiletto as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/ornate_stiletto.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Ornate Tomahawk",
+    "prompt": "Pixel art of a ornate tomahawk as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/ornate_tomahawk.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Ornate Trident",
+    "prompt": "Pixel art of a ornate trident as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/ornate_trident.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Ornate War Axe",
+    "prompt": "Pixel art of a ornate war axe as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/ornate_war_axe.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Ornate Warhammer",
+    "prompt": "Pixel art of a ornate warhammer as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/ornate_warhammer.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Pike",
+    "prompt": "Pixel art of a pike as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/pike.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Poisoned Boomerang",
+    "prompt": "Pixel art of a poisoned boomerang as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/poisoned_boomerang.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Poisoned Chakram",
+    "prompt": "Pixel art of a poisoned chakram as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/poisoned_chakram.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Poisoned Crossbow",
+    "prompt": "Pixel art of a poisoned crossbow as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/poisoned_crossbow.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Poisoned Hand Crossbow",
+    "prompt": "Pixel art of a poisoned hand crossbow as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/poisoned_hand_crossbow.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Poisoned Hunting Bow",
+    "prompt": "Pixel art of a poisoned hunting bow as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/poisoned_hunting_bow.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Poisoned Javelin",
+    "prompt": "Pixel art of a poisoned javelin as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/poisoned_javelin.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Poisoned Longbow",
+    "prompt": "Pixel art of a poisoned longbow as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/poisoned_longbow.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Poisoned Recurve Bow",
+    "prompt": "Pixel art of a poisoned recurve bow as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/poisoned_recurve_bow.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Poisoned Repeating Crossbow",
+    "prompt": "Pixel art of a poisoned repeating crossbow as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/poisoned_repeating_crossbow.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Poisoned Shortbow",
+    "prompt": "Pixel art of a poisoned shortbow as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/poisoned_shortbow.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Poisoned Throwing Axe",
+    "prompt": "Pixel art of a poisoned throwing axe as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/poisoned_throwing_axe.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Poisoned Throwing Knife",
+    "prompt": "Pixel art of a poisoned throwing knife as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/poisoned_throwing_knife.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Prototype Arcane Pistol",
+    "prompt": "Pixel art of a prototype arcane pistol as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/prototype_arcane_pistol.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Prototype Crystal Musket",
+    "prompt": "Pixel art of a prototype crystal musket as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/prototype_crystal_musket.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Prototype Elemental Revolver",
+    "prompt": "Pixel art of a prototype elemental revolver as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/prototype_elemental_revolver.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Prototype Freezing Barrel",
+    "prompt": "Pixel art of a prototype freezing barrel as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/prototype_freezing_barrel.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Prototype Golemshot",
+    "prompt": "Pixel art of a prototype golemshot as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/prototype_golemshot.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Prototype Inferno Gun",
+    "prompt": "Pixel art of a prototype inferno gun as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/prototype_inferno_gun.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Prototype Magnetic Blaster",
+    "prompt": "Pixel art of a prototype magnetic blaster as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/prototype_magnetic_blaster.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Prototype Mana Charger",
+    "prompt": "Pixel art of a prototype mana charger as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/prototype_mana_charger.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Prototype Runed Shotgun",
+    "prompt": "Pixel art of a prototype runed shotgun as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/prototype_runed_shotgun.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Prototype Runic Flintlock",
+    "prompt": "Pixel art of a prototype runic flintlock as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/prototype_runic_flintlock.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Prototype Sparkshot",
+    "prompt": "Pixel art of a prototype sparkshot as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/prototype_sparkshot.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Prototype Thaumaturgic Handgun",
+    "prompt": "Pixel art of a prototype thaumaturgic handgun as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/prototype_thaumaturgic_handgun.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Quarterstaff",
+    "prompt": "Pixel art of a quarterstaff as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/quarterstaff.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Rapier",
+    "prompt": "Pixel art of a rapier as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/rapier.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Recurve Bow",
+    "prompt": "Pixel art of a recurve bow as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/recurve_bow.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Repeating Crossbow",
+    "prompt": "Pixel art of a repeating crossbow as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/repeating_crossbow.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Runed Shotgun",
+    "prompt": "Pixel art of a runed shotgun as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/runed_shotgun.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Runic Flintlock",
+    "prompt": "Pixel art of a runic flintlock as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/runic_flintlock.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Rusty Battle Axe",
+    "prompt": "Pixel art of a rusty battle axe as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/rusty_battle_axe.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Rusty Club",
+    "prompt": "Pixel art of a rusty club as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/rusty_club.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Rusty Cutlass",
+    "prompt": "Pixel art of a rusty cutlass as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/rusty_cutlass.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Rusty Dagger",
+    "prompt": "Pixel art of a rusty dagger as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/rusty_dagger.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Rusty Flanged Mace",
+    "prompt": "Pixel art of a rusty flanged mace as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/rusty_flanged_mace.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Rusty Glaive",
+    "prompt": "Pixel art of a rusty glaive as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/rusty_glaive.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Rusty Greatsword",
+    "prompt": "Pixel art of a rusty greatsword as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/rusty_greatsword.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Rusty Halberd",
+    "prompt": "Pixel art of a rusty halberd as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/rusty_halberd.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Rusty Hatchet",
+    "prompt": "Pixel art of a rusty hatchet as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/rusty_hatchet.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Rusty Lance",
+    "prompt": "Pixel art of a rusty lance as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/rusty_lance.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Rusty Long Sword",
+    "prompt": "Pixel art of a rusty long sword as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/rusty_long_sword.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Rusty Mace",
+    "prompt": "Pixel art of a rusty mace as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/rusty_mace.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Rusty Morning Star",
+    "prompt": "Pixel art of a rusty morning star as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/rusty_morning_star.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Rusty Pike",
+    "prompt": "Pixel art of a rusty pike as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/rusty_pike.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Rusty Quarterstaff",
+    "prompt": "Pixel art of a rusty quarterstaff as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/rusty_quarterstaff.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Rusty Rapier",
+    "prompt": "Pixel art of a rusty rapier as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/rusty_rapier.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Rusty Scimitar",
+    "prompt": "Pixel art of a rusty scimitar as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/rusty_scimitar.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Rusty Short Sword",
+    "prompt": "Pixel art of a rusty short sword as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/rusty_short_sword.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Rusty Spear",
+    "prompt": "Pixel art of a rusty spear as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/rusty_spear.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Rusty Spiked Club",
+    "prompt": "Pixel art of a rusty spiked club as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/rusty_spiked_club.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Rusty Stiletto",
+    "prompt": "Pixel art of a rusty stiletto as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/rusty_stiletto.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Rusty Tomahawk",
+    "prompt": "Pixel art of a rusty tomahawk as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/rusty_tomahawk.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Rusty Trident",
+    "prompt": "Pixel art of a rusty trident as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/rusty_trident.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Rusty War Axe",
+    "prompt": "Pixel art of a rusty war axe as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/rusty_war_axe.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Rusty Warhammer",
+    "prompt": "Pixel art of a rusty warhammer as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/rusty_warhammer.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Scimitar",
+    "prompt": "Pixel art of a scimitar as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/scimitar.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Short Sword",
+    "prompt": "Pixel art of a short sword as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/short_sword.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Shortbow",
+    "prompt": "Pixel art of a shortbow as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/shortbow.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Sparkshot",
+    "prompt": "Pixel art of a sparkshot as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/sparkshot.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Spear",
+    "prompt": "Pixel art of a spear as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/spear.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Spiked Club",
+    "prompt": "Pixel art of a spiked club as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/spiked_club.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Steel Battle Axe",
+    "prompt": "Pixel art of a steel battle axe as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/steel_battle_axe.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Steel Club",
+    "prompt": "Pixel art of a steel club as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/steel_club.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Steel Cutlass",
+    "prompt": "Pixel art of a steel cutlass as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/steel_cutlass.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Steel Dagger",
+    "prompt": "Pixel art of a steel dagger as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/steel_dagger.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Steel Flanged Mace",
+    "prompt": "Pixel art of a steel flanged mace as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/steel_flanged_mace.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Steel Glaive",
+    "prompt": "Pixel art of a steel glaive as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/steel_glaive.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Steel Greatsword",
+    "prompt": "Pixel art of a steel greatsword as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/steel_greatsword.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Steel Halberd",
+    "prompt": "Pixel art of a steel halberd as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/steel_halberd.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Steel Hatchet",
+    "prompt": "Pixel art of a steel hatchet as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/steel_hatchet.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Steel Lance",
+    "prompt": "Pixel art of a steel lance as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/steel_lance.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Steel Long Sword",
+    "prompt": "Pixel art of a steel long sword as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/steel_long_sword.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Steel Mace",
+    "prompt": "Pixel art of a steel mace as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/steel_mace.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Steel Morning Star",
+    "prompt": "Pixel art of a steel morning star as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/steel_morning_star.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Steel Pike",
+    "prompt": "Pixel art of a steel pike as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/steel_pike.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Steel Quarterstaff",
+    "prompt": "Pixel art of a steel quarterstaff as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/steel_quarterstaff.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Steel Rapier",
+    "prompt": "Pixel art of a steel rapier as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/steel_rapier.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Steel Scimitar",
+    "prompt": "Pixel art of a steel scimitar as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/steel_scimitar.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Steel Short Sword",
+    "prompt": "Pixel art of a steel short sword as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/steel_short_sword.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Steel Spear",
+    "prompt": "Pixel art of a steel spear as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/steel_spear.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  },
+  {
+    "name": "Steel Spiked Club",
+    "prompt": "Pixel art of a steel spiked club as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/weapons/steel_spiked_club.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in weapons category."
+  }
+]

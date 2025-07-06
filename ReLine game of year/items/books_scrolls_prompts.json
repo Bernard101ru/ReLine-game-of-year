@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Arcane Codex",
+    "prompt": "Pixel art of a arcane codex as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/books_scrolls/arcane_codex.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in books_scrolls category."
+  },
+  {
+    "name": "Spellbook",
+    "prompt": "Pixel art of a spellbook as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/books_scrolls/spellbook.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in books_scrolls category."
+  },
+  {
+    "name": "Travel Journal",
+    "prompt": "Pixel art of a travel journal as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/books_scrolls/travel_journal.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in books_scrolls category."
+  },
+  {
+    "name": "Blueprint Scroll",
+    "prompt": "Pixel art of a blueprint scroll as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/books_scrolls/blueprint_scroll.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in books_scrolls category."
+  },
+  {
+    "name": "Engineering Manual",
+    "prompt": "Pixel art of a engineering manual as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/books_scrolls/engineering_manual.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in books_scrolls category."
+  },
+  {
+    "name": "Herbal Compendium",
+    "prompt": "Pixel art of a herbal compendium as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/books_scrolls/herbal_compendium.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in books_scrolls category."
+  },
+  {
+    "name": "Encrypted Letter",
+    "prompt": "Pixel art of a encrypted letter as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/books_scrolls/encrypted_letter.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in books_scrolls category."
+  }
+]

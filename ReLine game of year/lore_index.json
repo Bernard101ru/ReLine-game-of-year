@@ -1,0 +1,23 @@
+{
+  "world": {
+    "мир.txt": "Общее описание мира Relain, география, структура государств и цивилизаций.",
+    "Миф_о_Зарождении_Вселенной_Dewfals_с_Пантеоном.txt": "Миф о создании вселенной и боги Пантеона Dewfals.",
+    "фендаментальные законы мирв.txt": "Фундаментальные физические и магические законы мира Relain.",
+    "Hero_Origin_Echoes_of_Relain.txt": "Происхождение главного героя, его путь и ключевые события.",
+    "Echoes_of_Relain_Magic_Spells_Expanded.txt": "Описание базовых и продвинутых заклинаний.",
+    "Echoes_of_Relain_Magic_Spells_Expanded_v3.txt": "Обновлённая версия расширенных магических школ."
+  },
+  "panteon": {
+    "пантеон.txt": "Боги, их сферы влияния, атрибуты, святые места и взаимодействие с миром."
+  },
+  "magic": {
+    "Academy_Life_Echoes_of_Relain.txt": "Жизнь студентов академии магии. Повседневность, ритуалы, учеба.",
+    "School_Magic_Education_Echoes_of_Relain.txt": "Общее описание системы обучения магии.",
+    "University_Magic_Education_Echoes_of_Relain.txt": "Образование в университетах магии.",
+    "University_Internal_Structure_Echoes_of_Relain.txt": "Устройство магических академий и факультетов.",
+    "Universities_and_Student_Profiles_Echoes_of_Relain.txt": "Типы студентов, профили, академическая жизнь.",
+    "Runic_Language_and_Trigrams_Echoes_of_Relain.txt": "Руны, триграммы, использование в магии.",
+    "Pentagram_Visual_Guide_Echoes_of_Relain.docx": "Визуальное руководство по построению пентаграмм.",
+    "Trigram_Effect_Table_Echoes_of_Relain.docx": "Эффекты триграмм и взаимодействие в ритуалах."
+  }
+}

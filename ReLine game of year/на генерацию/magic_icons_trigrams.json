@@ -1,0 +1,858 @@
+[
+  {
+    "name": "🔤 Алфавит Рун",
+    "school": "Триграммы",
+    "description": "Echoes of Relain",
+    "icon_prompt": "Pixel art spell icon representing trigram '🔤 Алфавит Рун'. Simple glowing rune or glyph in square frame, SNES RPG interface style, 64x64.",
+    "image_path": "magic/icons/trigrams/_алфавит_рун.png",
+    "use_case": "Displayed in magic selection UI or spellbook when using '🔤 Алфавит Рун'."
+  },
+  {
+    "name": "Каждая руна",
+    "school": "Триграммы",
+    "description": "символ с энергетическим значением. Их можно сочетать в триграммы для создания заклинаний.",
+    "icon_prompt": "Pixel art spell icon representing trigram 'Каждая руна'. Simple glowing rune or glyph in square frame, SNES RPG interface style, 64x64.",
+    "image_path": "magic/icons/trigrams/каждая_руна.png",
+    "use_case": "Displayed in magic selection UI or spellbook when using 'Каждая руна'."
+  },
+  {
+    "name": "ᚠ",
+    "school": "Триграммы",
+    "description": "Огненный импульс",
+    "icon_prompt": "Pixel art spell icon representing trigram 'ᚠ'. Simple glowing rune or glyph in square frame, SNES RPG interface style, 64x64.",
+    "image_path": "magic/icons/trigrams/.png",
+    "use_case": "Displayed in magic selection UI or spellbook when using 'ᚠ'."
+  },
+  {
+    "name": "ᚢ",
+    "school": "Триграммы",
+    "description": "Поток воды",
+    "icon_prompt": "Pixel art spell icon representing trigram 'ᚢ'. Simple glowing rune or glyph in square frame, SNES RPG interface style, 64x64.",
+    "image_path": "magic/icons/trigrams/.png",
+    "use_case": "Displayed in magic selection UI or spellbook when using 'ᚢ'."
+  },
+  {
+    "name": "ᚦ",
+    "school": "Триграммы",
+    "description": "Разрушение",
+    "icon_prompt": "Pixel art spell icon representing trigram 'ᚦ'. Simple glowing rune or glyph in square frame, SNES RPG interface style, 64x64.",
+    "image_path": "magic/icons/trigrams/.png",
+    "use_case": "Displayed in magic selection UI or spellbook when using 'ᚦ'."
+  },
+  {
+    "name": "ᚨ",
+    "school": "Триграммы",
+    "description": "Связь",
+    "icon_prompt": "Pixel art spell icon representing trigram 'ᚨ'. Simple glowing rune or glyph in square frame, SNES RPG interface style, 64x64.",
+    "image_path": "magic/icons/trigrams/.png",
+    "use_case": "Displayed in magic selection UI or spellbook when using 'ᚨ'."
+  },
+  {
+    "name": "ᚱ",
+    "school": "Триграммы",
+    "description": "Хранение",
+    "icon_prompt": "Pixel art spell icon representing trigram 'ᚱ'. Simple glowing rune or glyph in square frame, SNES RPG interface style, 64x64.",
+    "image_path": "magic/icons/trigrams/.png",
+    "use_case": "Displayed in magic selection UI or spellbook when using 'ᚱ'."
+  },
+  {
+    "name": "ᚲ",
+    "school": "Триграммы",
+    "description": "Удар",
+    "icon_prompt": "Pixel art spell icon representing trigram 'ᚲ'. Simple glowing rune or glyph in square frame, SNES RPG interface style, 64x64.",
+    "image_path": "magic/icons/trigrams/.png",
+    "use_case": "Displayed in magic selection UI or spellbook when using 'ᚲ'."
+  },
+  {
+    "name": "ᚷ",
+    "school": "Триграммы",
+    "description": "Рост",
+    "icon_prompt": "Pixel art spell icon representing trigram 'ᚷ'. Simple glowing rune or glyph in square frame, SNES RPG interface style, 64x64.",
+    "image_path": "magic/icons/trigrams/.png",
+    "use_case": "Displayed in magic selection UI or spellbook when using 'ᚷ'."
+  },
+  {
+    "name": "ᚹ",
+    "school": "Триграммы",
+    "description": "Воздух",
+    "icon_prompt": "Pixel art spell icon representing trigram 'ᚹ'. Simple glowing rune or glyph in square frame, SNES RPG interface style, 64x64.",
+    "image_path": "magic/icons/trigrams/.png",
+    "use_case": "Displayed in magic selection UI or spellbook when using 'ᚹ'."
+  },
+  {
+    "name": "ᚺ",
+    "school": "Триграммы",
+    "description": "Свет",
+    "icon_prompt": "Pixel art spell icon representing trigram 'ᚺ'. Simple glowing rune or glyph in square frame, SNES RPG interface style, 64x64.",
+    "image_path": "magic/icons/trigrams/.png",
+    "use_case": "Displayed in magic selection UI or spellbook when using 'ᚺ'."
+  },
+  {
+    "name": "ᚾ",
+    "school": "Триграммы",
+    "description": "Тьма",
+    "icon_prompt": "Pixel art spell icon representing trigram 'ᚾ'. Simple glowing rune or glyph in square frame, SNES RPG interface style, 64x64.",
+    "image_path": "magic/icons/trigrams/.png",
+    "use_case": "Displayed in magic selection UI or spellbook when using 'ᚾ'."
+  },
+  {
+    "name": "ᛁ",
+    "school": "Триграммы",
+    "description": "Заморозка",
+    "icon_prompt": "Pixel art spell icon representing trigram 'ᛁ'. Simple glowing rune or glyph in square frame, SNES RPG interface style, 64x64.",
+    "image_path": "magic/icons/trigrams/.png",
+    "use_case": "Displayed in magic selection UI or spellbook when using 'ᛁ'."
+  },
+  {
+    "name": "ᛃ",
+    "school": "Триграммы",
+    "description": "Звук",
+    "icon_prompt": "Pixel art spell icon representing trigram 'ᛃ'. Simple glowing rune or glyph in square frame, SNES RPG interface style, 64x64.",
+    "image_path": "magic/icons/trigrams/.png",
+    "use_case": "Displayed in magic selection UI or spellbook when using 'ᛃ'."
+  },
+  {
+    "name": "ᛇ",
+    "school": "Триграммы",
+    "description": "Искажение",
+    "icon_prompt": "Pixel art spell icon representing trigram 'ᛇ'. Simple glowing rune or glyph in square frame, SNES RPG interface style, 64x64.",
+    "image_path": "magic/icons/trigrams/.png",
+    "use_case": "Displayed in magic selection UI or spellbook when using 'ᛇ'."
+  },
+  {
+    "name": "ᛈ",
+    "school": "Триграммы",
+    "description": "Печать",
+    "icon_prompt": "Pixel art spell icon representing trigram 'ᛈ'. Simple glowing rune or glyph in square frame, SNES RPG interface style, 64x64.",
+    "image_path": "magic/icons/trigrams/.png",
+    "use_case": "Displayed in magic selection UI or spellbook when using 'ᛈ'."
+  },
+  {
+    "name": "ᛉ",
+    "school": "Триграммы",
+    "description": "Защита",
+    "icon_prompt": "Pixel art spell icon representing trigram 'ᛉ'. Simple glowing rune or glyph in square frame, SNES RPG interface style, 64x64.",
+    "image_path": "magic/icons/trigrams/.png",
+    "use_case": "Displayed in magic selection UI or spellbook when using 'ᛉ'."
+  },
+  {
+    "name": "ᛋ",
+    "school": "Триграммы",
+    "description": "Сфера",
+    "icon_prompt": "Pixel art spell icon representing trigram 'ᛋ'. Simple glowing rune or glyph in square frame, SNES RPG interface style, 64x64.",
+    "image_path": "magic/icons/trigrams/.png",
+    "use_case": "Displayed in magic selection UI or spellbook when using 'ᛋ'."
+  },
+  {
+    "name": "ᛏ",
+    "school": "Триграммы",
+    "description": "Контроль",
+    "icon_prompt": "Pixel art spell icon representing trigram 'ᛏ'. Simple glowing rune or glyph in square frame, SNES RPG interface style, 64x64.",
+    "image_path": "magic/icons/trigrams/.png",
+    "use_case": "Displayed in magic selection UI or spellbook when using 'ᛏ'."
+  },
+  {
+    "name": "ᛒ",
+    "school": "Триграммы",
+    "description": "Резонанс",
+    "icon_prompt": "Pixel art spell icon representing trigram 'ᛒ'. Simple glowing rune or glyph in square frame, SNES RPG interface style, 64x64.",
+    "image_path": "magic/icons/trigrams/.png",
+    "use_case": "Displayed in magic selection UI or spellbook when using 'ᛒ'."
+  },
+  {
+    "name": "ᛖ",
+    "school": "Триграммы",
+    "description": "Яд",
+    "icon_prompt": "Pixel art spell icon representing trigram 'ᛖ'. Simple glowing rune or glyph in square frame, SNES RPG interface style, 64x64.",
+    "image_path": "magic/icons/trigrams/.png",
+    "use_case": "Displayed in magic selection UI or spellbook when using 'ᛖ'."
+  },
+  {
+    "name": "ᛗ",
+    "school": "Триграммы",
+    "description": "Ткань реальности",
+    "icon_prompt": "Pixel art spell icon representing trigram 'ᛗ'. Simple glowing rune or glyph in square frame, SNES RPG interface style, 64x64.",
+    "image_path": "magic/icons/trigrams/.png",
+    "use_case": "Displayed in magic selection UI or spellbook when using 'ᛗ'."
+  },
+  {
+    "name": "ᛚ",
+    "school": "Триграммы",
+    "description": "Память",
+    "icon_prompt": "Pixel art spell icon representing trigram 'ᛚ'. Simple glowing rune or glyph in square frame, SNES RPG interface style, 64x64.",
+    "image_path": "magic/icons/trigrams/.png",
+    "use_case": "Displayed in magic selection UI or spellbook when using 'ᛚ'."
+  },
+  {
+    "name": "ᛜ",
+    "school": "Триграммы",
+    "description": "Призыв",
+    "icon_prompt": "Pixel art spell icon representing trigram 'ᛜ'. Simple glowing rune or glyph in square frame, SNES RPG interface style, 64x64.",
+    "image_path": "magic/icons/trigrams/.png",
+    "use_case": "Displayed in magic selection UI or spellbook when using 'ᛜ'."
+  },
+  {
+    "name": "ᛞ",
+    "school": "Триграммы",
+    "description": "Земля",
+    "icon_prompt": "Pixel art spell icon representing trigram 'ᛞ'. Simple glowing rune or glyph in square frame, SNES RPG interface style, 64x64.",
+    "image_path": "magic/icons/trigrams/.png",
+    "use_case": "Displayed in magic selection UI or spellbook when using 'ᛞ'."
+  },
+  {
+    "name": "ᛟ",
+    "school": "Триграммы",
+    "description": "Врата",
+    "icon_prompt": "Pixel art spell icon representing trigram 'ᛟ'. Simple glowing rune or glyph in square frame, SNES RPG interface style, 64x64.",
+    "image_path": "magic/icons/trigrams/.png",
+    "use_case": "Displayed in magic selection UI or spellbook when using 'ᛟ'."
+  },
+  {
+    "name": "",
+    "school": "Триграммы",
+    "description": "Эффект: Воздух + Защита + Заморозка",
+    "icon_prompt": "Pixel art spell icon representing trigram ''. Simple glowing rune or glyph in square frame, SNES RPG interface style, 64x64.",
+    "image_path": "magic/icons/trigrams/.png",
+    "use_case": "Displayed in magic selection UI or spellbook when using ''."
+  },
+  {
+    "name": "",
+    "school": "Триграммы",
+    "description": "Эффект: Ткань реальности + Сфера + Звук",
+    "icon_prompt": "Pixel art spell icon representing trigram ''. Simple glowing rune or glyph in square frame, SNES RPG interface style, 64x64.",
+    "image_path": "magic/icons/trigrams/.png",
+    "use_case": "Displayed in magic selection UI or spellbook when using ''."
+  },
+  {
+    "name": "",
+    "school": "Триграммы",
+    "description": "Эффект: Память + Заморозка + Контроль",
+    "icon_prompt": "Pixel art spell icon representing trigram ''. Simple glowing rune or glyph in square frame, SNES RPG interface style, 64x64.",
+    "image_path": "magic/icons/trigrams/.png",
+    "use_case": "Displayed in magic selection UI or spellbook when using ''."
+  },
+  {
+    "name": "",
+    "school": "Триграммы",
+    "description": "Эффект: Свет + Звук + Защита",
+    "icon_prompt": "Pixel art spell icon representing trigram ''. Simple glowing rune or glyph in square frame, SNES RPG interface style, 64x64.",
+    "image_path": "magic/icons/trigrams/.png",
+    "use_case": "Displayed in magic selection UI or spellbook when using ''."
+  },
+  {
+    "name": "",
+    "school": "Триграммы",
+    "description": "Эффект: Звук + Заморозка + Воздух",
+    "icon_prompt": "Pixel art spell icon representing trigram ''. Simple glowing rune or glyph in square frame, SNES RPG interface style, 64x64.",
+    "image_path": "magic/icons/trigrams/.png",
+    "use_case": "Displayed in magic selection UI or spellbook when using ''."
+  },
+  {
+    "name": "",
+    "school": "Триграммы",
+    "description": "Эффект: Память + Защита + Защита",
+    "icon_prompt": "Pixel art spell icon representing trigram ''. Simple glowing rune or glyph in square frame, SNES RPG interface style, 64x64.",
+    "image_path": "magic/icons/trigrams/.png",
+    "use_case": "Displayed in magic selection UI or spellbook when using ''."
+  },
+  {
+    "name": "",
+    "school": "Триграммы",
+    "description": "Эффект: Врата + Земля + Тьма",
+    "icon_prompt": "Pixel art spell icon representing trigram ''. Simple glowing rune or glyph in square frame, SNES RPG interface style, 64x64.",
+    "image_path": "magic/icons/trigrams/.png",
+    "use_case": "Displayed in magic selection UI or spellbook when using ''."
+  },
+  {
+    "name": "",
+    "school": "Триграммы",
+    "description": "Эффект: Воздух + Удар + Поток воды",
+    "icon_prompt": "Pixel art spell icon representing trigram ''. Simple glowing rune or glyph in square frame, SNES RPG interface style, 64x64.",
+    "image_path": "magic/icons/trigrams/.png",
+    "use_case": "Displayed in magic selection UI or spellbook when using ''."
+  },
+  {
+    "name": "",
+    "school": "Триграммы",
+    "description": "Эффект: Тьма + Разрушение + Заморозка",
+    "icon_prompt": "Pixel art spell icon representing trigram ''. Simple glowing rune or glyph in square frame, SNES RPG interface style, 64x64.",
+    "image_path": "magic/icons/trigrams/.png",
+    "use_case": "Displayed in magic selection UI or spellbook when using ''."
+  },
+  {
+    "name": "",
+    "school": "Триграммы",
+    "description": "Эффект: Резонанс + Удар + Заморозка",
+    "icon_prompt": "Pixel art spell icon representing trigram ''. Simple glowing rune or glyph in square frame, SNES RPG interface style, 64x64.",
+    "image_path": "magic/icons/trigrams/.png",
+    "use_case": "Displayed in magic selection UI or spellbook when using ''."
+  },
+  {
+    "name": "",
+    "school": "Триграммы",
+    "description": "Эффект: Огненный импульс + Врата + Призыв",
+    "icon_prompt": "Pixel art spell icon representing trigram ''. Simple glowing rune or glyph in square frame, SNES RPG interface style, 64x64.",
+    "image_path": "magic/icons/trigrams/.png",
+    "use_case": "Displayed in magic selection UI or spellbook when using ''."
+  },
+  {
+    "name": "",
+    "school": "Триграммы",
+    "description": "Эффект: Свет + Хранение + Печать",
+    "icon_prompt": "Pixel art spell icon representing trigram ''. Simple glowing rune or glyph in square frame, SNES RPG interface style, 64x64.",
+    "image_path": "magic/icons/trigrams/.png",
+    "use_case": "Displayed in magic selection UI or spellbook when using ''."
+  },
+  {
+    "name": "",
+    "school": "Триграммы",
+    "description": "Эффект: Контроль + Земля + Яд",
+    "icon_prompt": "Pixel art spell icon representing trigram ''. Simple glowing rune or glyph in square frame, SNES RPG interface style, 64x64.",
+    "image_path": "magic/icons/trigrams/.png",
+    "use_case": "Displayed in magic selection UI or spellbook when using ''."
+  },
+  {
+    "name": "",
+    "school": "Триграммы",
+    "description": "Эффект: Память + Яд + Связь",
+    "icon_prompt": "Pixel art spell icon representing trigram ''. Simple glowing rune or glyph in square frame, SNES RPG interface style, 64x64.",
+    "image_path": "magic/icons/trigrams/.png",
+    "use_case": "Displayed in magic selection UI or spellbook when using ''."
+  },
+  {
+    "name": "",
+    "school": "Триграммы",
+    "description": "Эффект: Земля + Свет + Удар",
+    "icon_prompt": "Pixel art spell icon representing trigram ''. Simple glowing rune or glyph in square frame, SNES RPG interface style, 64x64.",
+    "image_path": "magic/icons/trigrams/.png",
+    "use_case": "Displayed in magic selection UI or spellbook when using ''."
+  },
+  {
+    "name": "",
+    "school": "Триграммы",
+    "description": "Эффект: Земля + Сфера + Свет",
+    "icon_prompt": "Pixel art spell icon representing trigram ''. Simple glowing rune or glyph in square frame, SNES RPG interface style, 64x64.",
+    "image_path": "magic/icons/trigrams/.png",
+    "use_case": "Displayed in magic selection UI or spellbook when using ''."
+  },
+  {
+    "name": "",
+    "school": "Триграммы",
+    "description": "Эффект: Ткань реальности + Свет + Хранение",
+    "icon_prompt": "Pixel art spell icon representing trigram ''. Simple glowing rune or glyph in square frame, SNES RPG interface style, 64x64.",
+    "image_path": "magic/icons/trigrams/.png",
+    "use_case": "Displayed in magic selection UI or spellbook when using ''."
+  },
+  {
+    "name": "",
+    "school": "Триграммы",
+    "description": "Эффект: Сфера + Тьма + Контроль",
+    "icon_prompt": "Pixel art spell icon representing trigram ''. Simple glowing rune or glyph in square frame, SNES RPG interface style, 64x64.",
+    "image_path": "magic/icons/trigrams/.png",
+    "use_case": "Displayed in magic selection UI or spellbook when using ''."
+  },
+  {
+    "name": "",
+    "school": "Триграммы",
+    "description": "Эффект: Врата + Земля + Хранение",
+    "icon_prompt": "Pixel art spell icon representing trigram ''. Simple glowing rune or glyph in square frame, SNES RPG interface style, 64x64.",
+    "image_path": "magic/icons/trigrams/.png",
+    "use_case": "Displayed in magic selection UI or spellbook when using ''."
+  },
+  {
+    "name": "",
+    "school": "Триграммы",
+    "description": "Эффект: Воздух + Сфера + Тьма",
+    "icon_prompt": "Pixel art spell icon representing trigram ''. Simple glowing rune or glyph in square frame, SNES RPG interface style, 64x64.",
+    "image_path": "magic/icons/trigrams/.png",
+    "use_case": "Displayed in magic selection UI or spellbook when using ''."
+  },
+  {
+    "name": "",
+    "school": "Триграммы",
+    "description": "Эффект: Защита + Печать + Хранение",
+    "icon_prompt": "Pixel art spell icon representing trigram ''. Simple glowing rune or glyph in square frame, SNES RPG interface style, 64x64.",
+    "image_path": "magic/icons/trigrams/.png",
+    "use_case": "Displayed in magic selection UI or spellbook when using ''."
+  },
+  {
+    "name": "",
+    "school": "Триграммы",
+    "description": "Эффект: Земля + Защита + Призыв",
+    "icon_prompt": "Pixel art spell icon representing trigram ''. Simple glowing rune or glyph in square frame, SNES RPG interface style, 64x64.",
+    "image_path": "magic/icons/trigrams/.png",
+    "use_case": "Displayed in magic selection UI or spellbook when using ''."
+  },
+  {
+    "name": "",
+    "school": "Триграммы",
+    "description": "Эффект: Удар + Контроль + Хранение",
+    "icon_prompt": "Pixel art spell icon representing trigram ''. Simple glowing rune or glyph in square frame, SNES RPG interface style, 64x64.",
+    "image_path": "magic/icons/trigrams/.png",
+    "use_case": "Displayed in magic selection UI or spellbook when using ''."
+  },
+  {
+    "name": "",
+    "school": "Триграммы",
+    "description": "Эффект: Звук + Память + Разрушение",
+    "icon_prompt": "Pixel art spell icon representing trigram ''. Simple glowing rune or glyph in square frame, SNES RPG interface style, 64x64.",
+    "image_path": "magic/icons/trigrams/.png",
+    "use_case": "Displayed in magic selection UI or spellbook when using ''."
+  },
+  {
+    "name": "",
+    "school": "Триграммы",
+    "description": "Эффект: Искажение + Огненный импульс + Защита",
+    "icon_prompt": "Pixel art spell icon representing trigram ''. Simple glowing rune or glyph in square frame, SNES RPG interface style, 64x64.",
+    "image_path": "magic/icons/trigrams/.png",
+    "use_case": "Displayed in magic selection UI or spellbook when using ''."
+  },
+  {
+    "name": "",
+    "school": "Триграммы",
+    "description": "Эффект: Печать + Тьма + Рост",
+    "icon_prompt": "Pixel art spell icon representing trigram ''. Simple glowing rune or glyph in square frame, SNES RPG interface style, 64x64.",
+    "image_path": "magic/icons/trigrams/.png",
+    "use_case": "Displayed in magic selection UI or spellbook when using ''."
+  },
+  {
+    "name": "",
+    "school": "Триграммы",
+    "description": "Эффект: Удар + Резонанс + Печать",
+    "icon_prompt": "Pixel art spell icon representing trigram ''. Simple glowing rune or glyph in square frame, SNES RPG interface style, 64x64.",
+    "image_path": "magic/icons/trigrams/.png",
+    "use_case": "Displayed in magic selection UI or spellbook when using ''."
+  },
+  {
+    "name": "",
+    "school": "Триграммы",
+    "description": "Эффект: Поток воды + Призыв + Врата",
+    "icon_prompt": "Pixel art spell icon representing trigram ''. Simple glowing rune or glyph in square frame, SNES RPG interface style, 64x64.",
+    "image_path": "magic/icons/trigrams/.png",
+    "use_case": "Displayed in magic selection UI or spellbook when using ''."
+  },
+  {
+    "name": "",
+    "school": "Триграммы",
+    "description": "Эффект: Искажение + Связь + Сфера",
+    "icon_prompt": "Pixel art spell icon representing trigram ''. Simple glowing rune or glyph in square frame, SNES RPG interface style, 64x64.",
+    "image_path": "magic/icons/trigrams/.png",
+    "use_case": "Displayed in magic selection UI or spellbook when using ''."
+  },
+  {
+    "name": "",
+    "school": "Триграммы",
+    "description": "Эффект: Ткань реальности + Защита + Ткань реальности",
+    "icon_prompt": "Pixel art spell icon representing trigram ''. Simple glowing rune or glyph in square frame, SNES RPG interface style, 64x64.",
+    "image_path": "magic/icons/trigrams/.png",
+    "use_case": "Displayed in magic selection UI or spellbook when using ''."
+  },
+  {
+    "name": "",
+    "school": "Триграммы",
+    "description": "Эффект: Огненный импульс + Тьма + Свет",
+    "icon_prompt": "Pixel art spell icon representing trigram ''. Simple glowing rune or glyph in square frame, SNES RPG interface style, 64x64.",
+    "image_path": "magic/icons/trigrams/.png",
+    "use_case": "Displayed in magic selection UI or spellbook when using ''."
+  },
+  {
+    "name": "",
+    "school": "Триграммы",
+    "description": "Эффект: Поток воды + Призыв + Свет",
+    "icon_prompt": "Pixel art spell icon representing trigram ''. Simple glowing rune or glyph in square frame, SNES RPG interface style, 64x64.",
+    "image_path": "magic/icons/trigrams/.png",
+    "use_case": "Displayed in magic selection UI or spellbook when using ''."
+  },
+  {
+    "name": "",
+    "school": "Триграммы",
+    "description": "Эффект: Связь + Свет + Тьма",
+    "icon_prompt": "Pixel art spell icon representing trigram ''. Simple glowing rune or glyph in square frame, SNES RPG interface style, 64x64.",
+    "image_path": "magic/icons/trigrams/.png",
+    "use_case": "Displayed in magic selection UI or spellbook when using ''."
+  },
+  {
+    "name": "",
+    "school": "Триграммы",
+    "description": "Эффект: Поток воды + Ткань реальности + Поток воды",
+    "icon_prompt": "Pixel art spell icon representing trigram ''. Simple glowing rune or glyph in square frame, SNES RPG interface style, 64x64.",
+    "image_path": "magic/icons/trigrams/.png",
+    "use_case": "Displayed in magic selection UI or spellbook when using ''."
+  },
+  {
+    "name": "",
+    "school": "Триграммы",
+    "description": "Эффект: Огненный импульс + Резонанс + Свет",
+    "icon_prompt": "Pixel art spell icon representing trigram ''. Simple glowing rune or glyph in square frame, SNES RPG interface style, 64x64.",
+    "image_path": "magic/icons/trigrams/.png",
+    "use_case": "Displayed in magic selection UI or spellbook when using ''."
+  },
+  {
+    "name": "",
+    "school": "Триграммы",
+    "description": "Эффект: Искажение + Огненный импульс + Искажение",
+    "icon_prompt": "Pixel art spell icon representing trigram ''. Simple glowing rune or glyph in square frame, SNES RPG interface style, 64x64.",
+    "image_path": "magic/icons/trigrams/.png",
+    "use_case": "Displayed in magic selection UI or spellbook when using ''."
+  },
+  {
+    "name": "",
+    "school": "Триграммы",
+    "description": "Эффект: Рост + Разрушение + Искажение",
+    "icon_prompt": "Pixel art spell icon representing trigram ''. Simple glowing rune or glyph in square frame, SNES RPG interface style, 64x64.",
+    "image_path": "magic/icons/trigrams/.png",
+    "use_case": "Displayed in magic selection UI or spellbook when using ''."
+  },
+  {
+    "name": "",
+    "school": "Триграммы",
+    "description": "Эффект: Свет + Разрушение + Защита",
+    "icon_prompt": "Pixel art spell icon representing trigram ''. Simple glowing rune or glyph in square frame, SNES RPG interface style, 64x64.",
+    "image_path": "magic/icons/trigrams/.png",
+    "use_case": "Displayed in magic selection UI or spellbook when using ''."
+  },
+  {
+    "name": "",
+    "school": "Триграммы",
+    "description": "Эффект: Удар + Свет + Огненный импульс",
+    "icon_prompt": "Pixel art spell icon representing trigram ''. Simple glowing rune or glyph in square frame, SNES RPG interface style, 64x64.",
+    "image_path": "magic/icons/trigrams/.png",
+    "use_case": "Displayed in magic selection UI or spellbook when using ''."
+  },
+  {
+    "name": "",
+    "school": "Триграммы",
+    "description": "Эффект: Земля + Призыв + Связь",
+    "icon_prompt": "Pixel art spell icon representing trigram ''. Simple glowing rune or glyph in square frame, SNES RPG interface style, 64x64.",
+    "image_path": "magic/icons/trigrams/.png",
+    "use_case": "Displayed in magic selection UI or spellbook when using ''."
+  },
+  {
+    "name": "",
+    "school": "Триграммы",
+    "description": "Эффект: Защита + Рост + Яд",
+    "icon_prompt": "Pixel art spell icon representing trigram ''. Simple glowing rune or glyph in square frame, SNES RPG interface style, 64x64.",
+    "image_path": "magic/icons/trigrams/.png",
+    "use_case": "Displayed in magic selection UI or spellbook when using ''."
+  },
+  {
+    "name": "",
+    "school": "Триграммы",
+    "description": "Эффект: Разрушение + Яд + Звук",
+    "icon_prompt": "Pixel art spell icon representing trigram ''. Simple glowing rune or glyph in square frame, SNES RPG interface style, 64x64.",
+    "image_path": "magic/icons/trigrams/.png",
+    "use_case": "Displayed in magic selection UI or spellbook when using ''."
+  },
+  {
+    "name": "",
+    "school": "Триграммы",
+    "description": "Эффект: Воздух + Печать + Хранение",
+    "icon_prompt": "Pixel art spell icon representing trigram ''. Simple glowing rune or glyph in square frame, SNES RPG interface style, 64x64.",
+    "image_path": "magic/icons/trigrams/.png",
+    "use_case": "Displayed in magic selection UI or spellbook when using ''."
+  },
+  {
+    "name": "",
+    "school": "Триграммы",
+    "description": "Эффект: Огненный импульс + Память + Врата",
+    "icon_prompt": "Pixel art spell icon representing trigram ''. Simple glowing rune or glyph in square frame, SNES RPG interface style, 64x64.",
+    "image_path": "magic/icons/trigrams/.png",
+    "use_case": "Displayed in magic selection UI or spellbook when using ''."
+  },
+  {
+    "name": "",
+    "school": "Триграммы",
+    "description": "Эффект: Искажение + Хранение + Связь",
+    "icon_prompt": "Pixel art spell icon representing trigram ''. Simple glowing rune or glyph in square frame, SNES RPG interface style, 64x64.",
+    "image_path": "magic/icons/trigrams/.png",
+    "use_case": "Displayed in magic selection UI or spellbook when using ''."
+  },
+  {
+    "name": "",
+    "school": "Триграммы",
+    "description": "Эффект: Поток воды + Звук + Воздух",
+    "icon_prompt": "Pixel art spell icon representing trigram ''. Simple glowing rune or glyph in square frame, SNES RPG interface style, 64x64.",
+    "image_path": "magic/icons/trigrams/.png",
+    "use_case": "Displayed in magic selection UI or spellbook when using ''."
+  },
+  {
+    "name": "",
+    "school": "Триграммы",
+    "description": "Эффект: Ткань реальности + Поток воды + Огненный импульс",
+    "icon_prompt": "Pixel art spell icon representing trigram ''. Simple glowing rune or glyph in square frame, SNES RPG interface style, 64x64.",
+    "image_path": "magic/icons/trigrams/.png",
+    "use_case": "Displayed in magic selection UI or spellbook when using ''."
+  },
+  {
+    "name": "",
+    "school": "Триграммы",
+    "description": "Эффект: Рост + Свет + Удар",
+    "icon_prompt": "Pixel art spell icon representing trigram ''. Simple glowing rune or glyph in square frame, SNES RPG interface style, 64x64.",
+    "image_path": "magic/icons/trigrams/.png",
+    "use_case": "Displayed in magic selection UI or spellbook when using ''."
+  },
+  {
+    "name": "",
+    "school": "Триграммы",
+    "description": "Эффект: Связь + Связь + Заморозка",
+    "icon_prompt": "Pixel art spell icon representing trigram ''. Simple glowing rune or glyph in square frame, SNES RPG interface style, 64x64.",
+    "image_path": "magic/icons/trigrams/.png",
+    "use_case": "Displayed in magic selection UI or spellbook when using ''."
+  },
+  {
+    "name": "",
+    "school": "Триграммы",
+    "description": "Эффект: Звук + Яд + Печать",
+    "icon_prompt": "Pixel art spell icon representing trigram ''. Simple glowing rune or glyph in square frame, SNES RPG interface style, 64x64.",
+    "image_path": "magic/icons/trigrams/.png",
+    "use_case": "Displayed in magic selection UI or spellbook when using ''."
+  },
+  {
+    "name": "",
+    "school": "Триграммы",
+    "description": "Эффект: Связь + Рост + Резонанс",
+    "icon_prompt": "Pixel art spell icon representing trigram ''. Simple glowing rune or glyph in square frame, SNES RPG interface style, 64x64.",
+    "image_path": "magic/icons/trigrams/.png",
+    "use_case": "Displayed in magic selection UI or spellbook when using ''."
+  },
+  {
+    "name": "",
+    "school": "Триграммы",
+    "description": "Эффект: Огненный импульс + Земля + Резонанс",
+    "icon_prompt": "Pixel art spell icon representing trigram ''. Simple glowing rune or glyph in square frame, SNES RPG interface style, 64x64.",
+    "image_path": "magic/icons/trigrams/.png",
+    "use_case": "Displayed in magic selection UI or spellbook when using ''."
+  },
+  {
+    "name": "",
+    "school": "Триграммы",
+    "description": "Эффект: Поток воды + Яд + Призыв",
+    "icon_prompt": "Pixel art spell icon representing trigram ''. Simple glowing rune or glyph in square frame, SNES RPG interface style, 64x64.",
+    "image_path": "magic/icons/trigrams/.png",
+    "use_case": "Displayed in magic selection UI or spellbook when using ''."
+  },
+  {
+    "name": "",
+    "school": "Триграммы",
+    "description": "Эффект: Тьма + Заморозка + Свет",
+    "icon_prompt": "Pixel art spell icon representing trigram ''. Simple glowing rune or glyph in square frame, SNES RPG interface style, 64x64.",
+    "image_path": "magic/icons/trigrams/.png",
+    "use_case": "Displayed in magic selection UI or spellbook when using ''."
+  },
+  {
+    "name": "",
+    "school": "Триграммы",
+    "description": "Эффект: Связь + Тьма + Связь",
+    "icon_prompt": "Pixel art spell icon representing trigram ''. Simple glowing rune or glyph in square frame, SNES RPG interface style, 64x64.",
+    "image_path": "magic/icons/trigrams/.png",
+    "use_case": "Displayed in magic selection UI or spellbook when using ''."
+  },
+  {
+    "name": "",
+    "school": "Триграммы",
+    "description": "Эффект: Свет + Тьма + Поток воды",
+    "icon_prompt": "Pixel art spell icon representing trigram ''. Simple glowing rune or glyph in square frame, SNES RPG interface style, 64x64.",
+    "image_path": "magic/icons/trigrams/.png",
+    "use_case": "Displayed in magic selection UI or spellbook when using ''."
+  },
+  {
+    "name": "",
+    "school": "Триграммы",
+    "description": "Эффект: Тьма + Сфера + Контроль",
+    "icon_prompt": "Pixel art spell icon representing trigram ''. Simple glowing rune or glyph in square frame, SNES RPG interface style, 64x64.",
+    "image_path": "magic/icons/trigrams/.png",
+    "use_case": "Displayed in magic selection UI or spellbook when using ''."
+  },
+  {
+    "name": "",
+    "school": "Триграммы",
+    "description": "Эффект: Поток воды + Земля + Поток воды",
+    "icon_prompt": "Pixel art spell icon representing trigram ''. Simple glowing rune or glyph in square frame, SNES RPG interface style, 64x64.",
+    "image_path": "magic/icons/trigrams/.png",
+    "use_case": "Displayed in magic selection UI or spellbook when using ''."
+  },
+  {
+    "name": "",
+    "school": "Триграммы",
+    "description": "Эффект: Земля + Резонанс + Поток воды",
+    "icon_prompt": "Pixel art spell icon representing trigram ''. Simple glowing rune or glyph in square frame, SNES RPG interface style, 64x64.",
+    "image_path": "magic/icons/trigrams/.png",
+    "use_case": "Displayed in magic selection UI or spellbook when using ''."
+  },
+  {
+    "name": "",
+    "school": "Триграммы",
+    "description": "Эффект: Искажение + Печать + Контроль",
+    "icon_prompt": "Pixel art spell icon representing trigram ''. Simple glowing rune or glyph in square frame, SNES RPG interface style, 64x64.",
+    "image_path": "magic/icons/trigrams/.png",
+    "use_case": "Displayed in magic selection UI or spellbook when using ''."
+  },
+  {
+    "name": "",
+    "school": "Триграммы",
+    "description": "Эффект: Связь + Тьма + Память",
+    "icon_prompt": "Pixel art spell icon representing trigram ''. Simple glowing rune or glyph in square frame, SNES RPG interface style, 64x64.",
+    "image_path": "magic/icons/trigrams/.png",
+    "use_case": "Displayed in magic selection UI or spellbook when using ''."
+  },
+  {
+    "name": "",
+    "school": "Триграммы",
+    "description": "Эффект: Поток воды + Ткань реальности + Звук",
+    "icon_prompt": "Pixel art spell icon representing trigram ''. Simple glowing rune or glyph in square frame, SNES RPG interface style, 64x64.",
+    "image_path": "magic/icons/trigrams/.png",
+    "use_case": "Displayed in magic selection UI or spellbook when using ''."
+  },
+  {
+    "name": "",
+    "school": "Триграммы",
+    "description": "Эффект: Поток воды + Связь + Связь",
+    "icon_prompt": "Pixel art spell icon representing trigram ''. Simple glowing rune or glyph in square frame, SNES RPG interface style, 64x64.",
+    "image_path": "magic/icons/trigrams/.png",
+    "use_case": "Displayed in magic selection UI or spellbook when using ''."
+  },
+  {
+    "name": "",
+    "school": "Триграммы",
+    "description": "Эффект: Рост + Свет + Резонанс",
+    "icon_prompt": "Pixel art spell icon representing trigram ''. Simple glowing rune or glyph in square frame, SNES RPG interface style, 64x64.",
+    "image_path": "magic/icons/trigrams/.png",
+    "use_case": "Displayed in magic selection UI or spellbook when using ''."
+  },
+  {
+    "name": "",
+    "school": "Триграммы",
+    "description": "Эффект: Рост + Контроль + Воздух",
+    "icon_prompt": "Pixel art spell icon representing trigram ''. Simple glowing rune or glyph in square frame, SNES RPG interface style, 64x64.",
+    "image_path": "magic/icons/trigrams/.png",
+    "use_case": "Displayed in magic selection UI or spellbook when using ''."
+  },
+  {
+    "name": "",
+    "school": "Триграммы",
+    "description": "Эффект: Контроль + Звук + Резонанс",
+    "icon_prompt": "Pixel art spell icon representing trigram ''. Simple glowing rune or glyph in square frame, SNES RPG interface style, 64x64.",
+    "image_path": "magic/icons/trigrams/.png",
+    "use_case": "Displayed in magic selection UI or spellbook when using ''."
+  },
+  {
+    "name": "",
+    "school": "Триграммы",
+    "description": "Эффект: Память + Заморозка + Поток воды",
+    "icon_prompt": "Pixel art spell icon representing trigram ''. Simple glowing rune or glyph in square frame, SNES RPG interface style, 64x64.",
+    "image_path": "magic/icons/trigrams/.png",
+    "use_case": "Displayed in magic selection UI or spellbook when using ''."
+  },
+  {
+    "name": "",
+    "school": "Триграммы",
+    "description": "Эффект: Врата + Звук + Земля",
+    "icon_prompt": "Pixel art spell icon representing trigram ''. Simple glowing rune or glyph in square frame, SNES RPG interface style, 64x64.",
+    "image_path": "magic/icons/trigrams/.png",
+    "use_case": "Displayed in magic selection UI or spellbook when using ''."
+  },
+  {
+    "name": "",
+    "school": "Триграммы",
+    "description": "Эффект: Хранение + Защита + Рост",
+    "icon_prompt": "Pixel art spell icon representing trigram ''. Simple glowing rune or glyph in square frame, SNES RPG interface style, 64x64.",
+    "image_path": "magic/icons/trigrams/.png",
+    "use_case": "Displayed in magic selection UI or spellbook when using ''."
+  },
+  {
+    "name": "",
+    "school": "Триграммы",
+    "description": "Эффект: Сфера + Контроль + Контроль",
+    "icon_prompt": "Pixel art spell icon representing trigram ''. Simple glowing rune or glyph in square frame, SNES RPG interface style, 64x64.",
+    "image_path": "magic/icons/trigrams/.png",
+    "use_case": "Displayed in magic selection UI or spellbook when using ''."
+  },
+  {
+    "name": "",
+    "school": "Триграммы",
+    "description": "Эффект: Поток воды + Огненный импульс + Память",
+    "icon_prompt": "Pixel art spell icon representing trigram ''. Simple glowing rune or glyph in square frame, SNES RPG interface style, 64x64.",
+    "image_path": "magic/icons/trigrams/.png",
+    "use_case": "Displayed in magic selection UI or spellbook when using ''."
+  },
+  {
+    "name": "",
+    "school": "Триграммы",
+    "description": "Эффект: Врата + Тьма + Огненный импульс",
+    "icon_prompt": "Pixel art spell icon representing trigram ''. Simple glowing rune or glyph in square frame, SNES RPG interface style, 64x64.",
+    "image_path": "magic/icons/trigrams/.png",
+    "use_case": "Displayed in magic selection UI or spellbook when using ''."
+  },
+  {
+    "name": "",
+    "school": "Триграммы",
+    "description": "Эффект: Свет + Печать + Тьма",
+    "icon_prompt": "Pixel art spell icon representing trigram ''. Simple glowing rune or glyph in square frame, SNES RPG interface style, 64x64.",
+    "image_path": "magic/icons/trigrams/.png",
+    "use_case": "Displayed in magic selection UI or spellbook when using ''."
+  },
+  {
+    "name": "",
+    "school": "Триграммы",
+    "description": "Эффект: Яд + Воздух + Огненный импульс",
+    "icon_prompt": "Pixel art spell icon representing trigram ''. Simple glowing rune or glyph in square frame, SNES RPG interface style, 64x64.",
+    "image_path": "magic/icons/trigrams/.png",
+    "use_case": "Displayed in magic selection UI or spellbook when using ''."
+  },
+  {
+    "name": "",
+    "school": "Триграммы",
+    "description": "Эффект: Искажение + Заморозка + Ткань реальности",
+    "icon_prompt": "Pixel art spell icon representing trigram ''. Simple glowing rune or glyph in square frame, SNES RPG interface style, 64x64.",
+    "image_path": "magic/icons/trigrams/.png",
+    "use_case": "Displayed in magic selection UI or spellbook when using ''."
+  },
+  {
+    "name": "",
+    "school": "Триграммы",
+    "description": "Эффект: Воздух + Разрушение + Тьма",
+    "icon_prompt": "Pixel art spell icon representing trigram ''. Simple glowing rune or glyph in square frame, SNES RPG interface style, 64x64.",
+    "image_path": "magic/icons/trigrams/.png",
+    "use_case": "Displayed in magic selection UI or spellbook when using ''."
+  },
+  {
+    "name": "",
+    "school": "Триграммы",
+    "description": "Эффект: Сфера + Ткань реальности + Удар",
+    "icon_prompt": "Pixel art spell icon representing trigram ''. Simple glowing rune or glyph in square frame, SNES RPG interface style, 64x64.",
+    "image_path": "magic/icons/trigrams/.png",
+    "use_case": "Displayed in magic selection UI or spellbook when using ''."
+  },
+  {
+    "name": "",
+    "school": "Триграммы",
+    "description": "Эффект: Печать + Связь + Врата",
+    "icon_prompt": "Pixel art spell icon representing trigram ''. Simple glowing rune or glyph in square frame, SNES RPG interface style, 64x64.",
+    "image_path": "magic/icons/trigrams/.png",
+    "use_case": "Displayed in magic selection UI or spellbook when using ''."
+  },
+  {
+    "name": "",
+    "school": "Триграммы",
+    "description": "Эффект: Резонанс + Удар + Искажение",
+    "icon_prompt": "Pixel art spell icon representing trigram ''. Simple glowing rune or glyph in square frame, SNES RPG interface style, 64x64.",
+    "image_path": "magic/icons/trigrams/.png",
+    "use_case": "Displayed in magic selection UI or spellbook when using ''."
+  },
+  {
+    "name": "",
+    "school": "Триграммы",
+    "description": "Эффект: Яд + Резонанс + Контроль",
+    "icon_prompt": "Pixel art spell icon representing trigram ''. Simple glowing rune or glyph in square frame, SNES RPG interface style, 64x64.",
+    "image_path": "magic/icons/trigrams/.png",
+    "use_case": "Displayed in magic selection UI or spellbook when using ''."
+  },
+  {
+    "name": "",
+    "school": "Триграммы",
+    "description": "Эффект: Хранение + Печать + Связь",
+    "icon_prompt": "Pixel art spell icon representing trigram ''. Simple glowing rune or glyph in square frame, SNES RPG interface style, 64x64.",
+    "image_path": "magic/icons/trigrams/.png",
+    "use_case": "Displayed in magic selection UI or spellbook when using ''."
+  }
+]

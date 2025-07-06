@@ -1,0 +1,194 @@
+[
+  {
+    "name": "Физическая интеграция магии и движения",
+    "school": "Факультет БОЕВОЙ МАГИИ",
+    "description": "Физическая интеграция магии и движения",
+    "icon_prompt": "Pixel art UI icon for spell 'Физическая интеграция магии и движения' from Факультет БОЕВОЙ МАГИИ. Symbolic glyph, scroll or magic icon. 64x64 SNES style.",
+    "image_path": "magic/icons/university/физическая_интеграция_магии_и_движения.png",
+    "use_case": "Used in magic selection UI or spell interface for 'Физическая интеграция магии и движения'."
+  },
+  {
+    "name": "Сборка боевых пентаграмм, их ускоренное срабатывание",
+    "school": "Факультет БОЕВОЙ МАГИИ",
+    "description": "Сборка боевых пентаграмм, их ускоренное срабатывание",
+    "icon_prompt": "Pixel art UI icon for spell 'Сборка боевых пентаграмм, их ускоренное срабатывание' from Факультет БОЕВОЙ МАГИИ. Symbolic glyph, scroll or magic icon. 64x64 SNES style.",
+    "image_path": "magic/icons/university/сборка_боевых_пентаграмм_их_ускоренное_срабатывание.png",
+    "use_case": "Used in magic selection UI or spell interface for 'Сборка боевых пентаграмм, их ускоренное срабатывание'."
+  },
+  {
+    "name": "Полевое заклинание",
+    "school": "Факультет БОЕВОЙ МАГИИ",
+    "description": "Полевое заклинание: практика в дуэлях и реальных условиях",
+    "icon_prompt": "Pixel art UI icon for spell 'Полевое заклинание' from Факультет БОЕВОЙ МАГИИ. Symbolic glyph, scroll or magic icon. 64x64 SNES style.",
+    "image_path": "magic/icons/university/полевое_заклинание.png",
+    "use_case": "Used in magic selection UI or spell interface for 'Полевое заклинание'."
+  },
+  {
+    "name": "Тактика и взаимодействие с армейскими структурами",
+    "school": "Факультет БОЕВОЙ МАГИИ",
+    "description": "Тактика и взаимодействие с армейскими структурами",
+    "icon_prompt": "Pixel art UI icon for spell 'Тактика и взаимодействие с армейскими структурами' from Факультет БОЕВОЙ МАГИИ. Symbolic glyph, scroll or magic icon. 64x64 SNES style.",
+    "image_path": "magic/icons/university/тактика_и_взаимодействие_с_армейскими_структурами.png",
+    "use_case": "Used in magic selection UI or spell interface for 'Тактика и взаимодействие с армейскими структурами'."
+  },
+  {
+    "name": "Анатомия, энергетические узлы, раневая память",
+    "school": "Факультет МЕДИЦИНСКОЙ МАГИИ",
+    "description": "Анатомия, энергетические узлы, раневая память",
+    "icon_prompt": "Pixel art UI icon for spell 'Анатомия, энергетические узлы, раневая память' from Факультет МЕДИЦИНСКОЙ МАГИИ. Symbolic glyph, scroll or magic icon. 64x64 SNES style.",
+    "image_path": "magic/icons/university/анатомия_энергетические_узлы_раневая_память.png",
+    "use_case": "Used in magic selection UI or spell interface for 'Анатомия, энергетические узлы, раневая память'."
+  },
+  {
+    "name": "Использование аурики, гидрокрафта и света",
+    "school": "Факультет МЕДИЦИНСКОЙ МАГИИ",
+    "description": "Использование Аурики, Гидрокрафта и Света",
+    "icon_prompt": "Pixel art UI icon for spell 'Использование аурики, гидрокрафта и света' from Факультет МЕДИЦИНСКОЙ МАГИИ. Symbolic glyph, scroll or magic icon. 64x64 SNES style.",
+    "image_path": "magic/icons/university/использование_аурики_гидрокрафта_и_света.png",
+    "use_case": "Used in magic selection UI or spell interface for 'Использование аурики, гидрокрафта и света'."
+  },
+  {
+    "name": "Алхимия зелий и восстановительных форм",
+    "school": "Факультет МЕДИЦИНСКОЙ МАГИИ",
+    "description": "Алхимия зелий и восстановительных форм",
+    "icon_prompt": "Pixel art UI icon for spell 'Алхимия зелий и восстановительных форм' from Факультет МЕДИЦИНСКОЙ МАГИИ. Symbolic glyph, scroll or magic icon. 64x64 SNES style.",
+    "image_path": "magic/icons/university/алхимия_зелий_и_восстановительных_форм.png",
+    "use_case": "Used in magic selection UI or spell interface for 'Алхимия зелий и восстановительных форм'."
+  },
+  {
+    "name": "Работа с магическими инфекциями, ядами, искажениями",
+    "school": "Факультет МЕДИЦИНСКОЙ МАГИИ",
+    "description": "Работа с магическими инфекциями, ядами, искажениями",
+    "icon_prompt": "Pixel art UI icon for spell 'Работа с магическими инфекциями, ядами, искажениями' from Факультет МЕДИЦИНСКОЙ МАГИИ. Symbolic glyph, scroll or magic icon. 64x64 SNES style.",
+    "image_path": "magic/icons/university/работа_с_магическими_инфекциями_ядами_искажениями.png",
+    "use_case": "Used in magic selection UI or spell interface for 'Работа с магическими инфекциями, ядами, искажениями'."
+  },
+  {
+    "name": "Изучение рунного языка и его структурной силы",
+    "school": "Факультет РУНОЛОГИИ И АРТЕФАКТОВ",
+    "description": "Изучение рунного языка и его структурной силы",
+    "icon_prompt": "Pixel art UI icon for spell 'Изучение рунного языка и его структурной силы' from Факультет РУНОЛОГИИ И АРТЕФАКТОВ. Symbolic glyph, scroll or magic icon. 64x64 SNES style.",
+    "image_path": "magic/icons/university/изучение_рунного_языка_и_его_структурной_силы.png",
+    "use_case": "Used in magic selection UI or spell interface for 'Изучение рунного языка и его структурной силы'."
+  },
+  {
+    "name": "Гравировка, сборка артефактов, система печатей",
+    "school": "Факультет РУНОЛОГИИ И АРТЕФАКТОВ",
+    "description": "Гравировка, сборка артефактов, система печатей",
+    "icon_prompt": "Pixel art UI icon for spell 'Гравировка, сборка артефактов, система печатей' from Факультет РУНОЛОГИИ И АРТЕФАКТОВ. Symbolic glyph, scroll or magic icon. 64x64 SNES style.",
+    "image_path": "magic/icons/university/гравировка_сборка_артефактов_система_печатей.png",
+    "use_case": "Used in magic selection UI or spell interface for 'Гравировка, сборка артефактов, система печатей'."
+  },
+  {
+    "name": "Создание маготехнологических объектов",
+    "school": "Факультет РУНОЛОГИИ И АРТЕФАКТОВ",
+    "description": "Создание маготехнологических объектов",
+    "icon_prompt": "Pixel art UI icon for spell 'Создание маготехнологических объектов' from Факультет РУНОЛОГИИ И АРТЕФАКТОВ. Symbolic glyph, scroll or magic icon. 64x64 SNES style.",
+    "image_path": "magic/icons/university/создание_маготехнологических_объектов.png",
+    "use_case": "Used in magic selection UI or spell interface for 'Создание маготехнологических объектов'."
+  },
+  {
+    "name": "Связь с манапроводами, стабилизаторы",
+    "school": "Факультет РУНОЛОГИИ И АРТЕФАКТОВ",
+    "description": "Связь с манапроводами, стабилизаторы",
+    "icon_prompt": "Pixel art UI icon for spell 'Связь с манапроводами, стабилизаторы' from Факультет РУНОЛОГИИ И АРТЕФАКТОВ. Symbolic glyph, scroll or magic icon. 64x64 SNES style.",
+    "image_path": "magic/icons/university/связь_с_манапроводами_стабилизаторы.png",
+    "use_case": "Used in magic selection UI or spell interface for 'Связь с манапроводами, стабилизаторы'."
+  },
+  {
+    "name": "Эксперименты с нестабильной маной",
+    "school": "Факультет ИССЛЕДОВАТЕЛЕЙ (МАНА-ФИЗИКА)",
+    "description": "Эксперименты с нестабильной маной",
+    "icon_prompt": "Pixel art UI icon for spell 'Эксперименты с нестабильной маной' from Факультет ИССЛЕДОВАТЕЛЕЙ (МАНА-ФИЗИКА). Symbolic glyph, scroll or magic icon. 64x64 SNES style.",
+    "image_path": "magic/icons/university/эксперименты_с_нестабильной_маной.png",
+    "use_case": "Used in magic selection UI or spell interface for 'Эксперименты с нестабильной маной'."
+  },
+  {
+    "name": "Изучение r5-r6 существ, их треск и ядро",
+    "school": "Факультет ИССЛЕДОВАТЕЛЕЙ (МАНА-ФИЗИКА)",
+    "description": "Изучение R5-R6 существ, их треск и ядро",
+    "icon_prompt": "Pixel art UI icon for spell 'Изучение r5-r6 существ, их треск и ядро' from Факультет ИССЛЕДОВАТЕЛЕЙ (МАНА-ФИЗИКА). Symbolic glyph, scroll or magic icon. 64x64 SNES style.",
+    "image_path": "magic/icons/university/изучение_r5r6_существ_их_треск_и_ядро.png",
+    "use_case": "Used in magic selection UI or spell interface for 'Изучение r5-r6 существ, их треск и ядро'."
+  },
+  {
+    "name": "Теоретическая сборка новых триграмм",
+    "school": "Факультет ИССЛЕДОВАТЕЛЕЙ (МАНА-ФИЗИКА)",
+    "description": "Теоретическая сборка новых триграмм",
+    "icon_prompt": "Pixel art UI icon for spell 'Теоретическая сборка новых триграмм' from Факультет ИССЛЕДОВАТЕЛЕЙ (МАНА-ФИЗИКА). Symbolic glyph, scroll or magic icon. 64x64 SNES style.",
+    "image_path": "magic/icons/university/теоретическая_сборка_новых_триграмм.png",
+    "use_case": "Used in magic selection UI or spell interface for 'Теоретическая сборка новых триграмм'."
+  },
+  {
+    "name": "Маги-учёные, аналитики, проектировщики",
+    "school": "Факультет ИССЛЕДОВАТЕЛЕЙ (МАНА-ФИЗИКА)",
+    "description": "Маги-учёные, аналитики, проектировщики",
+    "icon_prompt": "Pixel art UI icon for spell 'Маги-учёные, аналитики, проектировщики' from Факультет ИССЛЕДОВАТЕЛЕЙ (МАНА-ФИЗИКА). Symbolic glyph, scroll or magic icon. 64x64 SNES style.",
+    "image_path": "magic/icons/university/магиученые_аналитики_проектировщики.png",
+    "use_case": "Used in magic selection UI or spell interface for 'Маги-учёные, аналитики, проектировщики'."
+  },
+  {
+    "name": "Онейромантия, психоструктуры",
+    "school": "Факультет ПСИ-МАГИИ И СОЗНАНИЯ",
+    "description": "Онейромантия, психоструктуры",
+    "icon_prompt": "Pixel art UI icon for spell 'Онейромантия, психоструктуры' from Факультет ПСИ-МАГИИ И СОЗНАНИЯ. Symbolic glyph, scroll or magic icon. 64x64 SNES style.",
+    "image_path": "magic/icons/university/онейромантия_психоструктуры.png",
+    "use_case": "Used in magic selection UI or spell interface for 'Онейромантия, психоструктуры'."
+  },
+  {
+    "name": "Изучение снов, предчувствий и магии сна",
+    "school": "Факультет ПСИ-МАГИИ И СОЗНАНИЯ",
+    "description": "Изучение снов, предчувствий и магии сна",
+    "icon_prompt": "Pixel art UI icon for spell 'Изучение снов, предчувствий и магии сна' from Факультет ПСИ-МАГИИ И СОЗНАНИЯ. Symbolic glyph, scroll or magic icon. 64x64 SNES style.",
+    "image_path": "magic/icons/university/изучение_снов_предчувствий_и_магии_сна.png",
+    "use_case": "Used in magic selection UI or spell interface for 'Изучение снов, предчувствий и магии сна'."
+  },
+  {
+    "name": "Работа с сознанием, памятью, речевыми аномалиями",
+    "school": "Факультет ПСИ-МАГИИ И СОЗНАНИЯ",
+    "description": "Работа с сознанием, памятью, речевыми аномалиями",
+    "icon_prompt": "Pixel art UI icon for spell 'Работа с сознанием, памятью, речевыми аномалиями' from Факультет ПСИ-МАГИИ И СОЗНАНИЯ. Symbolic glyph, scroll or magic icon. 64x64 SNES style.",
+    "image_path": "magic/icons/university/работа_с_сознанием_памятью_речевыми_аномалиями.png",
+    "use_case": "Used in magic selection UI or spell interface for 'Работа с сознанием, памятью, речевыми аномалиями'."
+  },
+  {
+    "name": "Метамагическое воздействие на восприятие",
+    "school": "Факультет ПСИ-МАГИИ И СОЗНАНИЯ",
+    "description": "Метамагическое воздействие на восприятие",
+    "icon_prompt": "Pixel art UI icon for spell 'Метамагическое воздействие на восприятие' from Факультет ПСИ-МАГИИ И СОЗНАНИЯ. Symbolic glyph, scroll or magic icon. 64x64 SNES style.",
+    "image_path": "magic/icons/university/метамагическое_воздействие_на_восприятие.png",
+    "use_case": "Used in magic selection UI or spell interface for 'Метамагическое воздействие на восприятие'."
+  },
+  {
+    "name": "Речевые формулы, старые языки, песнопения",
+    "school": "Факультет ВЕРБАЛЬНОЙ И РИТУАЛЬНОЙ МАГИИ",
+    "description": "Речевые формулы, старые языки, песнопения",
+    "icon_prompt": "Pixel art UI icon for spell 'Речевые формулы, старые языки, песнопения' from Факультет ВЕРБАЛЬНОЙ И РИТУАЛЬНОЙ МАГИИ. Symbolic glyph, scroll or magic icon. 64x64 SNES style.",
+    "image_path": "magic/icons/university/речевые_формулы_старые_языки_песнопения.png",
+    "use_case": "Used in magic selection UI or spell interface for 'Речевые формулы, старые языки, песнопения'."
+  },
+  {
+    "name": "Стабилизация магии через звуковую резонансную волну",
+    "school": "Факультет ВЕРБАЛЬНОЙ И РИТУАЛЬНОЙ МАГИИ",
+    "description": "Стабилизация магии через звуковую резонансную волну",
+    "icon_prompt": "Pixel art UI icon for spell 'Стабилизация магии через звуковую резонансную волну' from Факультет ВЕРБАЛЬНОЙ И РИТУАЛЬНОЙ МАГИИ. Symbolic glyph, scroll or magic icon. 64x64 SNES style.",
+    "image_path": "magic/icons/university/стабилизация_магии_через_звуковую_резонансную_волну.png",
+    "use_case": "Used in magic selection UI or spell interface for 'Стабилизация магии через звуковую резонансную волну'."
+  },
+  {
+    "name": "Мантры, магические поэмы, публичная магия",
+    "school": "Факультет ВЕРБАЛЬНОЙ И РИТУАЛЬНОЙ МАГИИ",
+    "description": "Мантры, магические поэмы, публичная магия",
+    "icon_prompt": "Pixel art UI icon for spell 'Мантры, магические поэмы, публичная магия' from Факультет ВЕРБАЛЬНОЙ И РИТУАЛЬНОЙ МАГИИ. Symbolic glyph, scroll or magic icon. 64x64 SNES style.",
+    "image_path": "magic/icons/university/мантры_магические_поэмы_публичная_магия.png",
+    "use_case": "Used in magic selection UI or spell interface for 'Мантры, магические поэмы, публичная магия'."
+  },
+  {
+    "name": "Создание ритуальных формул под культы и богов",
+    "school": "Факультет ВЕРБАЛЬНОЙ И РИТУАЛЬНОЙ МАГИИ",
+    "description": "Создание ритуальных формул под культы и богов",
+    "icon_prompt": "Pixel art UI icon for spell 'Создание ритуальных формул под культы и богов' from Факультет ВЕРБАЛЬНОЙ И РИТУАЛЬНОЙ МАГИИ. Symbolic glyph, scroll or magic icon. 64x64 SNES style.",
+    "image_path": "magic/icons/university/создание_ритуальных_формул_под_культы_и_богов.png",
+    "use_case": "Used in magic selection UI or spell interface for 'Создание ритуальных формул под культы и богов'."
+  }
+]

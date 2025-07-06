@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Satchel",
+    "prompt": "Pixel art of a satchel as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/containers/satchel.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in containers category."
+  },
+  {
+    "name": "Leather Pouch",
+    "prompt": "Pixel art of a leather pouch as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/containers/leather_pouch.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in containers category."
+  },
+  {
+    "name": "Lockbox",
+    "prompt": "Pixel art of a lockbox as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/containers/lockbox.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in containers category."
+  },
+  {
+    "name": "Wooden Crate",
+    "prompt": "Pixel art of a wooden crate as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/containers/wooden_crate.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in containers category."
+  },
+  {
+    "name": "Toolbox",
+    "prompt": "Pixel art of a toolbox as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/containers/toolbox.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in containers category."
+  },
+  {
+    "name": "Magic Chest",
+    "prompt": "Pixel art of a magic chest as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/containers/magic_chest.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in containers category."
+  },
+  {
+    "name": "Herbal Bag",
+    "prompt": "Pixel art of a herbal bag as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/containers/herbal_bag.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in containers category."
+  },
+  {
+    "name": "Scroll Tube",
+    "prompt": "Pixel art of a scroll tube as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/containers/scroll_tube.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in containers category."
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Silver Ring",
+    "prompt": "Pixel art of a silver ring as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/valuables/silver_ring.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in valuables category."
+  },
+  {
+    "name": "Gold Coin",
+    "prompt": "Pixel art of a gold coin as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/valuables/gold_coin.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in valuables category."
+  },
+  {
+    "name": "Ancient Medallion",
+    "prompt": "Pixel art of a ancient medallion as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/valuables/ancient_medallion.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in valuables category."
+  },
+  {
+    "name": "Engraved Locket",
+    "prompt": "Pixel art of a engraved locket as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/valuables/engraved_locket.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in valuables category."
+  },
+  {
+    "name": "Crystal Orb",
+    "prompt": "Pixel art of a crystal orb as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/valuables/crystal_orb.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in valuables category."
+  },
+  {
+    "name": "Decorative Dagger",
+    "prompt": "Pixel art of a decorative dagger as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/valuables/decorative_dagger.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in valuables category."
+  },
+  {
+    "name": "Jeweled Necklace",
+    "prompt": "Pixel art of a jeweled necklace as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/valuables/jeweled_necklace.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in valuables category."
+  },
+  {
+    "name": "Guild Seal",
+    "prompt": "Pixel art of a guild seal as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/valuables/guild_seal.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in valuables category."
+  }
+]

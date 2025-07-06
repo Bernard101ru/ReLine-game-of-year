@@ -1,0 +1,2729 @@
+[
+  {
+    "name": "Fire Salamander",
+    "rank": "R0",
+    "habitat": "Ashen Cliffs",
+    "behavior": "solitary",
+    "mana_trace": "chaotic pulse",
+    "value": "common",
+    "description": "masterpiece, best quality, pixel art, Fire Salamander, fantasy creature, 8-bit style, colorful, detailed, LoRA:pixel_f2:0.75"
+  },
+  {
+    "name": "Crystal Golem",
+    "rank": "R1",
+    "habitat": "Moss Swamps",
+    "behavior": "aggressive",
+    "mana_trace": "static hum",
+    "value": "uncommon",
+    "description": "masterpiece, best quality, pixel art, Crystal Golem, fantasy creature, 8-bit style, colorful, detailed, LoRA:pixel_f2:0.75"
+  },
+  {
+    "name": "Forest Spirit",
+    "rank": "R2",
+    "habitat": "Crystal Caverns",
+    "behavior": "pack-hunter",
+    "mana_trace": "radiant flare",
+    "value": "rare",
+    "description": "masterpiece, best quality, pixel art, Forest Spirit, fantasy creature, 8-bit style, colorful, detailed, LoRA:pixel_f2:0.75"
+  },
+  {
+    "name": "Ancient Treant",
+    "rank": "R3",
+    "habitat": "Sapphire Coast",
+    "behavior": "territorial",
+    "mana_trace": "shifting resonance",
+    "value": "legendary",
+    "description": "masterpiece, best quality, pixel art, Ancient Treant, fantasy creature, 8-bit style, colorful, detailed, LoRA:pixel_f2:0.75"
+  },
+  {
+    "name": "Cave Spider",
+    "rank": "R4",
+    "habitat": "Veilwood",
+    "behavior": "ambush predator",
+    "mana_trace": "silent distortion",
+    "value": "mythical",
+    "description": "masterpiece, best quality, pixel art, Cave Spider, fantasy creature, 8-bit style, colorful, detailed, LoRA:pixel_f2:0.75"
+  },
+  {
+    "name": "Storm Drake",
+    "rank": "R5",
+    "habitat": "Shattered Peaks",
+    "behavior": "neutral observer",
+    "mana_trace": "chaotic pulse",
+    "value": "common",
+    "description": "masterpiece, best quality, pixel art, Storm Drake, fantasy creature, 8-bit style, colorful, detailed, LoRA:pixel_f2:0.75"
+  },
+  {
+    "name": "Shadow Hound",
+    "rank": "R6",
+    "habitat": "Emerald Lowlands",
+    "behavior": "solitary",
+    "mana_trace": "static hum",
+    "value": "uncommon",
+    "description": "masterpiece, best quality, pixel art, Shadow Hound, fantasy creature, 8-bit style, colorful, detailed, LoRA:pixel_f2:0.75"
+  },
+  {
+    "name": "Ice Wyrm",
+    "rank": "R0",
+    "habitat": "Obsidian Desert",
+    "behavior": "aggressive",
+    "mana_trace": "radiant flare",
+    "value": "rare",
+    "description": "masterpiece, best quality, pixel art, Ice Wyrm, fantasy creature, 8-bit style, colorful, detailed, LoRA:pixel_f2:0.75"
+  },
+  {
+    "name": "Rock Elemental",
+    "rank": "R1",
+    "habitat": "Frozen Hollow",
+    "behavior": "pack-hunter",
+    "mana_trace": "shifting resonance",
+    "value": "legendary",
+    "description": "masterpiece, best quality, pixel art, Rock Elemental, fantasy creature, 8-bit style, colorful, detailed, LoRA:pixel_f2:0.75"
+  },
+  {
+    "name": "Poison Toad",
+    "rank": "R2",
+    "habitat": "Sunken Valley",
+    "behavior": "territorial",
+    "mana_trace": "silent distortion",
+    "value": "mythical",
+    "description": "masterpiece, best quality, pixel art, Poison Toad, fantasy creature, 8-bit style, colorful, detailed, LoRA:pixel_f2:0.75"
+  },
+  {
+    "name": "Ghostly Deer",
+    "rank": "R3",
+    "habitat": "Ashen Cliffs",
+    "behavior": "ambush predator",
+    "mana_trace": "chaotic pulse",
+    "value": "common",
+    "description": "masterpiece, best quality, pixel art, Ghostly Deer, fantasy creature, 8-bit style, colorful, detailed, LoRA:pixel_f2:0.75"
+  },
+  {
+    "name": "Thunder Griffin",
+    "rank": "R4",
+    "habitat": "Moss Swamps",
+    "behavior": "neutral observer",
+    "mana_trace": "static hum",
+    "value": "uncommon",
+    "description": "masterpiece, best quality, pixel art, Thunder Griffin, fantasy creature, 8-bit style, colorful, detailed, LoRA:pixel_f2:0.75"
+  },
+  {
+    "name": "Blight Bat",
+    "rank": "R5",
+    "habitat": "Crystal Caverns",
+    "behavior": "solitary",
+    "mana_trace": "radiant flare",
+    "value": "rare",
+    "description": "masterpiece, best quality, pixel art, Blight Bat, fantasy creature, 8-bit style, colorful, detailed, LoRA:pixel_f2:0.75"
+  },
+  {
+    "name": "Bone Serpent",
+    "rank": "R6",
+    "habitat": "Sapphire Coast",
+    "behavior": "aggressive",
+    "mana_trace": "shifting resonance",
+    "value": "legendary",
+    "description": "masterpiece, best quality, pixel art, Bone Serpent, fantasy creature, 8-bit style, colorful, detailed, LoRA:pixel_f2:0.75"
+  },
+  {
+    "name": "Volcanic Beetle",
+    "rank": "R0",
+    "habitat": "Veilwood",
+    "behavior": "pack-hunter",
+    "mana_trace": "silent distortion",
+    "value": "mythical",
+    "description": "masterpiece, best quality, pixel art, Volcanic Beetle, fantasy creature, 8-bit style, colorful, detailed, LoRA:pixel_f2:0.75"
+  },
+  {
+    "name": "Snow Lynx",
+    "rank": "R1",
+    "habitat": "Shattered Peaks",
+    "behavior": "territorial",
+    "mana_trace": "chaotic pulse",
+    "value": "common",
+    "description": "masterpiece, best quality, pixel art, Snow Lynx, fantasy creature, 8-bit style, colorful, detailed, LoRA:pixel_f2:0.75"
+  },
+  {
+    "name": "Ash Wolf",
+    "rank": "R2",
+    "habitat": "Emerald Lowlands",
+    "behavior": "ambush predator",
+    "mana_trace": "static hum",
+    "value": "uncommon",
+    "description": "masterpiece, best quality, pixel art, Ash Wolf, fantasy creature, 8-bit style, colorful, detailed, LoRA:pixel_f2:0.75"
+  },
+  {
+    "name": "Wisp",
+    "rank": "R3",
+    "habitat": "Obsidian Desert",
+    "behavior": "neutral observer",
+    "mana_trace": "radiant flare",
+    "value": "rare",
+    "description": "masterpiece, best quality, pixel art, Wisp, fantasy creature, 8-bit style, colorful, detailed, LoRA:pixel_f2:0.75"
+  },
+  {
+    "name": "Sand Scorpion",
+    "rank": "R4",
+    "habitat": "Frozen Hollow",
+    "behavior": "solitary",
+    "mana_trace": "shifting resonance",
+    "value": "legendary",
+    "description": "masterpiece, best quality, pixel art, Sand Scorpion, fantasy creature, 8-bit style, colorful, detailed, LoRA:pixel_f2:0.75"
+  },
+  {
+    "name": "Lava Slug",
+    "rank": "R5",
+    "habitat": "Sunken Valley",
+    "behavior": "aggressive",
+    "mana_trace": "silent distortion",
+    "value": "mythical",
+    "description": "masterpiece, best quality, pixel art, Lava Slug, fantasy creature, 8-bit style, colorful, detailed, LoRA:pixel_f2:0.75"
+  },
+  {
+    "name": "Nether Moth",
+    "rank": "R6",
+    "habitat": "Ashen Cliffs",
+    "behavior": "pack-hunter",
+    "mana_trace": "chaotic pulse",
+    "value": "common",
+    "description": "masterpiece, best quality, pixel art, Nether Moth, fantasy creature, 8-bit style, colorful, detailed, LoRA:pixel_f2:0.75"
+  },
+  {
+    "name": "Marsh Lurker",
+    "rank": "R0",
+    "habitat": "Moss Swamps",
+    "behavior": "territorial",
+    "mana_trace": "static hum",
+    "value": "uncommon",
+    "description": "masterpiece, best quality, pixel art, Marsh Lurker, fantasy creature, 8-bit style, colorful, detailed, LoRA:pixel_f2:0.75"
+  },
+  {
+    "name": "Frost Fox",
+    "rank": "R1",
+    "habitat": "Crystal Caverns",
+    "behavior": "ambush predator",
+    "mana_trace": "radiant flare",
+    "value": "rare",
+    "description": "masterpiece, best quality, pixel art, Frost Fox, fantasy creature, 8-bit style, colorful, detailed, LoRA:pixel_f2:0.75"
+  },
+  {
+    "name": "Ember Basilisk",
+    "rank": "R2",
+    "habitat": "Sapphire Coast",
+    "behavior": "neutral observer",
+    "mana_trace": "shifting resonance",
+    "value": "legendary",
+    "description": "masterpiece, best quality, pixel art, Ember Basilisk, fantasy creature, 8-bit style, colorful, detailed, LoRA:pixel_f2:0.75"
+  },
+  {
+    "name": "Sky Ray",
+    "rank": "R3",
+    "habitat": "Veilwood",
+    "behavior": "solitary",
+    "mana_trace": "silent distortion",
+    "value": "mythical",
+    "description": "masterpiece, best quality, pixel art, Sky Ray, fantasy creature, 8-bit style, colorful, detailed, LoRA:pixel_f2:0.75"
+  },
+  {
+    "name": "Bog Creeper",
+    "rank": "R4",
+    "habitat": "Shattered Peaks",
+    "behavior": "aggressive",
+    "mana_trace": "chaotic pulse",
+    "value": "common",
+    "description": "masterpiece, best quality, pixel art, Bog Creeper, fantasy creature, 8-bit style, colorful, detailed, LoRA:pixel_f2:0.75"
+  },
+  {
+    "name": "Sunscale Lizard",
+    "rank": "R5",
+    "habitat": "Emerald Lowlands",
+    "behavior": "pack-hunter",
+    "mana_trace": "static hum",
+    "value": "uncommon",
+    "description": "masterpiece, best quality, pixel art, Sunscale Lizard, fantasy creature, 8-bit style, colorful, detailed, LoRA:pixel_f2:0.75"
+  },
+  {
+    "name": "Crystal Stag",
+    "rank": "R6",
+    "habitat": "Obsidian Desert",
+    "behavior": "territorial",
+    "mana_trace": "radiant flare",
+    "value": "rare",
+    "description": "masterpiece, best quality, pixel art, Crystal Stag, fantasy creature, 8-bit style, colorful, detailed, LoRA:pixel_f2:0.75"
+  },
+  {
+    "name": "Fungal Warden",
+    "rank": "R0",
+    "habitat": "Frozen Hollow",
+    "behavior": "ambush predator",
+    "mana_trace": "shifting resonance",
+    "value": "legendary",
+    "description": "masterpiece, best quality, pixel art, Fungal Warden, fantasy creature, 8-bit style, colorful, detailed, LoRA:pixel_f2:0.75"
+  },
+  {
+    "name": "Moonshade Panther",
+    "rank": "R1",
+    "habitat": "Sunken Valley",
+    "behavior": "neutral observer",
+    "mana_trace": "silent distortion",
+    "value": "mythical",
+    "description": "masterpiece, best quality, pixel art, Moonshade Panther, fantasy creature, 8-bit style, colorful, detailed, LoRA:pixel_f2:0.75"
+  },
+  {
+    "name": "Iron Beak",
+    "rank": "R2",
+    "habitat": "Ashen Cliffs",
+    "behavior": "solitary",
+    "mana_trace": "chaotic pulse",
+    "value": "common",
+    "description": "masterpiece, best quality, pixel art, Iron Beak, fantasy creature, 8-bit style, colorful, detailed, LoRA:pixel_f2:0.75"
+  },
+  {
+    "name": "Whisper Owl",
+    "rank": "R3",
+    "habitat": "Moss Swamps",
+    "behavior": "aggressive",
+    "mana_trace": "static hum",
+    "value": "uncommon",
+    "description": "masterpiece, best quality, pixel art, Whisper Owl, fantasy creature, 8-bit style, colorful, detailed, LoRA:pixel_f2:0.75"
+  },
+  {
+    "name": "Duskfang Viper",
+    "rank": "R4",
+    "habitat": "Crystal Caverns",
+    "behavior": "pack-hunter",
+    "mana_trace": "radiant flare",
+    "value": "rare",
+    "description": "masterpiece, best quality, pixel art, Duskfang Viper, fantasy creature, 8-bit style, colorful, detailed, LoRA:pixel_f2:0.75"
+  },
+  {
+    "name": "Shimmer Frog",
+    "rank": "R5",
+    "habitat": "Sapphire Coast",
+    "behavior": "territorial",
+    "mana_trace": "shifting resonance",
+    "value": "legendary",
+    "description": "masterpiece, best quality, pixel art, Shimmer Frog, fantasy creature, 8-bit style, colorful, detailed, LoRA:pixel_f2:0.75"
+  },
+  {
+    "name": "Runestone Beetle",
+    "rank": "R6",
+    "habitat": "Veilwood",
+    "behavior": "ambush predator",
+    "mana_trace": "silent distortion",
+    "value": "mythical",
+    "description": "masterpiece, best quality, pixel art, Runestone Beetle, fantasy creature, 8-bit style, colorful, detailed, LoRA:pixel_f2:0.75"
+  },
+  {
+    "name": "Glacier Elk",
+    "rank": "R0",
+    "habitat": "Shattered Peaks",
+    "behavior": "neutral observer",
+    "mana_trace": "chaotic pulse",
+    "value": "common",
+    "description": "masterpiece, best quality, pixel art, Glacier Elk, fantasy creature, 8-bit style, colorful, detailed, LoRA:pixel_f2:0.75"
+  },
+  {
+    "name": "Bloodroot Hydra",
+    "rank": "R1",
+    "habitat": "Emerald Lowlands",
+    "behavior": "solitary",
+    "mana_trace": "static hum",
+    "value": "uncommon",
+    "description": "masterpiece, best quality, pixel art, Bloodroot Hydra, fantasy creature, 8-bit style, colorful, detailed, LoRA:pixel_f2:0.75"
+  },
+  {
+    "name": "Spark Spider",
+    "rank": "R2",
+    "habitat": "Obsidian Desert",
+    "behavior": "aggressive",
+    "mana_trace": "radiant flare",
+    "value": "rare",
+    "description": "masterpiece, best quality, pixel art, Spark Spider, fantasy creature, 8-bit style, colorful, detailed, LoRA:pixel_f2:0.75"
+  },
+  {
+    "name": "Wind Serpent",
+    "rank": "R3",
+    "habitat": "Frozen Hollow",
+    "behavior": "pack-hunter",
+    "mana_trace": "shifting resonance",
+    "value": "legendary",
+    "description": "masterpiece, best quality, pixel art, Wind Serpent, fantasy creature, 8-bit style, colorful, detailed, LoRA:pixel_f2:0.75"
+  },
+  {
+    "name": "Thunder Elk",
+    "rank": "R4",
+    "habitat": "Sunken Valley",
+    "behavior": "territorial",
+    "mana_trace": "silent distortion",
+    "value": "mythical",
+    "description": "masterpiece, best quality, pixel art, Thunder Elk, fantasy creature, 8-bit style, colorful, detailed, LoRA:pixel_f2:0.75"
+  },
+  {
+    "name": "Voidling",
+    "rank": "R5",
+    "habitat": "Ashen Cliffs",
+    "behavior": "ambush predator",
+    "mana_trace": "chaotic pulse",
+    "value": "common",
+    "description": "masterpiece, best quality, pixel art, Voidling, fantasy creature, 8-bit style, colorful, detailed, LoRA:pixel_f2:0.75"
+  },
+  {
+    "name": "Silt Serpent",
+    "rank": "R6",
+    "habitat": "Moss Swamps",
+    "behavior": "neutral observer",
+    "mana_trace": "static hum",
+    "value": "uncommon",
+    "description": "masterpiece, best quality, pixel art, Silt Serpent, fantasy creature, 8-bit style, colorful, detailed, LoRA:pixel_f2:0.75"
+  },
+  {
+    "name": "Quicksilver Lynx",
+    "rank": "R0",
+    "habitat": "Crystal Caverns",
+    "behavior": "solitary",
+    "mana_trace": "radiant flare",
+    "value": "rare",
+    "description": "masterpiece, best quality, pixel art, Quicksilver Lynx, fantasy creature, 8-bit style, colorful, detailed, LoRA:pixel_f2:0.75"
+  },
+  {
+    "name": "Obsidian Hare",
+    "rank": "R1",
+    "habitat": "Sapphire Coast",
+    "behavior": "aggressive",
+    "mana_trace": "shifting resonance",
+    "value": "legendary",
+    "description": "masterpiece, best quality, pixel art, Obsidian Hare, fantasy creature, 8-bit style, colorful, detailed, LoRA:pixel_f2:0.75"
+  },
+  {
+    "name": "Glowcap Snail",
+    "rank": "R2",
+    "habitat": "Veilwood",
+    "behavior": "pack-hunter",
+    "mana_trace": "silent distortion",
+    "value": "mythical",
+    "description": "masterpiece, best quality, pixel art, Glowcap Snail, fantasy creature, 8-bit style, colorful, detailed, LoRA:pixel_f2:0.75"
+  },
+  {
+    "name": "Swamp Drake",
+    "rank": "R3",
+    "habitat": "Shattered Peaks",
+    "behavior": "territorial",
+    "mana_trace": "chaotic pulse",
+    "value": "common",
+    "description": "masterpiece, best quality, pixel art, Swamp Drake, fantasy creature, 8-bit style, colorful, detailed, LoRA:pixel_f2:0.75"
+  },
+  {
+    "name": "Blazehorn",
+    "rank": "R4",
+    "habitat": "Emerald Lowlands",
+    "behavior": "ambush predator",
+    "mana_trace": "static hum",
+    "value": "uncommon",
+    "description": "masterpiece, best quality, pixel art, Blazehorn, fantasy creature, 8-bit style, colorful, detailed, LoRA:pixel_f2:0.75"
+  },
+  {
+    "name": "Thornhide Boar",
+    "rank": "R5",
+    "habitat": "Obsidian Desert",
+    "behavior": "neutral observer",
+    "mana_trace": "radiant flare",
+    "value": "rare",
+    "description": "masterpiece, best quality, pixel art, Thornhide Boar, fantasy creature, 8-bit style, colorful, detailed, LoRA:pixel_f2:0.75"
+  },
+  {
+    "name": "Rift Squirrel",
+    "rank": "R6",
+    "habitat": "Frozen Hollow",
+    "behavior": "solitary",
+    "mana_trace": "shifting resonance",
+    "value": "legendary",
+    "description": "masterpiece, best quality, pixel art, Rift Squirrel, fantasy creature, 8-bit style, colorful, detailed, LoRA:pixel_f2:0.75"
+  },
+  {
+    "name": "Mist Wyrmling",
+    "rank": "R0",
+    "habitat": "Sunken Valley",
+    "behavior": "aggressive",
+    "mana_trace": "silent distortion",
+    "value": "mythical",
+    "description": "masterpiece, best quality, pixel art, Mist Wyrmling, fantasy creature, 8-bit style, colorful, detailed, LoRA:pixel_f2:0.75"
+  },
+  {
+    "name": "Eclipse Raven",
+    "rank": "R1",
+    "habitat": "Ashen Cliffs",
+    "behavior": "pack-hunter",
+    "mana_trace": "chaotic pulse",
+    "value": "common",
+    "description": "masterpiece, best quality, pixel art, Eclipse Raven, fantasy creature, 8-bit style, colorful, detailed, LoRA:pixel_f2:0.75"
+  },
+  {
+    "name": "Frostscale",
+    "rank": "R2",
+    "habitat": "Moss Swamps",
+    "behavior": "territorial",
+    "mana_trace": "static hum",
+    "value": "uncommon",
+    "description": "masterpiece, best quality, pixel art, Frostscale, fantasy creature, 8-bit style, colorful, detailed, LoRA:pixel_f2:0.75"
+  },
+  {
+    "name": "Emberling",
+    "rank": "R3",
+    "habitat": "Crystal Caverns",
+    "behavior": "ambush predator",
+    "mana_trace": "radiant flare",
+    "value": "rare",
+    "description": "masterpiece, best quality, pixel art, Emberling, fantasy creature, 8-bit style, colorful, detailed, LoRA:pixel_f2:0.75"
+  },
+  {
+    "name": "Cinder Rat",
+    "rank": "R4",
+    "habitat": "Sapphire Coast",
+    "behavior": "neutral observer",
+    "mana_trace": "shifting resonance",
+    "value": "legendary",
+    "description": "masterpiece, best quality, pixel art, Cinder Rat, fantasy creature, 8-bit style, colorful, detailed, LoRA:pixel_f2:0.75"
+  },
+  {
+    "name": "Stoneshell Crab",
+    "rank": "R5",
+    "habitat": "Veilwood",
+    "behavior": "solitary",
+    "mana_trace": "silent distortion",
+    "value": "mythical",
+    "description": "masterpiece, best quality, pixel art, Stoneshell Crab, fantasy creature, 8-bit style, colorful, detailed, LoRA:pixel_f2:0.75"
+  },
+  {
+    "name": "Star Serpent",
+    "rank": "R6",
+    "habitat": "Shattered Peaks",
+    "behavior": "aggressive",
+    "mana_trace": "chaotic pulse",
+    "value": "common",
+    "description": "masterpiece, best quality, pixel art, Star Serpent, fantasy creature, 8-bit style, colorful, detailed, LoRA:pixel_f2:0.75"
+  },
+  {
+    "name": "Gloom Rat",
+    "rank": "R0",
+    "habitat": "Emerald Lowlands",
+    "behavior": "pack-hunter",
+    "mana_trace": "static hum",
+    "value": "uncommon",
+    "description": "masterpiece, best quality, pixel art, Gloom Rat, fantasy creature, 8-bit style, colorful, detailed, LoRA:pixel_f2:0.75"
+  },
+  {
+    "name": "Twilight Gecko",
+    "rank": "R1",
+    "habitat": "Obsidian Desert",
+    "behavior": "territorial",
+    "mana_trace": "radiant flare",
+    "value": "rare",
+    "description": "masterpiece, best quality, pixel art, Twilight Gecko, fantasy creature, 8-bit style, colorful, detailed, LoRA:pixel_f2:0.75"
+  },
+  {
+    "name": "Ashscale",
+    "rank": "R2",
+    "habitat": "Frozen Hollow",
+    "behavior": "ambush predator",
+    "mana_trace": "shifting resonance",
+    "value": "legendary",
+    "description": "masterpiece, best quality, pixel art, Ashscale, fantasy creature, 8-bit style, colorful, detailed, LoRA:pixel_f2:0.75"
+  },
+  {
+    "name": "Cavern Dweller",
+    "rank": "R3",
+    "habitat": "Sunken Valley",
+    "behavior": "neutral observer",
+    "mana_trace": "silent distortion",
+    "value": "mythical",
+    "description": "masterpiece, best quality, pixel art, Cavern Dweller, fantasy creature, 8-bit style, colorful, detailed, LoRA:pixel_f2:0.75"
+  },
+  {
+    "name": "Rootling",
+    "rank": "R4",
+    "habitat": "Ashen Cliffs",
+    "behavior": "solitary",
+    "mana_trace": "chaotic pulse",
+    "value": "common",
+    "description": "masterpiece, best quality, pixel art, Rootling, fantasy creature, 8-bit style, colorful, detailed, LoRA:pixel_f2:0.75"
+  },
+  {
+    "name": "Grave Tortoise",
+    "rank": "R5",
+    "habitat": "Moss Swamps",
+    "behavior": "aggressive",
+    "mana_trace": "static hum",
+    "value": "uncommon",
+    "description": "masterpiece, best quality, pixel art, Grave Tortoise, fantasy creature, 8-bit style, colorful, detailed, LoRA:pixel_f2:0.75"
+  },
+  {
+    "name": "Dust Moth",
+    "rank": "R6",
+    "habitat": "Crystal Caverns",
+    "behavior": "pack-hunter",
+    "mana_trace": "radiant flare",
+    "value": "rare",
+    "description": "masterpiece, best quality, pixel art, Dust Moth, fantasy creature, 8-bit style, colorful, detailed, LoRA:pixel_f2:0.75"
+  },
+  {
+    "name": "Sunflare Cobra",
+    "rank": "R0",
+    "habitat": "Sapphire Coast",
+    "behavior": "territorial",
+    "mana_trace": "shifting resonance",
+    "value": "legendary",
+    "description": "masterpiece, best quality, pixel art, Sunflare Cobra, fantasy creature, 8-bit style, colorful, detailed, LoRA:pixel_f2:0.75"
+  },
+  {
+    "name": "Hollow Beetle",
+    "rank": "R1",
+    "habitat": "Veilwood",
+    "behavior": "ambush predator",
+    "mana_trace": "silent distortion",
+    "value": "mythical",
+    "description": "masterpiece, best quality, pixel art, Hollow Beetle, fantasy creature, 8-bit style, colorful, detailed, LoRA:pixel_f2:0.75"
+  },
+  {
+    "name": "Gust Bat",
+    "rank": "R2",
+    "habitat": "Shattered Peaks",
+    "behavior": "neutral observer",
+    "mana_trace": "chaotic pulse",
+    "value": "common",
+    "description": "masterpiece, best quality, pixel art, Gust Bat, fantasy creature, 8-bit style, colorful, detailed, LoRA:pixel_f2:0.75"
+  },
+  {
+    "name": "Coral Eel",
+    "rank": "R3",
+    "habitat": "Emerald Lowlands",
+    "behavior": "solitary",
+    "mana_trace": "static hum",
+    "value": "uncommon",
+    "description": "masterpiece, best quality, pixel art, Coral Eel, fantasy creature, 8-bit style, colorful, detailed, LoRA:pixel_f2:0.75"
+  },
+  {
+    "name": "Rockhide Ram",
+    "rank": "R4",
+    "habitat": "Obsidian Desert",
+    "behavior": "aggressive",
+    "mana_trace": "radiant flare",
+    "value": "rare",
+    "description": "masterpiece, best quality, pixel art, Rockhide Ram, fantasy creature, 8-bit style, colorful, detailed, LoRA:pixel_f2:0.75"
+  },
+  {
+    "name": "Crimson Newt",
+    "rank": "R5",
+    "habitat": "Frozen Hollow",
+    "behavior": "pack-hunter",
+    "mana_trace": "shifting resonance",
+    "value": "legendary",
+    "description": "masterpiece, best quality, pixel art, Crimson Newt, fantasy creature, 8-bit style, colorful, detailed, LoRA:pixel_f2:0.75"
+  },
+  {
+    "name": "Tangle Vine",
+    "rank": "R6",
+    "habitat": "Sunken Valley",
+    "behavior": "territorial",
+    "mana_trace": "silent distortion",
+    "value": "mythical",
+    "description": "masterpiece, best quality, pixel art, Tangle Vine, fantasy creature, 8-bit style, colorful, detailed, LoRA:pixel_f2:0.75"
+  },
+  {
+    "name": "Marrow Prowler",
+    "rank": "R0",
+    "habitat": "Ashen Cliffs",
+    "behavior": "ambush predator",
+    "mana_trace": "chaotic pulse",
+    "value": "common",
+    "description": "masterpiece, best quality, pixel art, Marrow Prowler, fantasy creature, 8-bit style, colorful, detailed, LoRA:pixel_f2:0.75"
+  },
+  {
+    "name": "Frostcap Hare",
+    "rank": "R1",
+    "habitat": "Moss Swamps",
+    "behavior": "neutral observer",
+    "mana_trace": "static hum",
+    "value": "uncommon",
+    "description": "masterpiece, best quality, pixel art, Frostcap Hare, fantasy creature, 8-bit style, colorful, detailed, LoRA:pixel_f2:0.75"
+  },
+  {
+    "name": "Skyhorn",
+    "rank": "R2",
+    "habitat": "Crystal Caverns",
+    "behavior": "solitary",
+    "mana_trace": "radiant flare",
+    "value": "rare",
+    "description": "masterpiece, best quality, pixel art, Skyhorn, fantasy creature, 8-bit style, colorful, detailed, LoRA:pixel_f2:0.75"
+  },
+  {
+    "name": "Flicker Bug",
+    "rank": "R3",
+    "habitat": "Sapphire Coast",
+    "behavior": "aggressive",
+    "mana_trace": "shifting resonance",
+    "value": "legendary",
+    "description": "masterpiece, best quality, pixel art, Flicker Bug, fantasy creature, 8-bit style, colorful, detailed, LoRA:pixel_f2:0.75"
+  },
+  {
+    "name": "Barkfang",
+    "rank": "R4",
+    "habitat": "Veilwood",
+    "behavior": "pack-hunter",
+    "mana_trace": "silent distortion",
+    "value": "mythical",
+    "description": "masterpiece, best quality, pixel art, Barkfang, fantasy creature, 8-bit style, colorful, detailed, LoRA:pixel_f2:0.75"
+  },
+  {
+    "name": "Sapling Sentinel",
+    "rank": "R5",
+    "habitat": "Shattered Peaks",
+    "behavior": "territorial",
+    "mana_trace": "chaotic pulse",
+    "value": "common",
+    "description": "masterpiece, best quality, pixel art, Sapling Sentinel, fantasy creature, 8-bit style, colorful, detailed, LoRA:pixel_f2:0.75"
+  },
+  {
+    "name": "Glimmer Wasp",
+    "rank": "R6",
+    "habitat": "Emerald Lowlands",
+    "behavior": "ambush predator",
+    "mana_trace": "static hum",
+    "value": "uncommon",
+    "description": "masterpiece, best quality, pixel art, Glimmer Wasp, fantasy creature, 8-bit style, colorful, detailed, LoRA:pixel_f2:0.75"
+  },
+  {
+    "name": "Wyrm Larva",
+    "rank": "R0",
+    "habitat": "Obsidian Desert",
+    "behavior": "neutral observer",
+    "mana_trace": "radiant flare",
+    "value": "rare",
+    "description": "masterpiece, best quality, pixel art, Wyrm Larva, fantasy creature, 8-bit style, colorful, detailed, LoRA:pixel_f2:0.75"
+  },
+  {
+    "name": "Ember Scarab",
+    "rank": "R1",
+    "habitat": "Frozen Hollow",
+    "behavior": "solitary",
+    "mana_trace": "shifting resonance",
+    "value": "legendary",
+    "description": "masterpiece, best quality, pixel art, Ember Scarab, fantasy creature, 8-bit style, colorful, detailed, LoRA:pixel_f2:0.75"
+  },
+  {
+    "name": "Frost Owl",
+    "rank": "R2",
+    "habitat": "Sunken Valley",
+    "behavior": "aggressive",
+    "mana_trace": "silent distortion",
+    "value": "mythical",
+    "description": "masterpiece, best quality, pixel art, Frost Owl, fantasy creature, 8-bit style, colorful, detailed, LoRA:pixel_f2:0.75"
+  },
+  {
+    "name": "Glowtail Lemur",
+    "rank": "R3",
+    "habitat": "Ashen Cliffs",
+    "behavior": "pack-hunter",
+    "mana_trace": "chaotic pulse",
+    "value": "common",
+    "description": "masterpiece, best quality, pixel art, Glowtail Lemur, fantasy creature, 8-bit style, colorful, detailed, LoRA:pixel_f2:0.75"
+  },
+  {
+    "name": "Dune Hopper",
+    "rank": "R4",
+    "habitat": "Moss Swamps",
+    "behavior": "territorial",
+    "mana_trace": "static hum",
+    "value": "uncommon",
+    "description": "masterpiece, best quality, pixel art, Dune Hopper, fantasy creature, 8-bit style, colorful, detailed, LoRA:pixel_f2:0.75"
+  },
+  {
+    "name": "Wisp Rat",
+    "rank": "R5",
+    "habitat": "Crystal Caverns",
+    "behavior": "ambush predator",
+    "mana_trace": "radiant flare",
+    "value": "rare",
+    "description": "masterpiece, best quality, pixel art, Wisp Rat, fantasy creature, 8-bit style, colorful, detailed, LoRA:pixel_f2:0.75"
+  },
+  {
+    "name": "Spiketooth Mole",
+    "rank": "R6",
+    "habitat": "Sapphire Coast",
+    "behavior": "neutral observer",
+    "mana_trace": "shifting resonance",
+    "value": "legendary",
+    "description": "masterpiece, best quality, pixel art, Spiketooth Mole, fantasy creature, 8-bit style, colorful, detailed, LoRA:pixel_f2:0.75"
+  },
+  {
+    "name": "Shadowfin",
+    "rank": "R0",
+    "habitat": "Veilwood",
+    "behavior": "solitary",
+    "mana_trace": "silent distortion",
+    "value": "mythical",
+    "description": "masterpiece, best quality, pixel art, Shadowfin, fantasy creature, 8-bit style, colorful, detailed, LoRA:pixel_f2:0.75"
+  },
+  {
+    "name": "Lichen Lurker",
+    "rank": "R1",
+    "habitat": "Shattered Peaks",
+    "behavior": "aggressive",
+    "mana_trace": "chaotic pulse",
+    "value": "common",
+    "description": "masterpiece, best quality, pixel art, Lichen Lurker, fantasy creature, 8-bit style, colorful, detailed, LoRA:pixel_f2:0.75"
+  },
+  {
+    "name": "Burning Imp",
+    "rank": "R2",
+    "habitat": "Emerald Lowlands",
+    "behavior": "pack-hunter",
+    "mana_trace": "static hum",
+    "value": "uncommon",
+    "description": "masterpiece, best quality, pixel art, Burning Imp, fantasy creature, 8-bit style, colorful, detailed, LoRA:pixel_f2:0.75"
+  },
+  {
+    "name": "Boulder Beetle",
+    "rank": "R3",
+    "habitat": "Obsidian Desert",
+    "behavior": "territorial",
+    "mana_trace": "radiant flare",
+    "value": "rare",
+    "description": "masterpiece, best quality, pixel art, Boulder Beetle, fantasy creature, 8-bit style, colorful, detailed, LoRA:pixel_f2:0.75"
+  },
+  {
+    "name": "Mycelium Drake",
+    "rank": "R4",
+    "habitat": "Frozen Hollow",
+    "behavior": "ambush predator",
+    "mana_trace": "shifting resonance",
+    "value": "legendary",
+    "description": "masterpiece, best quality, pixel art, Mycelium Drake, fantasy creature, 8-bit style, colorful, detailed, LoRA:pixel_f2:0.75"
+  },
+  {
+    "name": "Moonroot",
+    "rank": "R5",
+    "habitat": "Sunken Valley",
+    "behavior": "neutral observer",
+    "mana_trace": "silent distortion",
+    "value": "mythical",
+    "description": "masterpiece, best quality, pixel art, Moonroot, fantasy creature, 8-bit style, colorful, detailed, LoRA:pixel_f2:0.75"
+  },
+  {
+    "name": "Thundertail",
+    "rank": "R6",
+    "habitat": "Ashen Cliffs",
+    "behavior": "solitary",
+    "mana_trace": "chaotic pulse",
+    "value": "common",
+    "description": "masterpiece, best quality, pixel art, Thundertail, fantasy creature, 8-bit style, colorful, detailed, LoRA:pixel_f2:0.75"
+  },
+  {
+    "name": "Gloam Adder",
+    "rank": "R0",
+    "habitat": "Moss Swamps",
+    "behavior": "aggressive",
+    "mana_trace": "static hum",
+    "value": "uncommon",
+    "description": "masterpiece, best quality, pixel art, Gloam Adder, fantasy creature, 8-bit style, colorful, detailed, LoRA:pixel_f2:0.75"
+  },
+  {
+    "name": "Emberjaw",
+    "rank": "R1",
+    "habitat": "Crystal Caverns",
+    "behavior": "pack-hunter",
+    "mana_trace": "radiant flare",
+    "value": "rare",
+    "description": "masterpiece, best quality, pixel art, Emberjaw, fantasy creature, 8-bit style, colorful, detailed, LoRA:pixel_f2:0.75"
+  },
+  {
+    "name": "Cragcat",
+    "rank": "R2",
+    "habitat": "Sapphire Coast",
+    "behavior": "territorial",
+    "mana_trace": "shifting resonance",
+    "value": "legendary",
+    "description": "masterpiece, best quality, pixel art, Cragcat, fantasy creature, 8-bit style, colorful, detailed, LoRA:pixel_f2:0.75"
+  },
+  {
+    "name": "Ash Stalker",
+    "rank": "R3",
+    "habitat": "Veilwood",
+    "behavior": "ambush predator",
+    "mana_trace": "silent distortion",
+    "value": "mythical",
+    "description": "masterpiece, best quality, pixel art, Ash Stalker, fantasy creature, 8-bit style, colorful, detailed, LoRA:pixel_f2:0.75"
+  },
+  {
+    "name": "Frosthorn Yak",
+    "rank": "R4",
+    "habitat": "Shattered Peaks",
+    "behavior": "neutral observer",
+    "mana_trace": "chaotic pulse",
+    "value": "common",
+    "description": "masterpiece, best quality, pixel art, Frosthorn Yak, fantasy creature, 8-bit style, colorful, detailed, LoRA:pixel_f2:0.75"
+  },
+  {
+    "name": "Duskridge Bear",
+    "rank": "R5",
+    "habitat": "Emerald Lowlands",
+    "behavior": "solitary",
+    "mana_trace": "static hum",
+    "value": "uncommon",
+    "description": "masterpiece, best quality, pixel art, Duskridge Bear, fantasy creature, 8-bit style, colorful, detailed, LoRA:pixel_f2:0.75"
+  },
+  {
+    "name": "Spark Beetle",
+    "rank": "R6",
+    "habitat": "Obsidian Desert",
+    "behavior": "aggressive",
+    "mana_trace": "radiant flare",
+    "value": "rare",
+    "description": "masterpiece, best quality, pixel art, Spark Beetle, fantasy creature, 8-bit style, colorful, detailed, LoRA:pixel_f2:0.75"
+  },
+  {
+    "name": "Crystal Cobra",
+    "rank": "R0",
+    "habitat": "Frozen Hollow",
+    "behavior": "pack-hunter",
+    "mana_trace": "shifting resonance",
+    "value": "legendary",
+    "description": "masterpiece, best quality, pixel art, Crystal Cobra, fantasy creature, 8-bit style, colorful, detailed, LoRA:pixel_f2:0.75"
+  },
+  {
+    "name": "Void Pup",
+    "rank": "R1",
+    "habitat": "Sunken Valley",
+    "behavior": "territorial",
+    "mana_trace": "silent distortion",
+    "value": "mythical",
+    "description": "masterpiece, best quality, pixel art, Void Pup, fantasy creature, 8-bit style, colorful, detailed, LoRA:pixel_f2:0.75"
+  },
+  {
+    "name": "Mist Seraph",
+    "rank": "R2",
+    "habitat": "Ashen Cliffs",
+    "behavior": "ambush predator",
+    "mana_trace": "chaotic pulse",
+    "value": "common",
+    "description": "masterpiece, best quality, pixel art, Mist Seraph, fantasy creature, 8-bit style, colorful, detailed, LoRA:pixel_f2:0.75"
+  },
+  {
+    "name": "Rootfang",
+    "rank": "R3",
+    "habitat": "Moss Swamps",
+    "behavior": "neutral observer",
+    "mana_trace": "static hum",
+    "value": "uncommon",
+    "description": "masterpiece, best quality, pixel art, Rootfang, fantasy creature, 8-bit style, colorful, detailed, LoRA:pixel_f2:0.75"
+  },
+  {
+    "name": "Twilight Crawler",
+    "rank": "R4",
+    "habitat": "Crystal Caverns",
+    "behavior": "solitary",
+    "mana_trace": "radiant flare",
+    "value": "rare",
+    "description": "masterpiece, best quality, pixel art, Twilight Crawler, fantasy creature, 8-bit style, colorful, detailed, LoRA:pixel_f2:0.75"
+  },
+  {
+    "name": "Fire Salamander",
+    "rank": "R5",
+    "habitat": "Sapphire Coast",
+    "behavior": "aggressive",
+    "mana_trace": "shifting resonance",
+    "value": "legendary",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a fire salamander monster with glowing magma scales, walking through molten rock in a volcanic cave, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Crystal Golem Made Of Glowing Blue Crystals, Standing In A Sparkling Crystal Forest, 16-Bit Fantasy Rpg Sprite Style, Vibrant Colors, Isolated Simple Background",
+    "rank": "R6",
+    "habitat": "Veilwood",
+    "behavior": "pack-hunter",
+    "mana_trace": "silent distortion",
+    "value": "mythical",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a crystal golem made of glowing blue crystals, standing in a sparkling crystal forest, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Mystical Forest Spirit Made Of Leaves And Light, Floating In An Ancient Woodland Grove, 16-Bit Fantasy Rpg Sprite Style, Vibrant Colors, Isolated Simple Background",
+    "rank": "R0",
+    "habitat": "Shattered Peaks",
+    "behavior": "territorial",
+    "mana_trace": "chaotic pulse",
+    "value": "common",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a mystical forest spirit made of leaves and light, floating in an ancient woodland grove, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Ancient Treant",
+    "rank": "R1",
+    "habitat": "Emerald Lowlands",
+    "behavior": "ambush predator",
+    "mana_trace": "static hum",
+    "value": "uncommon",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a ancient treant with moss-covered bark and glowing runes, rooted in an enchanted forest, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Giant Cave Spider",
+    "rank": "R2",
+    "habitat": "Obsidian Desert",
+    "behavior": "neutral observer",
+    "mana_trace": "radiant flare",
+    "value": "rare",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a giant cave spider with glowing eyes and black chitin, lurking in a misty underground cavern, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Storm Drake",
+    "rank": "R3",
+    "habitat": "Frozen Hollow",
+    "behavior": "solitary",
+    "mana_trace": "shifting resonance",
+    "value": "legendary",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a storm drake with crackling lightning wings, flying over a thunderous mountain pass, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Shadow Hound",
+    "rank": "R4",
+    "habitat": "Sunken Valley",
+    "behavior": "aggressive",
+    "mana_trace": "silent distortion",
+    "value": "mythical",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a shadow hound with glowing red eyes and mist around its paws, guarding an abandoned fortress, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Serpentine Ice Wyrm Coiled Around A Frozen Shrine In The Sacred Snowy Grove, 16-Bit Fantasy Rpg Sprite Style, Vibrant Colors, Isolated Simple Background",
+    "rank": "R5",
+    "habitat": "Ashen Cliffs",
+    "behavior": "pack-hunter",
+    "mana_trace": "chaotic pulse",
+    "value": "common",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a serpentine ice wyrm coiled around a frozen shrine in the sacred snowy grove, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Rock Elemental",
+    "rank": "R6",
+    "habitat": "Moss Swamps",
+    "behavior": "territorial",
+    "mana_trace": "static hum",
+    "value": "uncommon",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a rock elemental with carved stone armor, standing in the heart of a sun-scorched desert canyon, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Toxic Poison Toad",
+    "rank": "R0",
+    "habitat": "Crystal Caverns",
+    "behavior": "ambush predator",
+    "mana_trace": "radiant flare",
+    "value": "rare",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a toxic poison toad with glowing warts and bubbling slime, squatting near a moonlit lake, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Phantom-Like Deer",
+    "rank": "R1",
+    "habitat": "Sapphire Coast",
+    "behavior": "neutral observer",
+    "mana_trace": "shifting resonance",
+    "value": "legendary",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a phantom-like deer with translucent fur and floating hooves, wandering a volcanic cave edge, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Thunder Griffin",
+    "rank": "R2",
+    "habitat": "Veilwood",
+    "behavior": "solitary",
+    "mana_trace": "silent distortion",
+    "value": "mythical",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a thunder griffin with a mane of lightning and sky-colored feathers, perched in a crystal forest, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Blight Bat",
+    "rank": "R3",
+    "habitat": "Shattered Peaks",
+    "behavior": "aggressive",
+    "mana_trace": "chaotic pulse",
+    "value": "common",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a blight bat with twisted wings and ooze-dripping fangs, circling swampy ruins, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Bone Serpent",
+    "rank": "R4",
+    "habitat": "Emerald Lowlands",
+    "behavior": "pack-hunter",
+    "mana_trace": "static hum",
+    "value": "uncommon",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a bone serpent with glowing joints, slithering under icy tundra glaciers, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Obsidian Volcanic Beetle",
+    "rank": "R5",
+    "habitat": "Obsidian Desert",
+    "behavior": "territorial",
+    "mana_trace": "radiant flare",
+    "value": "rare",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a obsidian volcanic beetle with lava cracks, crawling through foggy graveyards, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Frost-Coated Snow Lynx",
+    "rank": "R6",
+    "habitat": "Frozen Hollow",
+    "behavior": "ambush predator",
+    "mana_trace": "shifting resonance",
+    "value": "legendary",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a frost-coated snow lynx with glowing blue eyes, crouching in a snowy mountain pass, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Ashen-Furred Wolf",
+    "rank": "R0",
+    "habitat": "Sunken Valley",
+    "behavior": "neutral observer",
+    "mana_trace": "silent distortion",
+    "value": "mythical",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a ashen-furred wolf with ember trails, prowling a cursed, abandoned castle, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Glowing Blue Wisp Floating Above Sacred Grove Stones, Pulsing",
+    "rank": "R1",
+    "habitat": "Ashen Cliffs",
+    "behavior": "solitary",
+    "mana_trace": "chaotic pulse",
+    "value": "common",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a glowing blue wisp floating above sacred grove stones, pulsing with ethereal light, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Sand Scorpion",
+    "rank": "R2",
+    "habitat": "Moss Swamps",
+    "behavior": "aggressive",
+    "mana_trace": "static hum",
+    "value": "uncommon",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a sand scorpion with translucent claws and buried tail, hiding in desert canyons, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Lava Slug Leaving Fiery Trails Across Cracked Obsidian By A Moonlit Lake, 16-Bit Fantasy Rpg Sprite Style, Vibrant Colors, Isolated Simple Background",
+    "rank": "R3",
+    "habitat": "Crystal Caverns",
+    "behavior": "pack-hunter",
+    "mana_trace": "radiant flare",
+    "value": "rare",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a lava slug leaving fiery trails across cracked obsidian by a moonlit lake, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Fire Salamander",
+    "rank": "R4",
+    "habitat": "Sapphire Coast",
+    "behavior": "territorial",
+    "mana_trace": "shifting resonance",
+    "value": "legendary",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a fire salamander monster with glowing magma scales, walking through molten rock in a volcanic cave, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Crystal Golem Made Of Glowing Blue Crystals, Standing In A Sparkling Crystal Forest, 16-Bit Fantasy Rpg Sprite Style, Vibrant Colors, Isolated Simple Background",
+    "rank": "R5",
+    "habitat": "Veilwood",
+    "behavior": "ambush predator",
+    "mana_trace": "silent distortion",
+    "value": "mythical",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a crystal golem made of glowing blue crystals, standing in a sparkling crystal forest, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Mystical Forest Spirit Made Of Leaves And Light, Floating In An Ancient Woodland Grove, 16-Bit Fantasy Rpg Sprite Style, Vibrant Colors, Isolated Simple Background",
+    "rank": "R6",
+    "habitat": "Shattered Peaks",
+    "behavior": "neutral observer",
+    "mana_trace": "chaotic pulse",
+    "value": "common",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a mystical forest spirit made of leaves and light, floating in an ancient woodland grove, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Ancient Treant",
+    "rank": "R0",
+    "habitat": "Emerald Lowlands",
+    "behavior": "solitary",
+    "mana_trace": "static hum",
+    "value": "uncommon",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a ancient treant with moss-covered bark and glowing runes, rooted in an enchanted forest, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Giant Cave Spider",
+    "rank": "R1",
+    "habitat": "Obsidian Desert",
+    "behavior": "aggressive",
+    "mana_trace": "radiant flare",
+    "value": "rare",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a giant cave spider with glowing eyes and black chitin, lurking in a misty underground cavern, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Storm Drake",
+    "rank": "R2",
+    "habitat": "Frozen Hollow",
+    "behavior": "pack-hunter",
+    "mana_trace": "shifting resonance",
+    "value": "legendary",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a storm drake with crackling lightning wings, flying over a thunderous mountain pass, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Shadow Hound",
+    "rank": "R3",
+    "habitat": "Sunken Valley",
+    "behavior": "territorial",
+    "mana_trace": "silent distortion",
+    "value": "mythical",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a shadow hound with glowing red eyes and mist around its paws, guarding an abandoned fortress, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Serpentine Ice Wyrm Coiled Around A Frozen Shrine In The Sacred Snowy Grove, 16-Bit Fantasy Rpg Sprite Style, Vibrant Colors, Isolated Simple Background",
+    "rank": "R4",
+    "habitat": "Ashen Cliffs",
+    "behavior": "ambush predator",
+    "mana_trace": "chaotic pulse",
+    "value": "common",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a serpentine ice wyrm coiled around a frozen shrine in the sacred snowy grove, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Rock Elemental",
+    "rank": "R5",
+    "habitat": "Moss Swamps",
+    "behavior": "neutral observer",
+    "mana_trace": "static hum",
+    "value": "uncommon",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a rock elemental with carved stone armor, standing in the heart of a sun-scorched desert canyon, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Toxic Poison Toad",
+    "rank": "R6",
+    "habitat": "Crystal Caverns",
+    "behavior": "solitary",
+    "mana_trace": "radiant flare",
+    "value": "rare",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a toxic poison toad with glowing warts and bubbling slime, squatting near a moonlit lake, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Phantom-Like Deer",
+    "rank": "R0",
+    "habitat": "Sapphire Coast",
+    "behavior": "aggressive",
+    "mana_trace": "shifting resonance",
+    "value": "legendary",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a phantom-like deer with translucent fur and floating hooves, wandering a volcanic cave edge, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Thunder Griffin",
+    "rank": "R1",
+    "habitat": "Veilwood",
+    "behavior": "pack-hunter",
+    "mana_trace": "silent distortion",
+    "value": "mythical",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a thunder griffin with a mane of lightning and sky-colored feathers, perched in a crystal forest, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Blight Bat",
+    "rank": "R2",
+    "habitat": "Shattered Peaks",
+    "behavior": "territorial",
+    "mana_trace": "chaotic pulse",
+    "value": "common",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a blight bat with twisted wings and ooze-dripping fangs, circling swampy ruins, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Bone Serpent",
+    "rank": "R3",
+    "habitat": "Emerald Lowlands",
+    "behavior": "ambush predator",
+    "mana_trace": "static hum",
+    "value": "uncommon",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a bone serpent with glowing joints, slithering under icy tundra glaciers, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Obsidian Volcanic Beetle",
+    "rank": "R4",
+    "habitat": "Obsidian Desert",
+    "behavior": "neutral observer",
+    "mana_trace": "radiant flare",
+    "value": "rare",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a obsidian volcanic beetle with lava cracks, crawling through foggy graveyards, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Frost-Coated Snow Lynx",
+    "rank": "R5",
+    "habitat": "Frozen Hollow",
+    "behavior": "solitary",
+    "mana_trace": "shifting resonance",
+    "value": "legendary",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a frost-coated snow lynx with glowing blue eyes, crouching in a snowy mountain pass, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Ashen-Furred Wolf",
+    "rank": "R6",
+    "habitat": "Sunken Valley",
+    "behavior": "aggressive",
+    "mana_trace": "silent distortion",
+    "value": "mythical",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a ashen-furred wolf with ember trails, prowling a cursed, abandoned castle, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Glowing Blue Wisp Floating Above Sacred Grove Stones, Pulsing",
+    "rank": "R0",
+    "habitat": "Ashen Cliffs",
+    "behavior": "pack-hunter",
+    "mana_trace": "chaotic pulse",
+    "value": "common",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a glowing blue wisp floating above sacred grove stones, pulsing with ethereal light, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Sand Scorpion",
+    "rank": "R1",
+    "habitat": "Moss Swamps",
+    "behavior": "territorial",
+    "mana_trace": "static hum",
+    "value": "uncommon",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a sand scorpion with translucent claws and buried tail, hiding in desert canyons, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Lava Slug Leaving Fiery Trails Across Cracked Obsidian By A Moonlit Lake, 16-Bit Fantasy Rpg Sprite Style, Vibrant Colors, Isolated Simple Background",
+    "rank": "R2",
+    "habitat": "Crystal Caverns",
+    "behavior": "ambush predator",
+    "mana_trace": "radiant flare",
+    "value": "rare",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a lava slug leaving fiery trails across cracked obsidian by a moonlit lake, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Fire Salamander",
+    "rank": "R3",
+    "habitat": "Sapphire Coast",
+    "behavior": "neutral observer",
+    "mana_trace": "shifting resonance",
+    "value": "legendary",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a fire salamander monster with glowing magma scales, walking through molten rock in a volcanic cave, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Crystal Golem Made Of Glowing Blue Crystals, Standing In A Sparkling Crystal Forest, 16-Bit Fantasy Rpg Sprite Style, Vibrant Colors, Isolated Simple Background",
+    "rank": "R4",
+    "habitat": "Veilwood",
+    "behavior": "solitary",
+    "mana_trace": "silent distortion",
+    "value": "mythical",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a crystal golem made of glowing blue crystals, standing in a sparkling crystal forest, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Mystical Forest Spirit Made Of Leaves And Light, Floating In An Ancient Woodland Grove, 16-Bit Fantasy Rpg Sprite Style, Vibrant Colors, Isolated Simple Background",
+    "rank": "R5",
+    "habitat": "Shattered Peaks",
+    "behavior": "aggressive",
+    "mana_trace": "chaotic pulse",
+    "value": "common",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a mystical forest spirit made of leaves and light, floating in an ancient woodland grove, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Ancient Treant",
+    "rank": "R6",
+    "habitat": "Emerald Lowlands",
+    "behavior": "pack-hunter",
+    "mana_trace": "static hum",
+    "value": "uncommon",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a ancient treant with moss-covered bark and glowing runes, rooted in an enchanted forest, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Giant Cave Spider",
+    "rank": "R0",
+    "habitat": "Obsidian Desert",
+    "behavior": "territorial",
+    "mana_trace": "radiant flare",
+    "value": "rare",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a giant cave spider with glowing eyes and black chitin, lurking in a misty underground cavern, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Storm Drake",
+    "rank": "R1",
+    "habitat": "Frozen Hollow",
+    "behavior": "ambush predator",
+    "mana_trace": "shifting resonance",
+    "value": "legendary",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a storm drake with crackling lightning wings, flying over a thunderous mountain pass, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Shadow Hound",
+    "rank": "R2",
+    "habitat": "Sunken Valley",
+    "behavior": "neutral observer",
+    "mana_trace": "silent distortion",
+    "value": "mythical",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a shadow hound with glowing red eyes and mist around its paws, guarding an abandoned fortress, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Serpentine Ice Wyrm Coiled Around A Frozen Shrine In The Sacred Snowy Grove, 16-Bit Fantasy Rpg Sprite Style, Vibrant Colors, Isolated Simple Background",
+    "rank": "R3",
+    "habitat": "Ashen Cliffs",
+    "behavior": "solitary",
+    "mana_trace": "chaotic pulse",
+    "value": "common",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a serpentine ice wyrm coiled around a frozen shrine in the sacred snowy grove, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Rock Elemental",
+    "rank": "R4",
+    "habitat": "Moss Swamps",
+    "behavior": "aggressive",
+    "mana_trace": "static hum",
+    "value": "uncommon",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a rock elemental with carved stone armor, standing in the heart of a sun-scorched desert canyon, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Toxic Poison Toad",
+    "rank": "R5",
+    "habitat": "Crystal Caverns",
+    "behavior": "pack-hunter",
+    "mana_trace": "radiant flare",
+    "value": "rare",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a toxic poison toad with glowing warts and bubbling slime, squatting near a moonlit lake, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Phantom-Like Deer",
+    "rank": "R6",
+    "habitat": "Sapphire Coast",
+    "behavior": "territorial",
+    "mana_trace": "shifting resonance",
+    "value": "legendary",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a phantom-like deer with translucent fur and floating hooves, wandering a volcanic cave edge, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Thunder Griffin",
+    "rank": "R0",
+    "habitat": "Veilwood",
+    "behavior": "ambush predator",
+    "mana_trace": "silent distortion",
+    "value": "mythical",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a thunder griffin with a mane of lightning and sky-colored feathers, perched in a crystal forest, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Blight Bat",
+    "rank": "R1",
+    "habitat": "Shattered Peaks",
+    "behavior": "neutral observer",
+    "mana_trace": "chaotic pulse",
+    "value": "common",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a blight bat with twisted wings and ooze-dripping fangs, circling swampy ruins, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Bone Serpent",
+    "rank": "R2",
+    "habitat": "Emerald Lowlands",
+    "behavior": "solitary",
+    "mana_trace": "static hum",
+    "value": "uncommon",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a bone serpent with glowing joints, slithering under icy tundra glaciers, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Obsidian Volcanic Beetle",
+    "rank": "R3",
+    "habitat": "Obsidian Desert",
+    "behavior": "aggressive",
+    "mana_trace": "radiant flare",
+    "value": "rare",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a obsidian volcanic beetle with lava cracks, crawling through foggy graveyards, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Frost-Coated Snow Lynx",
+    "rank": "R4",
+    "habitat": "Frozen Hollow",
+    "behavior": "pack-hunter",
+    "mana_trace": "shifting resonance",
+    "value": "legendary",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a frost-coated snow lynx with glowing blue eyes, crouching in a snowy mountain pass, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Ashen-Furred Wolf",
+    "rank": "R5",
+    "habitat": "Sunken Valley",
+    "behavior": "territorial",
+    "mana_trace": "silent distortion",
+    "value": "mythical",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a ashen-furred wolf with ember trails, prowling a cursed, abandoned castle, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Glowing Blue Wisp Floating Above Sacred Grove Stones, Pulsing",
+    "rank": "R6",
+    "habitat": "Ashen Cliffs",
+    "behavior": "ambush predator",
+    "mana_trace": "chaotic pulse",
+    "value": "common",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a glowing blue wisp floating above sacred grove stones, pulsing with ethereal light, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Sand Scorpion",
+    "rank": "R0",
+    "habitat": "Moss Swamps",
+    "behavior": "neutral observer",
+    "mana_trace": "static hum",
+    "value": "uncommon",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a sand scorpion with translucent claws and buried tail, hiding in desert canyons, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Lava Slug Leaving Fiery Trails Across Cracked Obsidian By A Moonlit Lake, 16-Bit Fantasy Rpg Sprite Style, Vibrant Colors, Isolated Simple Background",
+    "rank": "R1",
+    "habitat": "Crystal Caverns",
+    "behavior": "solitary",
+    "mana_trace": "radiant flare",
+    "value": "rare",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a lava slug leaving fiery trails across cracked obsidian by a moonlit lake, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Fire Salamander",
+    "rank": "R2",
+    "habitat": "Sapphire Coast",
+    "behavior": "aggressive",
+    "mana_trace": "shifting resonance",
+    "value": "legendary",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a fire salamander monster with glowing magma scales, walking through molten rock in a volcanic cave, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Crystal Golem Made Of Glowing Blue Crystals, Standing In A Sparkling Crystal Forest, 16-Bit Fantasy Rpg Sprite Style, Vibrant Colors, Isolated Simple Background",
+    "rank": "R3",
+    "habitat": "Veilwood",
+    "behavior": "pack-hunter",
+    "mana_trace": "silent distortion",
+    "value": "mythical",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a crystal golem made of glowing blue crystals, standing in a sparkling crystal forest, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Mystical Forest Spirit Made Of Leaves And Light, Floating In An Ancient Woodland Grove, 16-Bit Fantasy Rpg Sprite Style, Vibrant Colors, Isolated Simple Background",
+    "rank": "R4",
+    "habitat": "Shattered Peaks",
+    "behavior": "territorial",
+    "mana_trace": "chaotic pulse",
+    "value": "common",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a mystical forest spirit made of leaves and light, floating in an ancient woodland grove, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Ancient Treant",
+    "rank": "R5",
+    "habitat": "Emerald Lowlands",
+    "behavior": "ambush predator",
+    "mana_trace": "static hum",
+    "value": "uncommon",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a ancient treant with moss-covered bark and glowing runes, rooted in an enchanted forest, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Giant Cave Spider",
+    "rank": "R6",
+    "habitat": "Obsidian Desert",
+    "behavior": "neutral observer",
+    "mana_trace": "radiant flare",
+    "value": "rare",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a giant cave spider with glowing eyes and black chitin, lurking in a misty underground cavern, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Storm Drake",
+    "rank": "R0",
+    "habitat": "Frozen Hollow",
+    "behavior": "solitary",
+    "mana_trace": "shifting resonance",
+    "value": "legendary",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a storm drake with crackling lightning wings, flying over a thunderous mountain pass, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Shadow Hound",
+    "rank": "R1",
+    "habitat": "Sunken Valley",
+    "behavior": "aggressive",
+    "mana_trace": "silent distortion",
+    "value": "mythical",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a shadow hound with glowing red eyes and mist around its paws, guarding an abandoned fortress, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Serpentine Ice Wyrm Coiled Around A Frozen Shrine In The Sacred Snowy Grove, 16-Bit Fantasy Rpg Sprite Style, Vibrant Colors, Isolated Simple Background",
+    "rank": "R2",
+    "habitat": "Ashen Cliffs",
+    "behavior": "pack-hunter",
+    "mana_trace": "chaotic pulse",
+    "value": "common",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a serpentine ice wyrm coiled around a frozen shrine in the sacred snowy grove, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Rock Elemental",
+    "rank": "R3",
+    "habitat": "Moss Swamps",
+    "behavior": "territorial",
+    "mana_trace": "static hum",
+    "value": "uncommon",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a rock elemental with carved stone armor, standing in the heart of a sun-scorched desert canyon, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Toxic Poison Toad",
+    "rank": "R4",
+    "habitat": "Crystal Caverns",
+    "behavior": "ambush predator",
+    "mana_trace": "radiant flare",
+    "value": "rare",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a toxic poison toad with glowing warts and bubbling slime, squatting near a moonlit lake, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Phantom-Like Deer",
+    "rank": "R5",
+    "habitat": "Sapphire Coast",
+    "behavior": "neutral observer",
+    "mana_trace": "shifting resonance",
+    "value": "legendary",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a phantom-like deer with translucent fur and floating hooves, wandering a volcanic cave edge, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Thunder Griffin",
+    "rank": "R6",
+    "habitat": "Veilwood",
+    "behavior": "solitary",
+    "mana_trace": "silent distortion",
+    "value": "mythical",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a thunder griffin with a mane of lightning and sky-colored feathers, perched in a crystal forest, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Blight Bat",
+    "rank": "R0",
+    "habitat": "Shattered Peaks",
+    "behavior": "aggressive",
+    "mana_trace": "chaotic pulse",
+    "value": "common",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a blight bat with twisted wings and ooze-dripping fangs, circling swampy ruins, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Bone Serpent",
+    "rank": "R1",
+    "habitat": "Emerald Lowlands",
+    "behavior": "pack-hunter",
+    "mana_trace": "static hum",
+    "value": "uncommon",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a bone serpent with glowing joints, slithering under icy tundra glaciers, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Obsidian Volcanic Beetle",
+    "rank": "R2",
+    "habitat": "Obsidian Desert",
+    "behavior": "territorial",
+    "mana_trace": "radiant flare",
+    "value": "rare",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a obsidian volcanic beetle with lava cracks, crawling through foggy graveyards, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Frost-Coated Snow Lynx",
+    "rank": "R3",
+    "habitat": "Frozen Hollow",
+    "behavior": "ambush predator",
+    "mana_trace": "shifting resonance",
+    "value": "legendary",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a frost-coated snow lynx with glowing blue eyes, crouching in a snowy mountain pass, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Ashen-Furred Wolf",
+    "rank": "R4",
+    "habitat": "Sunken Valley",
+    "behavior": "neutral observer",
+    "mana_trace": "silent distortion",
+    "value": "mythical",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a ashen-furred wolf with ember trails, prowling a cursed, abandoned castle, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Glowing Blue Wisp Floating Above Sacred Grove Stones, Pulsing",
+    "rank": "R5",
+    "habitat": "Ashen Cliffs",
+    "behavior": "solitary",
+    "mana_trace": "chaotic pulse",
+    "value": "common",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a glowing blue wisp floating above sacred grove stones, pulsing with ethereal light, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Sand Scorpion",
+    "rank": "R6",
+    "habitat": "Moss Swamps",
+    "behavior": "aggressive",
+    "mana_trace": "static hum",
+    "value": "uncommon",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a sand scorpion with translucent claws and buried tail, hiding in desert canyons, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Lava Slug Leaving Fiery Trails Across Cracked Obsidian By A Moonlit Lake, 16-Bit Fantasy Rpg Sprite Style, Vibrant Colors, Isolated Simple Background",
+    "rank": "R0",
+    "habitat": "Crystal Caverns",
+    "behavior": "pack-hunter",
+    "mana_trace": "radiant flare",
+    "value": "rare",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a lava slug leaving fiery trails across cracked obsidian by a moonlit lake, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Fire Salamander",
+    "rank": "R1",
+    "habitat": "Sapphire Coast",
+    "behavior": "territorial",
+    "mana_trace": "shifting resonance",
+    "value": "legendary",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a fire salamander monster with glowing magma scales, walking through molten rock in a volcanic cave, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Crystal Golem Made Of Glowing Blue Crystals, Standing In A Sparkling Crystal Forest, 16-Bit Fantasy Rpg Sprite Style, Vibrant Colors, Isolated Simple Background",
+    "rank": "R2",
+    "habitat": "Veilwood",
+    "behavior": "ambush predator",
+    "mana_trace": "silent distortion",
+    "value": "mythical",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a crystal golem made of glowing blue crystals, standing in a sparkling crystal forest, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Mystical Forest Spirit Made Of Leaves And Light, Floating In An Ancient Woodland Grove, 16-Bit Fantasy Rpg Sprite Style, Vibrant Colors, Isolated Simple Background",
+    "rank": "R3",
+    "habitat": "Shattered Peaks",
+    "behavior": "neutral observer",
+    "mana_trace": "chaotic pulse",
+    "value": "common",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a mystical forest spirit made of leaves and light, floating in an ancient woodland grove, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Ancient Treant",
+    "rank": "R4",
+    "habitat": "Emerald Lowlands",
+    "behavior": "solitary",
+    "mana_trace": "static hum",
+    "value": "uncommon",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a ancient treant with moss-covered bark and glowing runes, rooted in an enchanted forest, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Giant Cave Spider",
+    "rank": "R5",
+    "habitat": "Obsidian Desert",
+    "behavior": "aggressive",
+    "mana_trace": "radiant flare",
+    "value": "rare",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a giant cave spider with glowing eyes and black chitin, lurking in a misty underground cavern, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Storm Drake",
+    "rank": "R6",
+    "habitat": "Frozen Hollow",
+    "behavior": "pack-hunter",
+    "mana_trace": "shifting resonance",
+    "value": "legendary",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a storm drake with crackling lightning wings, flying over a thunderous mountain pass, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Shadow Hound",
+    "rank": "R0",
+    "habitat": "Sunken Valley",
+    "behavior": "territorial",
+    "mana_trace": "silent distortion",
+    "value": "mythical",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a shadow hound with glowing red eyes and mist around its paws, guarding an abandoned fortress, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Serpentine Ice Wyrm Coiled Around A Frozen Shrine In The Sacred Snowy Grove, 16-Bit Fantasy Rpg Sprite Style, Vibrant Colors, Isolated Simple Background",
+    "rank": "R1",
+    "habitat": "Ashen Cliffs",
+    "behavior": "ambush predator",
+    "mana_trace": "chaotic pulse",
+    "value": "common",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a serpentine ice wyrm coiled around a frozen shrine in the sacred snowy grove, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Rock Elemental",
+    "rank": "R2",
+    "habitat": "Moss Swamps",
+    "behavior": "neutral observer",
+    "mana_trace": "static hum",
+    "value": "uncommon",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a rock elemental with carved stone armor, standing in the heart of a sun-scorched desert canyon, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Toxic Poison Toad",
+    "rank": "R3",
+    "habitat": "Crystal Caverns",
+    "behavior": "solitary",
+    "mana_trace": "radiant flare",
+    "value": "rare",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a toxic poison toad with glowing warts and bubbling slime, squatting near a moonlit lake, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Phantom-Like Deer",
+    "rank": "R4",
+    "habitat": "Sapphire Coast",
+    "behavior": "aggressive",
+    "mana_trace": "shifting resonance",
+    "value": "legendary",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a phantom-like deer with translucent fur and floating hooves, wandering a volcanic cave edge, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Thunder Griffin",
+    "rank": "R5",
+    "habitat": "Veilwood",
+    "behavior": "pack-hunter",
+    "mana_trace": "silent distortion",
+    "value": "mythical",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a thunder griffin with a mane of lightning and sky-colored feathers, perched in a crystal forest, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Blight Bat",
+    "rank": "R6",
+    "habitat": "Shattered Peaks",
+    "behavior": "territorial",
+    "mana_trace": "chaotic pulse",
+    "value": "common",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a blight bat with twisted wings and ooze-dripping fangs, circling swampy ruins, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Bone Serpent",
+    "rank": "R0",
+    "habitat": "Emerald Lowlands",
+    "behavior": "ambush predator",
+    "mana_trace": "static hum",
+    "value": "uncommon",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a bone serpent with glowing joints, slithering under icy tundra glaciers, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Obsidian Volcanic Beetle",
+    "rank": "R1",
+    "habitat": "Obsidian Desert",
+    "behavior": "neutral observer",
+    "mana_trace": "radiant flare",
+    "value": "rare",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a obsidian volcanic beetle with lava cracks, crawling through foggy graveyards, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Frost-Coated Snow Lynx",
+    "rank": "R2",
+    "habitat": "Frozen Hollow",
+    "behavior": "solitary",
+    "mana_trace": "shifting resonance",
+    "value": "legendary",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a frost-coated snow lynx with glowing blue eyes, crouching in a snowy mountain pass, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Ashen-Furred Wolf",
+    "rank": "R3",
+    "habitat": "Sunken Valley",
+    "behavior": "aggressive",
+    "mana_trace": "silent distortion",
+    "value": "mythical",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a ashen-furred wolf with ember trails, prowling a cursed, abandoned castle, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Glowing Blue Wisp Floating Above Sacred Grove Stones, Pulsing",
+    "rank": "R4",
+    "habitat": "Ashen Cliffs",
+    "behavior": "pack-hunter",
+    "mana_trace": "chaotic pulse",
+    "value": "common",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a glowing blue wisp floating above sacred grove stones, pulsing with ethereal light, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Sand Scorpion",
+    "rank": "R5",
+    "habitat": "Moss Swamps",
+    "behavior": "territorial",
+    "mana_trace": "static hum",
+    "value": "uncommon",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a sand scorpion with translucent claws and buried tail, hiding in desert canyons, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Lava Slug Leaving Fiery Trails Across Cracked Obsidian By A Moonlit Lake, 16-Bit Fantasy Rpg Sprite Style, Vibrant Colors, Isolated Simple Background",
+    "rank": "R6",
+    "habitat": "Crystal Caverns",
+    "behavior": "ambush predator",
+    "mana_trace": "radiant flare",
+    "value": "rare",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a lava slug leaving fiery trails across cracked obsidian by a moonlit lake, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Fire Salamander",
+    "rank": "R0",
+    "habitat": "Sapphire Coast",
+    "behavior": "neutral observer",
+    "mana_trace": "shifting resonance",
+    "value": "legendary",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a fire salamander monster with glowing magma scales, walking through molten rock in a volcanic cave, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Crystal Golem Made Of Glowing Blue Crystals, Standing In A Sparkling Crystal Forest, 16-Bit Fantasy Rpg Sprite Style, Vibrant Colors, Isolated Simple Background",
+    "rank": "R1",
+    "habitat": "Veilwood",
+    "behavior": "solitary",
+    "mana_trace": "silent distortion",
+    "value": "mythical",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a crystal golem made of glowing blue crystals, standing in a sparkling crystal forest, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Mystical Forest Spirit Made Of Leaves And Light, Floating In An Ancient Woodland Grove, 16-Bit Fantasy Rpg Sprite Style, Vibrant Colors, Isolated Simple Background",
+    "rank": "R2",
+    "habitat": "Shattered Peaks",
+    "behavior": "aggressive",
+    "mana_trace": "chaotic pulse",
+    "value": "common",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a mystical forest spirit made of leaves and light, floating in an ancient woodland grove, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Ancient Treant",
+    "rank": "R3",
+    "habitat": "Emerald Lowlands",
+    "behavior": "pack-hunter",
+    "mana_trace": "static hum",
+    "value": "uncommon",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a ancient treant with moss-covered bark and glowing runes, rooted in an enchanted forest, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Giant Cave Spider",
+    "rank": "R4",
+    "habitat": "Obsidian Desert",
+    "behavior": "territorial",
+    "mana_trace": "radiant flare",
+    "value": "rare",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a giant cave spider with glowing eyes and black chitin, lurking in a misty underground cavern, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Storm Drake",
+    "rank": "R5",
+    "habitat": "Frozen Hollow",
+    "behavior": "ambush predator",
+    "mana_trace": "shifting resonance",
+    "value": "legendary",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a storm drake with crackling lightning wings, flying over a thunderous mountain pass, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Shadow Hound",
+    "rank": "R6",
+    "habitat": "Sunken Valley",
+    "behavior": "neutral observer",
+    "mana_trace": "silent distortion",
+    "value": "mythical",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a shadow hound with glowing red eyes and mist around its paws, guarding an abandoned fortress, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Serpentine Ice Wyrm Coiled Around A Frozen Shrine In The Sacred Snowy Grove, 16-Bit Fantasy Rpg Sprite Style, Vibrant Colors, Isolated Simple Background",
+    "rank": "R0",
+    "habitat": "Ashen Cliffs",
+    "behavior": "solitary",
+    "mana_trace": "chaotic pulse",
+    "value": "common",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a serpentine ice wyrm coiled around a frozen shrine in the sacred snowy grove, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Rock Elemental",
+    "rank": "R1",
+    "habitat": "Moss Swamps",
+    "behavior": "aggressive",
+    "mana_trace": "static hum",
+    "value": "uncommon",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a rock elemental with carved stone armor, standing in the heart of a sun-scorched desert canyon, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Toxic Poison Toad",
+    "rank": "R2",
+    "habitat": "Crystal Caverns",
+    "behavior": "pack-hunter",
+    "mana_trace": "radiant flare",
+    "value": "rare",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a toxic poison toad with glowing warts and bubbling slime, squatting near a moonlit lake, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Phantom-Like Deer",
+    "rank": "R3",
+    "habitat": "Sapphire Coast",
+    "behavior": "territorial",
+    "mana_trace": "shifting resonance",
+    "value": "legendary",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a phantom-like deer with translucent fur and floating hooves, wandering a volcanic cave edge, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Thunder Griffin",
+    "rank": "R4",
+    "habitat": "Veilwood",
+    "behavior": "ambush predator",
+    "mana_trace": "silent distortion",
+    "value": "mythical",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a thunder griffin with a mane of lightning and sky-colored feathers, perched in a crystal forest, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Blight Bat",
+    "rank": "R5",
+    "habitat": "Shattered Peaks",
+    "behavior": "neutral observer",
+    "mana_trace": "chaotic pulse",
+    "value": "common",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a blight bat with twisted wings and ooze-dripping fangs, circling swampy ruins, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Bone Serpent",
+    "rank": "R6",
+    "habitat": "Emerald Lowlands",
+    "behavior": "solitary",
+    "mana_trace": "static hum",
+    "value": "uncommon",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a bone serpent with glowing joints, slithering under icy tundra glaciers, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Obsidian Volcanic Beetle",
+    "rank": "R0",
+    "habitat": "Obsidian Desert",
+    "behavior": "aggressive",
+    "mana_trace": "radiant flare",
+    "value": "rare",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a obsidian volcanic beetle with lava cracks, crawling through foggy graveyards, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Frost-Coated Snow Lynx",
+    "rank": "R1",
+    "habitat": "Frozen Hollow",
+    "behavior": "pack-hunter",
+    "mana_trace": "shifting resonance",
+    "value": "legendary",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a frost-coated snow lynx with glowing blue eyes, crouching in a snowy mountain pass, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Ashen-Furred Wolf",
+    "rank": "R2",
+    "habitat": "Sunken Valley",
+    "behavior": "territorial",
+    "mana_trace": "silent distortion",
+    "value": "mythical",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a ashen-furred wolf with ember trails, prowling a cursed, abandoned castle, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Glowing Blue Wisp Floating Above Sacred Grove Stones, Pulsing",
+    "rank": "R3",
+    "habitat": "Ashen Cliffs",
+    "behavior": "ambush predator",
+    "mana_trace": "chaotic pulse",
+    "value": "common",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a glowing blue wisp floating above sacred grove stones, pulsing with ethereal light, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Sand Scorpion",
+    "rank": "R4",
+    "habitat": "Moss Swamps",
+    "behavior": "neutral observer",
+    "mana_trace": "static hum",
+    "value": "uncommon",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a sand scorpion with translucent claws and buried tail, hiding in desert canyons, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Lava Slug Leaving Fiery Trails Across Cracked Obsidian By A Moonlit Lake, 16-Bit Fantasy Rpg Sprite Style, Vibrant Colors, Isolated Simple Background",
+    "rank": "R5",
+    "habitat": "Crystal Caverns",
+    "behavior": "solitary",
+    "mana_trace": "radiant flare",
+    "value": "rare",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a lava slug leaving fiery trails across cracked obsidian by a moonlit lake, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Fire Salamander",
+    "rank": "R6",
+    "habitat": "Sapphire Coast",
+    "behavior": "aggressive",
+    "mana_trace": "shifting resonance",
+    "value": "legendary",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a fire salamander monster with glowing magma scales, walking through molten rock in a volcanic cave, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Crystal Golem Made Of Glowing Blue Crystals, Standing In A Sparkling Crystal Forest, 16-Bit Fantasy Rpg Sprite Style, Vibrant Colors, Isolated Simple Background",
+    "rank": "R0",
+    "habitat": "Veilwood",
+    "behavior": "pack-hunter",
+    "mana_trace": "silent distortion",
+    "value": "mythical",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a crystal golem made of glowing blue crystals, standing in a sparkling crystal forest, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Mystical Forest Spirit Made Of Leaves And Light, Floating In An Ancient Woodland Grove, 16-Bit Fantasy Rpg Sprite Style, Vibrant Colors, Isolated Simple Background",
+    "rank": "R1",
+    "habitat": "Shattered Peaks",
+    "behavior": "territorial",
+    "mana_trace": "chaotic pulse",
+    "value": "common",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a mystical forest spirit made of leaves and light, floating in an ancient woodland grove, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Ancient Treant",
+    "rank": "R2",
+    "habitat": "Emerald Lowlands",
+    "behavior": "ambush predator",
+    "mana_trace": "static hum",
+    "value": "uncommon",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a ancient treant with moss-covered bark and glowing runes, rooted in an enchanted forest, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Giant Cave Spider",
+    "rank": "R3",
+    "habitat": "Obsidian Desert",
+    "behavior": "neutral observer",
+    "mana_trace": "radiant flare",
+    "value": "rare",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a giant cave spider with glowing eyes and black chitin, lurking in a misty underground cavern, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Storm Drake",
+    "rank": "R4",
+    "habitat": "Frozen Hollow",
+    "behavior": "solitary",
+    "mana_trace": "shifting resonance",
+    "value": "legendary",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a storm drake with crackling lightning wings, flying over a thunderous mountain pass, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Shadow Hound",
+    "rank": "R5",
+    "habitat": "Sunken Valley",
+    "behavior": "aggressive",
+    "mana_trace": "silent distortion",
+    "value": "mythical",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a shadow hound with glowing red eyes and mist around its paws, guarding an abandoned fortress, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Serpentine Ice Wyrm Coiled Around A Frozen Shrine In The Sacred Snowy Grove, 16-Bit Fantasy Rpg Sprite Style, Vibrant Colors, Isolated Simple Background",
+    "rank": "R6",
+    "habitat": "Ashen Cliffs",
+    "behavior": "pack-hunter",
+    "mana_trace": "chaotic pulse",
+    "value": "common",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a serpentine ice wyrm coiled around a frozen shrine in the sacred snowy grove, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Rock Elemental",
+    "rank": "R0",
+    "habitat": "Moss Swamps",
+    "behavior": "territorial",
+    "mana_trace": "static hum",
+    "value": "uncommon",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a rock elemental with carved stone armor, standing in the heart of a sun-scorched desert canyon, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Toxic Poison Toad",
+    "rank": "R1",
+    "habitat": "Crystal Caverns",
+    "behavior": "ambush predator",
+    "mana_trace": "radiant flare",
+    "value": "rare",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a toxic poison toad with glowing warts and bubbling slime, squatting near a moonlit lake, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Phantom-Like Deer",
+    "rank": "R2",
+    "habitat": "Sapphire Coast",
+    "behavior": "neutral observer",
+    "mana_trace": "shifting resonance",
+    "value": "legendary",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a phantom-like deer with translucent fur and floating hooves, wandering a volcanic cave edge, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Thunder Griffin",
+    "rank": "R3",
+    "habitat": "Veilwood",
+    "behavior": "solitary",
+    "mana_trace": "silent distortion",
+    "value": "mythical",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a thunder griffin with a mane of lightning and sky-colored feathers, perched in a crystal forest, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Blight Bat",
+    "rank": "R4",
+    "habitat": "Shattered Peaks",
+    "behavior": "aggressive",
+    "mana_trace": "chaotic pulse",
+    "value": "common",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a blight bat with twisted wings and ooze-dripping fangs, circling swampy ruins, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Bone Serpent",
+    "rank": "R5",
+    "habitat": "Emerald Lowlands",
+    "behavior": "pack-hunter",
+    "mana_trace": "static hum",
+    "value": "uncommon",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a bone serpent with glowing joints, slithering under icy tundra glaciers, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Obsidian Volcanic Beetle",
+    "rank": "R6",
+    "habitat": "Obsidian Desert",
+    "behavior": "territorial",
+    "mana_trace": "radiant flare",
+    "value": "rare",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a obsidian volcanic beetle with lava cracks, crawling through foggy graveyards, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Frost-Coated Snow Lynx",
+    "rank": "R0",
+    "habitat": "Frozen Hollow",
+    "behavior": "ambush predator",
+    "mana_trace": "shifting resonance",
+    "value": "legendary",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a frost-coated snow lynx with glowing blue eyes, crouching in a snowy mountain pass, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Ashen-Furred Wolf",
+    "rank": "R1",
+    "habitat": "Sunken Valley",
+    "behavior": "neutral observer",
+    "mana_trace": "silent distortion",
+    "value": "mythical",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a ashen-furred wolf with ember trails, prowling a cursed, abandoned castle, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Glowing Blue Wisp Floating Above Sacred Grove Stones, Pulsing",
+    "rank": "R2",
+    "habitat": "Ashen Cliffs",
+    "behavior": "solitary",
+    "mana_trace": "chaotic pulse",
+    "value": "common",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a glowing blue wisp floating above sacred grove stones, pulsing with ethereal light, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Sand Scorpion",
+    "rank": "R3",
+    "habitat": "Moss Swamps",
+    "behavior": "aggressive",
+    "mana_trace": "static hum",
+    "value": "uncommon",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a sand scorpion with translucent claws and buried tail, hiding in desert canyons, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Lava Slug Leaving Fiery Trails Across Cracked Obsidian By A Moonlit Lake, 16-Bit Fantasy Rpg Sprite Style, Vibrant Colors, Isolated Simple Background",
+    "rank": "R4",
+    "habitat": "Crystal Caverns",
+    "behavior": "pack-hunter",
+    "mana_trace": "radiant flare",
+    "value": "rare",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a lava slug leaving fiery trails across cracked obsidian by a moonlit lake, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Fire Salamander",
+    "rank": "R5",
+    "habitat": "Sapphire Coast",
+    "behavior": "territorial",
+    "mana_trace": "shifting resonance",
+    "value": "legendary",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a fire salamander monster with glowing magma scales, walking through molten rock in a volcanic cave, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Crystal Golem Made Of Glowing Blue Crystals, Standing In A Sparkling Crystal Forest, 16-Bit Fantasy Rpg Sprite Style, Vibrant Colors, Isolated Simple Background",
+    "rank": "R6",
+    "habitat": "Veilwood",
+    "behavior": "ambush predator",
+    "mana_trace": "silent distortion",
+    "value": "mythical",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a crystal golem made of glowing blue crystals, standing in a sparkling crystal forest, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Mystical Forest Spirit Made Of Leaves And Light, Floating In An Ancient Woodland Grove, 16-Bit Fantasy Rpg Sprite Style, Vibrant Colors, Isolated Simple Background",
+    "rank": "R0",
+    "habitat": "Shattered Peaks",
+    "behavior": "neutral observer",
+    "mana_trace": "chaotic pulse",
+    "value": "common",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a mystical forest spirit made of leaves and light, floating in an ancient woodland grove, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Ancient Treant",
+    "rank": "R1",
+    "habitat": "Emerald Lowlands",
+    "behavior": "solitary",
+    "mana_trace": "static hum",
+    "value": "uncommon",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a ancient treant with moss-covered bark and glowing runes, rooted in an enchanted forest, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Giant Cave Spider",
+    "rank": "R2",
+    "habitat": "Obsidian Desert",
+    "behavior": "aggressive",
+    "mana_trace": "radiant flare",
+    "value": "rare",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a giant cave spider with glowing eyes and black chitin, lurking in a misty underground cavern, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Storm Drake",
+    "rank": "R3",
+    "habitat": "Frozen Hollow",
+    "behavior": "pack-hunter",
+    "mana_trace": "shifting resonance",
+    "value": "legendary",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a storm drake with crackling lightning wings, flying over a thunderous mountain pass, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Shadow Hound",
+    "rank": "R4",
+    "habitat": "Sunken Valley",
+    "behavior": "territorial",
+    "mana_trace": "silent distortion",
+    "value": "mythical",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a shadow hound with glowing red eyes and mist around its paws, guarding an abandoned fortress, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Serpentine Ice Wyrm Coiled Around A Frozen Shrine In The Sacred Snowy Grove, 16-Bit Fantasy Rpg Sprite Style, Vibrant Colors, Isolated Simple Background",
+    "rank": "R5",
+    "habitat": "Ashen Cliffs",
+    "behavior": "ambush predator",
+    "mana_trace": "chaotic pulse",
+    "value": "common",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a serpentine ice wyrm coiled around a frozen shrine in the sacred snowy grove, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Rock Elemental",
+    "rank": "R6",
+    "habitat": "Moss Swamps",
+    "behavior": "neutral observer",
+    "mana_trace": "static hum",
+    "value": "uncommon",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a rock elemental with carved stone armor, standing in the heart of a sun-scorched desert canyon, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Toxic Poison Toad",
+    "rank": "R0",
+    "habitat": "Crystal Caverns",
+    "behavior": "solitary",
+    "mana_trace": "radiant flare",
+    "value": "rare",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a toxic poison toad with glowing warts and bubbling slime, squatting near a moonlit lake, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Phantom-Like Deer",
+    "rank": "R1",
+    "habitat": "Sapphire Coast",
+    "behavior": "aggressive",
+    "mana_trace": "shifting resonance",
+    "value": "legendary",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a phantom-like deer with translucent fur and floating hooves, wandering a volcanic cave edge, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Thunder Griffin",
+    "rank": "R2",
+    "habitat": "Veilwood",
+    "behavior": "pack-hunter",
+    "mana_trace": "silent distortion",
+    "value": "mythical",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a thunder griffin with a mane of lightning and sky-colored feathers, perched in a crystal forest, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Blight Bat",
+    "rank": "R3",
+    "habitat": "Shattered Peaks",
+    "behavior": "territorial",
+    "mana_trace": "chaotic pulse",
+    "value": "common",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a blight bat with twisted wings and ooze-dripping fangs, circling swampy ruins, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Bone Serpent",
+    "rank": "R4",
+    "habitat": "Emerald Lowlands",
+    "behavior": "ambush predator",
+    "mana_trace": "static hum",
+    "value": "uncommon",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a bone serpent with glowing joints, slithering under icy tundra glaciers, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Obsidian Volcanic Beetle",
+    "rank": "R5",
+    "habitat": "Obsidian Desert",
+    "behavior": "neutral observer",
+    "mana_trace": "radiant flare",
+    "value": "rare",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a obsidian volcanic beetle with lava cracks, crawling through foggy graveyards, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Frost-Coated Snow Lynx",
+    "rank": "R6",
+    "habitat": "Frozen Hollow",
+    "behavior": "solitary",
+    "mana_trace": "shifting resonance",
+    "value": "legendary",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a frost-coated snow lynx with glowing blue eyes, crouching in a snowy mountain pass, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Ashen-Furred Wolf",
+    "rank": "R0",
+    "habitat": "Sunken Valley",
+    "behavior": "aggressive",
+    "mana_trace": "silent distortion",
+    "value": "mythical",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a ashen-furred wolf with ember trails, prowling a cursed, abandoned castle, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Glowing Blue Wisp Floating Above Sacred Grove Stones, Pulsing",
+    "rank": "R1",
+    "habitat": "Ashen Cliffs",
+    "behavior": "pack-hunter",
+    "mana_trace": "chaotic pulse",
+    "value": "common",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a glowing blue wisp floating above sacred grove stones, pulsing with ethereal light, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Sand Scorpion",
+    "rank": "R2",
+    "habitat": "Moss Swamps",
+    "behavior": "territorial",
+    "mana_trace": "static hum",
+    "value": "uncommon",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a sand scorpion with translucent claws and buried tail, hiding in desert canyons, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Lava Slug Leaving Fiery Trails Across Cracked Obsidian By A Moonlit Lake, 16-Bit Fantasy Rpg Sprite Style, Vibrant Colors, Isolated Simple Background",
+    "rank": "R3",
+    "habitat": "Crystal Caverns",
+    "behavior": "ambush predator",
+    "mana_trace": "radiant flare",
+    "value": "rare",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a lava slug leaving fiery trails across cracked obsidian by a moonlit lake, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Fire Salamander",
+    "rank": "R4",
+    "habitat": "Sapphire Coast",
+    "behavior": "neutral observer",
+    "mana_trace": "shifting resonance",
+    "value": "legendary",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a fire salamander monster with glowing magma scales, walking through molten rock in a volcanic cave, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Crystal Golem Made Of Glowing Blue Crystals, Standing In A Sparkling Crystal Forest, 16-Bit Fantasy Rpg Sprite Style, Vibrant Colors, Isolated Simple Background",
+    "rank": "R5",
+    "habitat": "Veilwood",
+    "behavior": "solitary",
+    "mana_trace": "silent distortion",
+    "value": "mythical",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a crystal golem made of glowing blue crystals, standing in a sparkling crystal forest, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Mystical Forest Spirit Made Of Leaves And Light, Floating In An Ancient Woodland Grove, 16-Bit Fantasy Rpg Sprite Style, Vibrant Colors, Isolated Simple Background",
+    "rank": "R6",
+    "habitat": "Shattered Peaks",
+    "behavior": "aggressive",
+    "mana_trace": "chaotic pulse",
+    "value": "common",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a mystical forest spirit made of leaves and light, floating in an ancient woodland grove, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Ancient Treant",
+    "rank": "R0",
+    "habitat": "Emerald Lowlands",
+    "behavior": "pack-hunter",
+    "mana_trace": "static hum",
+    "value": "uncommon",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a ancient treant with moss-covered bark and glowing runes, rooted in an enchanted forest, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Giant Cave Spider",
+    "rank": "R1",
+    "habitat": "Obsidian Desert",
+    "behavior": "territorial",
+    "mana_trace": "radiant flare",
+    "value": "rare",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a giant cave spider with glowing eyes and black chitin, lurking in a misty underground cavern, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Storm Drake",
+    "rank": "R2",
+    "habitat": "Frozen Hollow",
+    "behavior": "ambush predator",
+    "mana_trace": "shifting resonance",
+    "value": "legendary",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a storm drake with crackling lightning wings, flying over a thunderous mountain pass, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Shadow Hound",
+    "rank": "R3",
+    "habitat": "Sunken Valley",
+    "behavior": "neutral observer",
+    "mana_trace": "silent distortion",
+    "value": "mythical",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a shadow hound with glowing red eyes and mist around its paws, guarding an abandoned fortress, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Serpentine Ice Wyrm Coiled Around A Frozen Shrine In The Sacred Snowy Grove, 16-Bit Fantasy Rpg Sprite Style, Vibrant Colors, Isolated Simple Background",
+    "rank": "R4",
+    "habitat": "Ashen Cliffs",
+    "behavior": "solitary",
+    "mana_trace": "chaotic pulse",
+    "value": "common",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a serpentine ice wyrm coiled around a frozen shrine in the sacred snowy grove, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Rock Elemental",
+    "rank": "R5",
+    "habitat": "Moss Swamps",
+    "behavior": "aggressive",
+    "mana_trace": "static hum",
+    "value": "uncommon",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a rock elemental with carved stone armor, standing in the heart of a sun-scorched desert canyon, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Toxic Poison Toad",
+    "rank": "R6",
+    "habitat": "Crystal Caverns",
+    "behavior": "pack-hunter",
+    "mana_trace": "radiant flare",
+    "value": "rare",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a toxic poison toad with glowing warts and bubbling slime, squatting near a moonlit lake, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Phantom-Like Deer",
+    "rank": "R0",
+    "habitat": "Sapphire Coast",
+    "behavior": "territorial",
+    "mana_trace": "shifting resonance",
+    "value": "legendary",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a phantom-like deer with translucent fur and floating hooves, wandering a volcanic cave edge, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Thunder Griffin",
+    "rank": "R1",
+    "habitat": "Veilwood",
+    "behavior": "ambush predator",
+    "mana_trace": "silent distortion",
+    "value": "mythical",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a thunder griffin with a mane of lightning and sky-colored feathers, perched in a crystal forest, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Blight Bat",
+    "rank": "R2",
+    "habitat": "Shattered Peaks",
+    "behavior": "neutral observer",
+    "mana_trace": "chaotic pulse",
+    "value": "common",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a blight bat with twisted wings and ooze-dripping fangs, circling swampy ruins, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Bone Serpent",
+    "rank": "R3",
+    "habitat": "Emerald Lowlands",
+    "behavior": "solitary",
+    "mana_trace": "static hum",
+    "value": "uncommon",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a bone serpent with glowing joints, slithering under icy tundra glaciers, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Obsidian Volcanic Beetle",
+    "rank": "R4",
+    "habitat": "Obsidian Desert",
+    "behavior": "aggressive",
+    "mana_trace": "radiant flare",
+    "value": "rare",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a obsidian volcanic beetle with lava cracks, crawling through foggy graveyards, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Frost-Coated Snow Lynx",
+    "rank": "R5",
+    "habitat": "Frozen Hollow",
+    "behavior": "pack-hunter",
+    "mana_trace": "shifting resonance",
+    "value": "legendary",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a frost-coated snow lynx with glowing blue eyes, crouching in a snowy mountain pass, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Ashen-Furred Wolf",
+    "rank": "R6",
+    "habitat": "Sunken Valley",
+    "behavior": "territorial",
+    "mana_trace": "silent distortion",
+    "value": "mythical",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a ashen-furred wolf with ember trails, prowling a cursed, abandoned castle, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Glowing Blue Wisp Floating Above Sacred Grove Stones, Pulsing",
+    "rank": "R0",
+    "habitat": "Ashen Cliffs",
+    "behavior": "ambush predator",
+    "mana_trace": "chaotic pulse",
+    "value": "common",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a glowing blue wisp floating above sacred grove stones, pulsing with ethereal light, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Sand Scorpion",
+    "rank": "R1",
+    "habitat": "Moss Swamps",
+    "behavior": "neutral observer",
+    "mana_trace": "static hum",
+    "value": "uncommon",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a sand scorpion with translucent claws and buried tail, hiding in desert canyons, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Lava Slug Leaving Fiery Trails Across Cracked Obsidian By A Moonlit Lake, 16-Bit Fantasy Rpg Sprite Style, Vibrant Colors, Isolated Simple Background",
+    "rank": "R2",
+    "habitat": "Crystal Caverns",
+    "behavior": "solitary",
+    "mana_trace": "radiant flare",
+    "value": "rare",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a lava slug leaving fiery trails across cracked obsidian by a moonlit lake, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Fire Salamander",
+    "rank": "R3",
+    "habitat": "Sapphire Coast",
+    "behavior": "aggressive",
+    "mana_trace": "shifting resonance",
+    "value": "legendary",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a fire salamander monster with glowing magma scales, walking through molten rock in a volcanic cave, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Crystal Golem Made Of Glowing Blue Crystals, Standing In A Sparkling Crystal Forest, 16-Bit Fantasy Rpg Sprite Style, Vibrant Colors, Isolated Simple Background",
+    "rank": "R4",
+    "habitat": "Veilwood",
+    "behavior": "pack-hunter",
+    "mana_trace": "silent distortion",
+    "value": "mythical",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a crystal golem made of glowing blue crystals, standing in a sparkling crystal forest, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Mystical Forest Spirit Made Of Leaves And Light, Floating In An Ancient Woodland Grove, 16-Bit Fantasy Rpg Sprite Style, Vibrant Colors, Isolated Simple Background",
+    "rank": "R5",
+    "habitat": "Shattered Peaks",
+    "behavior": "territorial",
+    "mana_trace": "chaotic pulse",
+    "value": "common",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a mystical forest spirit made of leaves and light, floating in an ancient woodland grove, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Ancient Treant",
+    "rank": "R6",
+    "habitat": "Emerald Lowlands",
+    "behavior": "ambush predator",
+    "mana_trace": "static hum",
+    "value": "uncommon",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a ancient treant with moss-covered bark and glowing runes, rooted in an enchanted forest, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Giant Cave Spider",
+    "rank": "R0",
+    "habitat": "Obsidian Desert",
+    "behavior": "neutral observer",
+    "mana_trace": "radiant flare",
+    "value": "rare",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a giant cave spider with glowing eyes and black chitin, lurking in a misty underground cavern, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Storm Drake",
+    "rank": "R1",
+    "habitat": "Frozen Hollow",
+    "behavior": "solitary",
+    "mana_trace": "shifting resonance",
+    "value": "legendary",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a storm drake with crackling lightning wings, flying over a thunderous mountain pass, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Shadow Hound",
+    "rank": "R2",
+    "habitat": "Sunken Valley",
+    "behavior": "aggressive",
+    "mana_trace": "silent distortion",
+    "value": "mythical",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a shadow hound with glowing red eyes and mist around its paws, guarding an abandoned fortress, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Serpentine Ice Wyrm Coiled Around A Frozen Shrine In The Sacred Snowy Grove, 16-Bit Fantasy Rpg Sprite Style, Vibrant Colors, Isolated Simple Background",
+    "rank": "R3",
+    "habitat": "Ashen Cliffs",
+    "behavior": "pack-hunter",
+    "mana_trace": "chaotic pulse",
+    "value": "common",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a serpentine ice wyrm coiled around a frozen shrine in the sacred snowy grove, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Rock Elemental",
+    "rank": "R4",
+    "habitat": "Moss Swamps",
+    "behavior": "territorial",
+    "mana_trace": "static hum",
+    "value": "uncommon",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a rock elemental with carved stone armor, standing in the heart of a sun-scorched desert canyon, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Toxic Poison Toad",
+    "rank": "R5",
+    "habitat": "Crystal Caverns",
+    "behavior": "ambush predator",
+    "mana_trace": "radiant flare",
+    "value": "rare",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a toxic poison toad with glowing warts and bubbling slime, squatting near a moonlit lake, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Phantom-Like Deer",
+    "rank": "R6",
+    "habitat": "Sapphire Coast",
+    "behavior": "neutral observer",
+    "mana_trace": "shifting resonance",
+    "value": "legendary",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a phantom-like deer with translucent fur and floating hooves, wandering a volcanic cave edge, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Thunder Griffin",
+    "rank": "R0",
+    "habitat": "Veilwood",
+    "behavior": "solitary",
+    "mana_trace": "silent distortion",
+    "value": "mythical",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a thunder griffin with a mane of lightning and sky-colored feathers, perched in a crystal forest, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Blight Bat",
+    "rank": "R1",
+    "habitat": "Shattered Peaks",
+    "behavior": "aggressive",
+    "mana_trace": "chaotic pulse",
+    "value": "common",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a blight bat with twisted wings and ooze-dripping fangs, circling swampy ruins, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Bone Serpent",
+    "rank": "R2",
+    "habitat": "Emerald Lowlands",
+    "behavior": "pack-hunter",
+    "mana_trace": "static hum",
+    "value": "uncommon",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a bone serpent with glowing joints, slithering under icy tundra glaciers, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Obsidian Volcanic Beetle",
+    "rank": "R3",
+    "habitat": "Obsidian Desert",
+    "behavior": "territorial",
+    "mana_trace": "radiant flare",
+    "value": "rare",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a obsidian volcanic beetle with lava cracks, crawling through foggy graveyards, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Frost-Coated Snow Lynx",
+    "rank": "R4",
+    "habitat": "Frozen Hollow",
+    "behavior": "ambush predator",
+    "mana_trace": "shifting resonance",
+    "value": "legendary",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a frost-coated snow lynx with glowing blue eyes, crouching in a snowy mountain pass, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Ashen-Furred Wolf",
+    "rank": "R5",
+    "habitat": "Sunken Valley",
+    "behavior": "neutral observer",
+    "mana_trace": "silent distortion",
+    "value": "mythical",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a ashen-furred wolf with ember trails, prowling a cursed, abandoned castle, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Glowing Blue Wisp Floating Above Sacred Grove Stones, Pulsing",
+    "rank": "R6",
+    "habitat": "Ashen Cliffs",
+    "behavior": "solitary",
+    "mana_trace": "chaotic pulse",
+    "value": "common",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a glowing blue wisp floating above sacred grove stones, pulsing with ethereal light, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Sand Scorpion",
+    "rank": "R0",
+    "habitat": "Moss Swamps",
+    "behavior": "aggressive",
+    "mana_trace": "static hum",
+    "value": "uncommon",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a sand scorpion with translucent claws and buried tail, hiding in desert canyons, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  },
+  {
+    "name": "Lava Slug Leaving Fiery Trails Across Cracked Obsidian By A Moonlit Lake, 16-Bit Fantasy Rpg Sprite Style, Vibrant Colors, Isolated Simple Background",
+    "rank": "R1",
+    "habitat": "Crystal Caverns",
+    "behavior": "pack-hunter",
+    "mana_trace": "radiant flare",
+    "value": "rare",
+    "description": "<lora:pixel_f2:1.1>, pixel art of a lava slug leaving fiery trails across cracked obsidian by a moonlit lake, 16-bit fantasy RPG sprite style, vibrant colors, isolated simple background"
+  }
+]

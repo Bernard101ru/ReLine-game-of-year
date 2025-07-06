@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Refined Ore",
+    "prompt": "Pixel art of a refined ore as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/materials/refined_ore.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in materials category."
+  },
+  {
+    "name": "Raw Crystal",
+    "prompt": "Pixel art of a raw crystal as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/materials/raw_crystal.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in materials category."
+  },
+  {
+    "name": "Magic Powder",
+    "prompt": "Pixel art of a magic powder as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/materials/magic_powder.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in materials category."
+  },
+  {
+    "name": "Alchemical Salt",
+    "prompt": "Pixel art of a alchemical salt as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/materials/alchemical_salt.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in materials category."
+  },
+  {
+    "name": "Iron Ingot",
+    "prompt": "Pixel art of a iron ingot as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/materials/iron_ingot.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in materials category."
+  },
+  {
+    "name": "Cloth Roll",
+    "prompt": "Pixel art of a cloth roll as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/materials/cloth_roll.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in materials category."
+  },
+  {
+    "name": "Steel Plate",
+    "prompt": "Pixel art of a steel plate as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/materials/steel_plate.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in materials category."
+  },
+  {
+    "name": "Dragon Scale",
+    "prompt": "Pixel art of a dragon scale as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/materials/dragon_scale.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in materials category."
+  },
+  {
+    "name": "Sandstone Brick",
+    "prompt": "Pixel art of a sandstone brick as a fantasy RPG item icon. 64x64, detailed SNES style.",
+    "image_path": "items/materials/sandstone_brick.png",
+    "use_case": "Used in crafting, combat or trade depending on context. Common in materials category."
+  }
+]
