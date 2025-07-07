@@ -1,0 +1,514 @@
+{
+  "rogue_adult_female_060": {
+    "portrait": "assets/npc_portraits/rogue_adult_female_060.png",
+    "portrait_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/npc_portraits/rogue_adult_female_060.png"
+  },
+  "rogue_adult_female_105": {
+    "portrait": "assets/npc_portraits/rogue_adult_female_105.png",
+    "portrait_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/npc_portraits/rogue_adult_female_105.png"
+  },
+  "rogue_adult_female_167": {
+    "portrait": "assets/npc_portraits/rogue_adult_female_167.png",
+    "portrait_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/npc_portraits/rogue_adult_female_167.png"
+  },
+  "rogue_adult_female_392": {
+    "portrait": "assets/npc_portraits/rogue_adult_female_392.png",
+    "portrait_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/npc_portraits/rogue_adult_female_392.png"
+  },
+  "rogue_adult_male_110": {
+    "portrait": "assets/npc_portraits/rogue_adult_male_110.png",
+    "portrait_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/npc_portraits/rogue_adult_male_110.png"
+  },
+  "rogue_adult_male_145": {
+    "portrait": "assets/npc_portraits/rogue_adult_male_145.png",
+    "portrait_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/npc_portraits/rogue_adult_male_145.png"
+  },
+  "rogue_adult_male_180": {
+    "portrait": "assets/npc_portraits/rogue_adult_male_180.png",
+    "portrait_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/npc_portraits/rogue_adult_male_180.png"
+  },
+  "rogue_adult_male_253": {
+    "portrait": "assets/npc_portraits/rogue_adult_male_253.png",
+    "portrait_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/npc_portraits/rogue_adult_male_253.png"
+  },
+  "rogue_adult_male_254": {
+    "portrait": "assets/npc_portraits/rogue_adult_male_254.png",
+    "portrait_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/npc_portraits/rogue_adult_male_254.png"
+  },
+  "rogue_child_female_016": {
+    "portrait": "assets/npc_portraits/rogue_child_female_016.png",
+    "portrait_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/npc_portraits/rogue_child_female_016.png"
+  },
+  "rogue_child_female_120": {
+    "portrait": "assets/npc_portraits/rogue_child_female_120.png",
+    "portrait_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/npc_portraits/rogue_child_female_120.png"
+  },
+  "rogue_child_female_264": {
+    "portrait": "assets/npc_portraits/rogue_child_female_264.png",
+    "portrait_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/npc_portraits/rogue_child_female_264.png"
+  },
+  "rogue_child_female_283": {
+    "portrait": "assets/npc_portraits/rogue_child_female_283.png",
+    "portrait_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/npc_portraits/rogue_child_female_283.png"
+  },
+  "rogue_child_male_081": {
+    "portrait": "assets/npc_portraits/rogue_child_male_081.png",
+    "portrait_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/npc_portraits/rogue_child_male_081.png"
+  },
+  "rogue_child_male_178": {
+    "portrait": "assets/npc_portraits/rogue_child_male_178.png",
+    "portrait_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/npc_portraits/rogue_child_male_178.png"
+  },
+  "rogue_child_male_198": {
+    "portrait": "assets/npc_portraits/rogue_child_male_198.png",
+    "portrait_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/npc_portraits/rogue_child_male_198.png"
+  },
+  "rogue_elderly_female_092": {
+    "portrait": "assets/npc_portraits/rogue_elderly_female_092.png",
+    "portrait_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/npc_portraits/rogue_elderly_female_092.png"
+  },
+  "rogue_elderly_female_119": {
+    "portrait": "assets/npc_portraits/rogue_elderly_female_119.png",
+    "portrait_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/npc_portraits/rogue_elderly_female_119.png"
+  },
+  "rogue_elderly_female_149": {
+    "portrait": "assets/npc_portraits/rogue_elderly_female_149.png",
+    "portrait_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/npc_portraits/rogue_elderly_female_149.png"
+  },
+  "rogue_elderly_female_160": {
+    "portrait": "assets/npc_portraits/rogue_elderly_female_160.png",
+    "portrait_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/npc_portraits/rogue_elderly_female_160.png"
+  },
+  "rogue_elderly_female_271": {
+    "portrait": "assets/npc_portraits/rogue_elderly_female_271.png",
+    "portrait_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/npc_portraits/rogue_elderly_female_271.png"
+  },
+  "rogue_elderly_female_351": {
+    "portrait": "assets/npc_portraits/rogue_elderly_female_351.png",
+    "portrait_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/npc_portraits/rogue_elderly_female_351.png"
+  },
+  "rogue_elderly_male_059": {
+    "portrait": "assets/npc_portraits/rogue_elderly_male_059.png",
+    "portrait_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/npc_portraits/rogue_elderly_male_059.png"
+  },
+  "rogue_elderly_male_070": {
+    "portrait": "assets/npc_portraits/rogue_elderly_male_070.png",
+    "portrait_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/npc_portraits/rogue_elderly_male_070.png"
+  },
+  "rogue_elderly_male_360": {
+    "portrait": "assets/npc_portraits/rogue_elderly_male_360.png",
+    "portrait_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/npc_portraits/rogue_elderly_male_360.png"
+  },
+  "rogue_young_female_045": {
+    "portrait": "assets/npc_portraits/rogue_young_female_045.png",
+    "portrait_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/npc_portraits/rogue_young_female_045.png"
+  },
+  "rogue_young_female_207": {
+    "portrait": "assets/npc_portraits/rogue_young_female_207.png",
+    "portrait_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/npc_portraits/rogue_young_female_207.png"
+  },
+  "rogue_young_female_365": {
+    "portrait": "assets/npc_portraits/rogue_young_female_365.png",
+    "portrait_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/npc_portraits/rogue_young_female_365.png"
+  },
+  "rogue_young_male_108": {
+    "portrait": "assets/npc_portraits/rogue_young_male_108.png",
+    "portrait_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/npc_portraits/rogue_young_male_108.png"
+  },
+  "rogue_young_male_127": {
+    "portrait": "assets/npc_portraits/rogue_young_male_127.png",
+    "portrait_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/npc_portraits/rogue_young_male_127.png"
+  },
+  "rogue_young_male_151": {
+    "portrait": "assets/npc_portraits/rogue_young_male_151.png",
+    "portrait_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/npc_portraits/rogue_young_male_151.png"
+  },
+  "rogue_young_male_159": {
+    "portrait": "assets/npc_portraits/rogue_young_male_159.png",
+    "portrait_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/npc_portraits/rogue_young_male_159.png"
+  },
+  "rogue_young_male_174": {
+    "portrait": "assets/npc_portraits/rogue_young_male_174.png",
+    "portrait_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/npc_portraits/rogue_young_male_174.png"
+  },
+  "rogue_young_male_217": {
+    "portrait": "assets/npc_portraits/rogue_young_male_217.png",
+    "portrait_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/npc_portraits/rogue_young_male_217.png"
+  },
+  "rogue_young_male_298": {
+    "portrait": "assets/npc_portraits/rogue_young_male_298.png",
+    "portrait_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/npc_portraits/rogue_young_male_298.png"
+  },
+  "scholar_adult_female_051": {
+    "portrait": "assets/npc_portraits/scholar_adult_female_051.png",
+    "portrait_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/npc_portraits/scholar_adult_female_051.png"
+  },
+  "scholar_adult_female_054": {
+    "portrait": "assets/npc_portraits/scholar_adult_female_054.png",
+    "portrait_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/npc_portraits/scholar_adult_female_054.png"
+  },
+  "scholar_adult_female_176": {
+    "portrait": "assets/npc_portraits/scholar_adult_female_176.png",
+    "portrait_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/npc_portraits/scholar_adult_female_176.png"
+  },
+  "scholar_adult_female_273": {
+    "portrait": "assets/npc_portraits/scholar_adult_female_273.png",
+    "portrait_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/npc_portraits/scholar_adult_female_273.png"
+  },
+  "scholar_adult_female_320": {
+    "portrait": "assets/npc_portraits/scholar_adult_female_320.png",
+    "portrait_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/npc_portraits/scholar_adult_female_320.png"
+  },
+  "scholar_adult_female_366": {
+    "portrait": "assets/npc_portraits/scholar_adult_female_366.png",
+    "portrait_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/npc_portraits/scholar_adult_female_366.png"
+  },
+  "scholar_adult_male_073": {
+    "portrait": "assets/npc_portraits/scholar_adult_male_073.png",
+    "portrait_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/npc_portraits/scholar_adult_male_073.png"
+  },
+  "scholar_adult_male_202": {
+    "portrait": "assets/npc_portraits/scholar_adult_male_202.png",
+    "portrait_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/npc_portraits/scholar_adult_male_202.png"
+  },
+  "scholar_child_female_071": {
+    "portrait": "assets/npc_portraits/scholar_child_female_071.png",
+    "portrait_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/npc_portraits/scholar_child_female_071.png"
+  },
+  "scholar_child_female_072": {
+    "portrait": "assets/npc_portraits/scholar_child_female_072.png",
+    "portrait_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/npc_portraits/scholar_child_female_072.png"
+  },
+  "scholar_child_female_170": {
+    "portrait": "assets/npc_portraits/scholar_child_female_170.png",
+    "portrait_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/npc_portraits/scholar_child_female_170.png"
+  },
+  "scholar_child_male_096": {
+    "portrait": "assets/npc_portraits/scholar_child_male_096.png",
+    "portrait_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/npc_portraits/scholar_child_male_096.png"
+  },
+  "scholar_child_male_157": {
+    "portrait": "assets/npc_portraits/scholar_child_male_157.png",
+    "portrait_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/npc_portraits/scholar_child_male_157.png"
+  },
+  "scholar_elderly_male_017": {
+    "portrait": "assets/npc_portraits/scholar_elderly_male_017.png",
+    "portrait_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/npc_portraits/scholar_elderly_male_017.png"
+  },
+  "scholar_elderly_male_155": {
+    "portrait": "assets/npc_portraits/scholar_elderly_male_155.png",
+    "portrait_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/npc_portraits/scholar_elderly_male_155.png"
+  },
+  "scholar_young_female_097": {
+    "portrait": "assets/npc_portraits/scholar_young_female_097.png",
+    "portrait_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/npc_portraits/scholar_young_female_097.png"
+  },
+  "scholar_young_female_102": {
+    "portrait": "assets/npc_portraits/scholar_young_female_102.png",
+    "portrait_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/npc_portraits/scholar_young_female_102.png"
+  },
+  "scholar_young_female_143": {
+    "portrait": "assets/npc_portraits/scholar_young_female_143.png",
+    "portrait_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/npc_portraits/scholar_young_female_143.png"
+  },
+  "scholar_young_female_352": {
+    "portrait": "assets/npc_portraits/scholar_young_female_352.png",
+    "portrait_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/npc_portraits/scholar_young_female_352.png"
+  },
+  "scholar_young_female_383": {
+    "portrait": "assets/npc_portraits/scholar_young_female_383.png",
+    "portrait_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/npc_portraits/scholar_young_female_383.png"
+  },
+  "scholar_young_female_393": {
+    "portrait": "assets/npc_portraits/scholar_young_female_393.png",
+    "portrait_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/npc_portraits/scholar_young_female_393.png"
+  },
+  "scholar_young_male_001": {
+    "portrait": "assets/npc_portraits/scholar_young_male_001.png",
+    "portrait_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/npc_portraits/scholar_young_male_001.png"
+  },
+  "scholar_young_male_050": {
+    "portrait": "assets/npc_portraits/scholar_young_male_050.png",
+    "portrait_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/npc_portraits/scholar_young_male_050.png"
+  },
+  "scholar_young_male_067": {
+    "portrait": "assets/npc_portraits/scholar_young_male_067.png",
+    "portrait_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/npc_portraits/scholar_young_male_067.png"
+  },
+  "scholar_young_male_161": {
+    "portrait": "assets/npc_portraits/scholar_young_male_161.png",
+    "portrait_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/npc_portraits/scholar_young_male_161.png"
+  },
+  "scholar_young_male_244": {
+    "portrait": "assets/npc_portraits/scholar_young_male_244.png",
+    "portrait_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/npc_portraits/scholar_young_male_244.png"
+  },
+  "scholar_young_male_355": {
+    "portrait": "assets/npc_portraits/scholar_young_male_355.png",
+    "portrait_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/npc_portraits/scholar_young_male_355.png"
+  },
+  "scholar_young_male_379": {
+    "portrait": "assets/npc_portraits/scholar_young_male_379.png",
+    "portrait_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/npc_portraits/scholar_young_male_379.png"
+  },
+  "traveler_adult_female_003": {
+    "portrait": "assets/npc_portraits/traveler_adult_female_003.png",
+    "portrait_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/npc_portraits/traveler_adult_female_003.png"
+  },
+  "traveler_adult_female_040": {
+    "portrait": "assets/npc_portraits/traveler_adult_female_040.png",
+    "portrait_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/npc_portraits/traveler_adult_female_040.png"
+  },
+  "traveler_adult_female_056": {
+    "portrait": "assets/npc_portraits/traveler_adult_female_056.png",
+    "portrait_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/npc_portraits/traveler_adult_female_056.png"
+  },
+  "traveler_adult_female_201": {
+    "portrait": "assets/npc_portraits/traveler_adult_female_201.png",
+    "portrait_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/npc_portraits/traveler_adult_female_201.png"
+  },
+  "traveler_adult_female_203": {
+    "portrait": "assets/npc_portraits/traveler_adult_female_203.png",
+    "portrait_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/npc_portraits/traveler_adult_female_203.png"
+  },
+  "traveler_adult_male_080": {
+    "portrait": "assets/npc_portraits/traveler_adult_male_080.png",
+    "portrait_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/npc_portraits/traveler_adult_male_080.png"
+  },
+  "traveler_adult_male_238": {
+    "portrait": "assets/npc_portraits/traveler_adult_male_238.png",
+    "portrait_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/npc_portraits/traveler_adult_male_238.png"
+  },
+  "traveler_adult_male_276": {
+    "portrait": "assets/npc_portraits/traveler_adult_male_276.png",
+    "portrait_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/npc_portraits/traveler_adult_male_276.png"
+  },
+  "traveler_adult_male_289": {
+    "portrait": "assets/npc_portraits/traveler_adult_male_289.png",
+    "portrait_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/npc_portraits/traveler_adult_male_289.png"
+  },
+  "traveler_adult_male_312": {
+    "portrait": "assets/npc_portraits/traveler_adult_male_312.png",
+    "portrait_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/npc_portraits/traveler_adult_male_312.png"
+  },
+  "traveler_adult_male_340": {
+    "portrait": "assets/npc_portraits/traveler_adult_male_340.png",
+    "portrait_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/npc_portraits/traveler_adult_male_340.png"
+  },
+  "traveler_adult_male_342": {
+    "portrait": "assets/npc_portraits/traveler_adult_male_342.png",
+    "portrait_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/npc_portraits/traveler_adult_male_342.png"
+  },
+  "traveler_child_female_042": {
+    "portrait": "assets/npc_portraits/traveler_child_female_042.png",
+    "portrait_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/npc_portraits/traveler_child_female_042.png"
+  },
+  "traveler_child_female_138": {
+    "portrait": "assets/npc_portraits/traveler_child_female_138.png",
+    "portrait_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/npc_portraits/traveler_child_female_138.png"
+  },
+  "traveler_child_female_321": {
+    "portrait": "assets/npc_portraits/traveler_child_female_321.png",
+    "portrait_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/npc_portraits/traveler_child_female_321.png"
+  },
+  "traveler_child_male_020": {
+    "portrait": "assets/npc_portraits/traveler_child_male_020.png",
+    "portrait_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/npc_portraits/traveler_child_male_020.png"
+  },
+  "traveler_child_male_190": {
+    "portrait": "assets/npc_portraits/traveler_child_male_190.png",
+    "portrait_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/npc_portraits/traveler_child_male_190.png"
+  },
+  "traveler_elderly_female_109": {
+    "portrait": "assets/npc_portraits/traveler_elderly_female_109.png",
+    "portrait_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/npc_portraits/traveler_elderly_female_109.png"
+  },
+  "traveler_elderly_female_134": {
+    "portrait": "assets/npc_portraits/traveler_elderly_female_134.png",
+    "portrait_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/npc_portraits/traveler_elderly_female_134.png"
+  },
+  "traveler_elderly_female_168": {
+    "portrait": "assets/npc_portraits/traveler_elderly_female_168.png",
+    "portrait_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/npc_portraits/traveler_elderly_female_168.png"
+  },
+  "traveler_elderly_female_268": {
+    "portrait": "assets/npc_portraits/traveler_elderly_female_268.png",
+    "portrait_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/npc_portraits/traveler_elderly_female_268.png"
+  },
+  "traveler_elderly_female_361": {
+    "portrait": "assets/npc_portraits/traveler_elderly_female_361.png",
+    "portrait_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/npc_portraits/traveler_elderly_female_361.png"
+  },
+  "traveler_elderly_male_012": {
+    "portrait": "assets/npc_portraits/traveler_elderly_male_012.png",
+    "portrait_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/npc_portraits/traveler_elderly_male_012.png"
+  },
+  "traveler_elderly_male_021": {
+    "portrait": "assets/npc_portraits/traveler_elderly_male_021.png",
+    "portrait_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/npc_portraits/traveler_elderly_male_021.png"
+  },
+  "traveler_elderly_male_074": {
+    "portrait": "assets/npc_portraits/traveler_elderly_male_074.png",
+    "portrait_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/npc_portraits/traveler_elderly_male_074.png"
+  },
+  "traveler_elderly_male_316": {
+    "portrait": "assets/npc_portraits/traveler_elderly_male_316.png",
+    "portrait_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/npc_portraits/traveler_elderly_male_316.png"
+  },
+  "traveler_elderly_male_376": {
+    "portrait": "assets/npc_portraits/traveler_elderly_male_376.png",
+    "portrait_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/npc_portraits/traveler_elderly_male_376.png"
+  },
+  "traveler_young_female_053": {
+    "portrait": "assets/npc_portraits/traveler_young_female_053.png",
+    "portrait_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/npc_portraits/traveler_young_female_053.png"
+  },
+  "traveler_young_female_107": {
+    "portrait": "assets/npc_portraits/traveler_young_female_107.png",
+    "portrait_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/npc_portraits/traveler_young_female_107.png"
+  },
+  "traveler_young_female_192": {
+    "portrait": "assets/npc_portraits/traveler_young_female_192.png",
+    "portrait_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/npc_portraits/traveler_young_female_192.png"
+  },
+  "traveler_young_male_106": {
+    "portrait": "assets/npc_portraits/traveler_young_male_106.png",
+    "portrait_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/npc_portraits/traveler_young_male_106.png"
+  },
+  "traveler_young_male_122": {
+    "portrait": "assets/npc_portraits/traveler_young_male_122.png",
+    "portrait_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/npc_portraits/traveler_young_male_122.png"
+  },
+  "traveler_young_male_196": {
+    "portrait": "assets/npc_portraits/traveler_young_male_196.png",
+    "portrait_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/npc_portraits/traveler_young_male_196.png"
+  },
+  "traveler_young_male_241": {
+    "portrait": "assets/npc_portraits/traveler_young_male_241.png",
+    "portrait_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/npc_portraits/traveler_young_male_241.png"
+  },
+  "traveler_young_male_248": {
+    "portrait": "assets/npc_portraits/traveler_young_male_248.png",
+    "portrait_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/npc_portraits/traveler_young_male_248.png"
+  },
+  "traveler_young_male_269": {
+    "portrait": "assets/npc_portraits/traveler_young_male_269.png",
+    "portrait_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/npc_portraits/traveler_young_male_269.png"
+  },
+  "traveler_young_male_310": {
+    "portrait": "assets/npc_portraits/traveler_young_male_310.png",
+    "portrait_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/npc_portraits/traveler_young_male_310.png"
+  },
+  "traveler_young_male_327": {
+    "portrait": "assets/npc_portraits/traveler_young_male_327.png",
+    "portrait_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/npc_portraits/traveler_young_male_327.png"
+  },
+  "traveler_young_male_359": {
+    "portrait": "assets/npc_portraits/traveler_young_male_359.png",
+    "portrait_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/npc_portraits/traveler_young_male_359.png"
+  },
+  "villager_adult_female_057": {
+    "portrait": "assets/npc_portraits/villager_adult_female_057.png",
+    "portrait_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/npc_portraits/villager_adult_female_057.png"
+  },
+  "villager_adult_female_338": {
+    "portrait": "assets/npc_portraits/villager_adult_female_338.png",
+    "portrait_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/npc_portraits/villager_adult_female_338.png"
+  },
+  "villager_adult_male_061": {
+    "portrait": "assets/npc_portraits/villager_adult_male_061.png",
+    "portrait_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/npc_portraits/villager_adult_male_061.png"
+  },
+  "villager_adult_male_089": {
+    "portrait": "assets/npc_portraits/villager_adult_male_089.png",
+    "portrait_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/npc_portraits/villager_adult_male_089.png"
+  },
+  "villager_adult_male_191": {
+    "portrait": "assets/npc_portraits/villager_adult_male_191.png",
+    "portrait_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/npc_portraits/villager_adult_male_191.png"
+  },
+  "villager_child_female_069": {
+    "portrait": "assets/npc_portraits/villager_child_female_069.png",
+    "portrait_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/npc_portraits/villager_child_female_069.png"
+  },
+  "villager_child_female_256": {
+    "portrait": "assets/npc_portraits/villager_child_female_256.png",
+    "portrait_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/npc_portraits/villager_child_female_256.png"
+  },
+  "villager_child_female_325": {
+    "portrait": "assets/npc_portraits/villager_child_female_325.png",
+    "portrait_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/npc_portraits/villager_child_female_325.png"
+  },
+  "villager_child_female_343": {
+    "portrait": "assets/npc_portraits/villager_child_female_343.png",
+    "portrait_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/npc_portraits/villager_child_female_343.png"
+  },
+  "villager_child_male_128": {
+    "portrait": "assets/npc_portraits/villager_child_male_128.png",
+    "portrait_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/npc_portraits/villager_child_male_128.png"
+  },
+  "villager_child_male_228": {
+    "portrait": "assets/npc_portraits/villager_child_male_228.png",
+    "portrait_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/npc_portraits/villager_child_male_228.png"
+  },
+  "villager_child_male_331": {
+    "portrait": "assets/npc_portraits/villager_child_male_331.png",
+    "portrait_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/npc_portraits/villager_child_male_331.png"
+  },
+  "villager_elderly_female_014": {
+    "portrait": "assets/npc_portraits/villager_elderly_female_014.png",
+    "portrait_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/npc_portraits/villager_elderly_female_014.png"
+  },
+  "villager_elderly_female_308": {
+    "portrait": "assets/npc_portraits/villager_elderly_female_308.png",
+    "portrait_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/npc_portraits/villager_elderly_female_308.png"
+  },
+  "villager_elderly_female_347": {
+    "portrait": "assets/npc_portraits/villager_elderly_female_347.png",
+    "portrait_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/npc_portraits/villager_elderly_female_347.png"
+  },
+  "villager_elderly_female_358": {
+    "portrait": "assets/npc_portraits/villager_elderly_female_358.png",
+    "portrait_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/npc_portraits/villager_elderly_female_358.png"
+  },
+  "villager_elderly_female_387": {
+    "portrait": "assets/npc_portraits/villager_elderly_female_387.png",
+    "portrait_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/npc_portraits/villager_elderly_female_387.png"
+  },
+  "villager_elderly_male_346": {
+    "portrait": "assets/npc_portraits/villager_elderly_male_346.png",
+    "portrait_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/npc_portraits/villager_elderly_male_346.png"
+  },
+  "villager_elderly_male_390": {
+    "portrait": "assets/npc_portraits/villager_elderly_male_390.png",
+    "portrait_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/npc_portraits/villager_elderly_male_390.png"
+  },
+  "villager_young_female_029": {
+    "portrait": "assets/npc_portraits/villager_young_female_029.png",
+    "portrait_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/npc_portraits/villager_young_female_029.png"
+  },
+  "villager_young_female_150": {
+    "portrait": "assets/npc_portraits/villager_young_female_150.png",
+    "portrait_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/npc_portraits/villager_young_female_150.png"
+  },
+  "villager_young_female_337": {
+    "portrait": "assets/npc_portraits/villager_young_female_337.png",
+    "portrait_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/npc_portraits/villager_young_female_337.png"
+  },
+  "villager_young_female_368": {
+    "portrait": "assets/npc_portraits/villager_young_female_368.png",
+    "portrait_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/npc_portraits/villager_young_female_368.png"
+  },
+  "villager_young_male_028": {
+    "portrait": "assets/npc_portraits/villager_young_male_028.png",
+    "portrait_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/npc_portraits/villager_young_male_028.png"
+  },
+  "villager_young_male_136": {
+    "portrait": "assets/npc_portraits/villager_young_male_136.png",
+    "portrait_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/npc_portraits/villager_young_male_136.png"
+  },
+  "villager_young_male_224": {
+    "portrait": "assets/npc_portraits/villager_young_male_224.png",
+    "portrait_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/npc_portraits/villager_young_male_224.png"
+  }
+}

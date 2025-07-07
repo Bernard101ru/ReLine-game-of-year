@@ -1,0 +1,43 @@
+{
+  "project": "Echoes of Relain",
+  "version": "0.4-dev",
+  "description": "Текущая структура игровых и ассетных данных для загрузки, отладки и разработки.",
+  "structure": {
+    "StartGame/data": {
+      "entities": [
+        "monsters.json",
+        "npc_portrait_index.json",
+        "assets_npcs.json",
+        "assets_monsters.json"
+      ],
+      "lore": [
+        "lore_index.json",
+        "relain_game_expanded.json"
+      ],
+      "ui": [
+        "menu_config.json",
+        "startgame.meta.json"
+      ],
+      "scenes": [
+        "scenes.json",
+        "assets_scenes.json"
+      ],
+      "misc": [
+        "dason.json",
+        "relain_dason.json",
+        "assets_manifest.json"
+      ]
+    },
+    "docs/assets": {
+      "npc_portraits": "docs/assets/npc_portraits/*.png",
+      "monsters": "docs/assets/monsters/*.png",
+      "scenes": "docs/assets/scenes/*.png",
+      "start_menu": "docs/assets/start_menu/*.webp"
+    }
+  },
+  "notes": [
+    "Файл создаётся автоматически и может быть использован для импорта, валидации и билда.",
+    "Все пути относительные от корня проекта."
+  ],
+  "generated": true
+}
