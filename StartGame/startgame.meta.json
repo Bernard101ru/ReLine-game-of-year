@@ -1,0 +1,9 @@
+
+```json
+{
+  "type": "entry_point",
+  "mode": "EchoesOfRelain",
+  "autostart": true,
+  "target": "menu_config.json",
+  "on_link": "load_main_menu"
+}
