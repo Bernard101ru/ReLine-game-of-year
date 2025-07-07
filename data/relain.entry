@@ -1,0 +1,4 @@
+# Entry point for Echoes of Relain
+start: menu
+version: 0.1.2
+mode: full
