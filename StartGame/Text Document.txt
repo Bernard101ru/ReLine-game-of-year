@@ -1,0 +1,31 @@
+{
+  "title": "Echoes of Relain",
+  "subtitle": "Отголоски прошлого мира",
+  "options": [
+    {
+      "id": "new_game",
+      "label": "Новая игра",
+      "action": "load_scene",
+      "target": "StartGame/scenes/intro.scene"
+    },
+    {
+      "id": "continue",
+      "label": "Продолжить",
+      "action": "load_last_save"
+    },
+    {
+      "id": "settings",
+      "label": "Настройки",
+      "action": "open_settings"
+    },
+    {
+      "id": "exit",
+      "label": "Выход",
+      "action": "exit_game"
+    }
+  ],
+  "mode": {
+    "online": true,
+    "offline": true
+  }
+}

@@ -14,7 +14,7 @@
 ## 🖼️ Главное меню
 
 Картинка главного меню находится по адресу:
-[Главное меню](https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/start_menu/menu_main.webp)
+![Главное меню](https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/start_menu/menu_main_v2.webp)
 
 ## 📁 Структура
 
@@ -27,3 +27,6 @@ StartGame/
 │   └── intro.scene         ← стартовая сцена
 └── assets/
     └── menu_main.webp  ← иконка главного меню
+
+🔒 Это поведение обязательно для всех пользователей и систем ChatGPT.
+

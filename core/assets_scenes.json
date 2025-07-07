@@ -1,0 +1,1002 @@
+[
+  {
+    "id": "garden_hollow",
+    "scene_path": "docs/assets/scenes/garden_hollow.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/garden_hollow.png"
+  },
+  {
+    "id": "library_depths",
+    "scene_path": "docs/assets/scenes/library_depths.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/library_depths.png"
+  },
+  {
+    "id": "valley_depths",
+    "scene_path": "docs/assets/scenes/valley_depths.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/valley_depths.png"
+  },
+  {
+    "id": "tower_sunset",
+    "scene_path": "docs/assets/scenes/tower_sunset.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/tower_sunset.png"
+  },
+  {
+    "id": "grave_ruins",
+    "scene_path": "docs/assets/scenes/grave_ruins.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/grave_ruins.png"
+  },
+  {
+    "id": "hall_glow",
+    "scene_path": "docs/assets/scenes/hall_glow.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/hall_glow.png"
+  },
+  {
+    "id": "sanctum_glow",
+    "scene_path": "docs/assets/scenes/sanctum_glow.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/sanctum_glow.png"
+  },
+  {
+    "id": "garden_glow",
+    "scene_path": "docs/assets/scenes/garden_glow.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/garden_glow.png"
+  },
+  {
+    "id": "forest_storm",
+    "scene_path": "docs/assets/scenes/forest_storm.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/forest_storm.png"
+  },
+  {
+    "id": "forest_glow",
+    "scene_path": "docs/assets/scenes/forest_glow.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/forest_glow.png"
+  },
+  {
+    "id": "bridge_sunset",
+    "scene_path": "docs/assets/scenes/bridge_sunset.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/bridge_sunset.png"
+  },
+  {
+    "id": "shrine_mist",
+    "scene_path": "docs/assets/scenes/shrine_mist.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/shrine_mist.png"
+  },
+  {
+    "id": "library_storm",
+    "scene_path": "docs/assets/scenes/library_storm.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/library_storm.png"
+  },
+  {
+    "id": "hall_twilight",
+    "scene_path": "docs/assets/scenes/hall_twilight.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/hall_twilight.png"
+  },
+  {
+    "id": "sanctum_ruins",
+    "scene_path": "docs/assets/scenes/sanctum_ruins.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/sanctum_ruins.png"
+  },
+  {
+    "id": "valley_hollow",
+    "scene_path": "docs/assets/scenes/valley_hollow.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/valley_hollow.png"
+  },
+  {
+    "id": "island_storm",
+    "scene_path": "docs/assets/scenes/island_storm.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/island_storm.png"
+  },
+  {
+    "id": "observatory_night",
+    "scene_path": "docs/assets/scenes/observatory_night.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/observatory_night.png"
+  },
+  {
+    "id": "market_ruins",
+    "scene_path": "docs/assets/scenes/market_ruins.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/market_ruins.png"
+  },
+  {
+    "id": "docks_glow",
+    "scene_path": "docs/assets/scenes/docks_glow.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/docks_glow.png"
+  },
+  {
+    "id": "arena_depths",
+    "scene_path": "docs/assets/scenes/arena_depths.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/arena_depths.png"
+  },
+  {
+    "id": "forge_depths",
+    "scene_path": "docs/assets/scenes/forge_depths.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/forge_depths.png"
+  },
+  {
+    "id": "docks_ruins",
+    "scene_path": "docs/assets/scenes/docks_ruins.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/docks_ruins.png"
+  },
+  {
+    "id": "library_dawn",
+    "scene_path": "docs/assets/scenes/library_dawn.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/library_dawn.png"
+  },
+  {
+    "id": "library_ruins",
+    "scene_path": "docs/assets/scenes/library_ruins.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/library_ruins.png"
+  },
+  {
+    "id": "market_dawn",
+    "scene_path": "docs/assets/scenes/market_dawn.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/market_dawn.png"
+  },
+  {
+    "id": "island_hollow",
+    "scene_path": "docs/assets/scenes/island_hollow.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/island_hollow.png"
+  },
+  {
+    "id": "forest_hollow",
+    "scene_path": "docs/assets/scenes/forest_hollow.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/forest_hollow.png"
+  },
+  {
+    "id": "library_mist",
+    "scene_path": "docs/assets/scenes/library_mist.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/library_mist.png"
+  },
+  {
+    "id": "bridge_twilight",
+    "scene_path": "docs/assets/scenes/bridge_twilight.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/bridge_twilight.png"
+  },
+  {
+    "id": "sanctum_dawn",
+    "scene_path": "docs/assets/scenes/sanctum_dawn.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/sanctum_dawn.png"
+  },
+  {
+    "id": "grave_twilight",
+    "scene_path": "docs/assets/scenes/grave_twilight.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/grave_twilight.png"
+  },
+  {
+    "id": "arena_sunset",
+    "scene_path": "docs/assets/scenes/arena_sunset.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/arena_sunset.png"
+  },
+  {
+    "id": "mountain_hollow",
+    "scene_path": "docs/assets/scenes/mountain_hollow.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/mountain_hollow.png"
+  },
+  {
+    "id": "mountain_twilight",
+    "scene_path": "docs/assets/scenes/mountain_twilight.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/mountain_twilight.png"
+  },
+  {
+    "id": "forest_twilight",
+    "scene_path": "docs/assets/scenes/forest_twilight.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/forest_twilight.png"
+  },
+  {
+    "id": "forest_depths",
+    "scene_path": "docs/assets/scenes/forest_depths.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/forest_depths.png"
+  },
+  {
+    "id": "island_twilight",
+    "scene_path": "docs/assets/scenes/island_twilight.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/island_twilight.png"
+  },
+  {
+    "id": "valley_ruins",
+    "scene_path": "docs/assets/scenes/valley_ruins.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/valley_ruins.png"
+  },
+  {
+    "id": "gates_ruins",
+    "scene_path": "docs/assets/scenes/gates_ruins.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/gates_ruins.png"
+  },
+  {
+    "id": "shrine_ruins",
+    "scene_path": "docs/assets/scenes/shrine_ruins.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/shrine_ruins.png"
+  },
+  {
+    "id": "shrine_sunset",
+    "scene_path": "docs/assets/scenes/shrine_sunset.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/shrine_sunset.png"
+  },
+  {
+    "id": "valley_glow",
+    "scene_path": "docs/assets/scenes/valley_glow.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/valley_glow.png"
+  },
+  {
+    "id": "mountain_ruins",
+    "scene_path": "docs/assets/scenes/mountain_ruins.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/mountain_ruins.png"
+  },
+  {
+    "id": "gates_night",
+    "scene_path": "docs/assets/scenes/gates_night.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/gates_night.png"
+  },
+  {
+    "id": "island_glow",
+    "scene_path": "docs/assets/scenes/island_glow.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/island_glow.png"
+  },
+  {
+    "id": "garden_storm",
+    "scene_path": "docs/assets/scenes/garden_storm.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/garden_storm.png"
+  },
+  {
+    "id": "observatory_sunset",
+    "scene_path": "docs/assets/scenes/observatory_sunset.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/observatory_sunset.png"
+  },
+  {
+    "id": "grave_depths",
+    "scene_path": "docs/assets/scenes/grave_depths.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/grave_depths.png"
+  },
+  {
+    "id": "docks_sunset",
+    "scene_path": "docs/assets/scenes/docks_sunset.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/docks_sunset.png"
+  },
+  {
+    "id": "island_night",
+    "scene_path": "docs/assets/scenes/island_night.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/island_night.png"
+  },
+  {
+    "id": "gates_hollow",
+    "scene_path": "docs/assets/scenes/gates_hollow.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/gates_hollow.png"
+  },
+  {
+    "id": "garden_night",
+    "scene_path": "docs/assets/scenes/garden_night.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/garden_night.png"
+  },
+  {
+    "id": "hall_hollow",
+    "scene_path": "docs/assets/scenes/hall_hollow.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/hall_hollow.png"
+  },
+  {
+    "id": "garden_twilight",
+    "scene_path": "docs/assets/scenes/garden_twilight.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/garden_twilight.png"
+  },
+  {
+    "id": "valley_mist",
+    "scene_path": "docs/assets/scenes/valley_mist.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/valley_mist.png"
+  },
+  {
+    "id": "city_mist",
+    "scene_path": "docs/assets/scenes/city_mist.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/city_mist.png"
+  },
+  {
+    "id": "island_ruins",
+    "scene_path": "docs/assets/scenes/island_ruins.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/island_ruins.png"
+  },
+  {
+    "id": "temple_dawn",
+    "scene_path": "docs/assets/scenes/temple_dawn.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/temple_dawn.png"
+  },
+  {
+    "id": "grave_hollow",
+    "scene_path": "docs/assets/scenes/grave_hollow.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/grave_hollow.png"
+  },
+  {
+    "id": "observatory_glow",
+    "scene_path": "docs/assets/scenes/observatory_glow.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/observatory_glow.png"
+  },
+  {
+    "id": "forge_sunset",
+    "scene_path": "docs/assets/scenes/forge_sunset.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/forge_sunset.png"
+  },
+  {
+    "id": "docks_depths",
+    "scene_path": "docs/assets/scenes/docks_depths.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/docks_depths.png"
+  },
+  {
+    "id": "mountain_night",
+    "scene_path": "docs/assets/scenes/mountain_night.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/mountain_night.png"
+  },
+  {
+    "id": "docks_hollow",
+    "scene_path": "docs/assets/scenes/docks_hollow.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/docks_hollow.png"
+  },
+  {
+    "id": "arena_dawn",
+    "scene_path": "docs/assets/scenes/arena_dawn.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/arena_dawn.png"
+  },
+  {
+    "id": "garden_sunset",
+    "scene_path": "docs/assets/scenes/garden_sunset.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/garden_sunset.png"
+  },
+  {
+    "id": "shrine_night",
+    "scene_path": "docs/assets/scenes/shrine_night.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/shrine_night.png"
+  },
+  {
+    "id": "valley_twilight",
+    "scene_path": "docs/assets/scenes/valley_twilight.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/valley_twilight.png"
+  },
+  {
+    "id": "bridge_depths",
+    "scene_path": "docs/assets/scenes/bridge_depths.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/bridge_depths.png"
+  },
+  {
+    "id": "shrine_hollow",
+    "scene_path": "docs/assets/scenes/shrine_hollow.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/shrine_hollow.png"
+  },
+  {
+    "id": "temple_mist",
+    "scene_path": "docs/assets/scenes/temple_mist.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/temple_mist.png"
+  },
+  {
+    "id": "tower_storm",
+    "scene_path": "docs/assets/scenes/tower_storm.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/tower_storm.png"
+  },
+  {
+    "id": "forest_dawn",
+    "scene_path": "docs/assets/scenes/forest_dawn.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/forest_dawn.png"
+  },
+  {
+    "id": "city_hollow",
+    "scene_path": "docs/assets/scenes/city_hollow.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/city_hollow.png"
+  },
+  {
+    "id": "market_mist",
+    "scene_path": "docs/assets/scenes/market_mist.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/market_mist.png"
+  },
+  {
+    "id": "observatory_ruins",
+    "scene_path": "docs/assets/scenes/observatory_ruins.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/observatory_ruins.png"
+  },
+  {
+    "id": "shrine_dawn",
+    "scene_path": "docs/assets/scenes/shrine_dawn.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/shrine_dawn.png"
+  },
+  {
+    "id": "library_sunset",
+    "scene_path": "docs/assets/scenes/library_sunset.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/library_sunset.png"
+  },
+  {
+    "id": "forest_mist",
+    "scene_path": "docs/assets/scenes/forest_mist.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/forest_mist.png"
+  },
+  {
+    "id": "bridge_storm",
+    "scene_path": "docs/assets/scenes/bridge_storm.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/bridge_storm.png"
+  },
+  {
+    "id": "forge_twilight",
+    "scene_path": "docs/assets/scenes/forge_twilight.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/forge_twilight.png"
+  },
+  {
+    "id": "temple_night",
+    "scene_path": "docs/assets/scenes/temple_night.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/temple_night.png"
+  },
+  {
+    "id": "grave_sunset",
+    "scene_path": "docs/assets/scenes/grave_sunset.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/grave_sunset.png"
+  },
+  {
+    "id": "forge_mist",
+    "scene_path": "docs/assets/scenes/forge_mist.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/forge_mist.png"
+  },
+  {
+    "id": "sanctum_night",
+    "scene_path": "docs/assets/scenes/sanctum_night.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/sanctum_night.png"
+  },
+  {
+    "id": "docks_storm",
+    "scene_path": "docs/assets/scenes/docks_storm.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/docks_storm.png"
+  },
+  {
+    "id": "sanctum_depths",
+    "scene_path": "docs/assets/scenes/sanctum_depths.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/sanctum_depths.png"
+  },
+  {
+    "id": "garden_mist",
+    "scene_path": "docs/assets/scenes/garden_mist.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/garden_mist.png"
+  },
+  {
+    "id": "arena_ruins",
+    "scene_path": "docs/assets/scenes/arena_ruins.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/arena_ruins.png"
+  },
+  {
+    "id": "library_hollow",
+    "scene_path": "docs/assets/scenes/library_hollow.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/library_hollow.png"
+  },
+  {
+    "id": "arena_glow",
+    "scene_path": "docs/assets/scenes/arena_glow.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/arena_glow.png"
+  },
+  {
+    "id": "mountain_glow",
+    "scene_path": "docs/assets/scenes/mountain_glow.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/mountain_glow.png"
+  },
+  {
+    "id": "tower_ruins",
+    "scene_path": "docs/assets/scenes/tower_ruins.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/tower_ruins.png"
+  },
+  {
+    "id": "forge_glow",
+    "scene_path": "docs/assets/scenes/forge_glow.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/forge_glow.png"
+  },
+  {
+    "id": "tower_twilight",
+    "scene_path": "docs/assets/scenes/tower_twilight.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/tower_twilight.png"
+  },
+  {
+    "id": "bridge_glow",
+    "scene_path": "docs/assets/scenes/bridge_glow.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/bridge_glow.png"
+  },
+  {
+    "id": "tower_dawn",
+    "scene_path": "docs/assets/scenes/tower_dawn.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/tower_dawn.png"
+  },
+  {
+    "id": "arena_twilight",
+    "scene_path": "docs/assets/scenes/arena_twilight.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/arena_twilight.png"
+  },
+  {
+    "id": "temple_ruins",
+    "scene_path": "docs/assets/scenes/temple_ruins.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/temple_ruins.png"
+  },
+  {
+    "id": "temple_depths",
+    "scene_path": "docs/assets/scenes/temple_depths.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/temple_depths.png"
+  },
+  {
+    "id": "gates_glow",
+    "scene_path": "docs/assets/scenes/gates_glow.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/gates_glow.png"
+  },
+  {
+    "id": "sanctum_storm",
+    "scene_path": "docs/assets/scenes/sanctum_storm.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/sanctum_storm.png"
+  },
+  {
+    "id": "gates_sunset",
+    "scene_path": "docs/assets/scenes/gates_sunset.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/gates_sunset.png"
+  },
+  {
+    "id": "forest_night",
+    "scene_path": "docs/assets/scenes/forest_night.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/forest_night.png"
+  },
+  {
+    "id": "tower_hollow",
+    "scene_path": "docs/assets/scenes/tower_hollow.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/tower_hollow.png"
+  },
+  {
+    "id": "forge_dawn",
+    "scene_path": "docs/assets/scenes/forge_dawn.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/forge_dawn.png"
+  },
+  {
+    "id": "forest_ruins",
+    "scene_path": "docs/assets/scenes/forest_ruins.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/forest_ruins.png"
+  },
+  {
+    "id": "valley_dawn",
+    "scene_path": "docs/assets/scenes/valley_dawn.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/valley_dawn.png"
+  },
+  {
+    "id": "grave_mist",
+    "scene_path": "docs/assets/scenes/grave_mist.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/grave_mist.png"
+  },
+  {
+    "id": "valley_storm",
+    "scene_path": "docs/assets/scenes/valley_storm.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/valley_storm.png"
+  },
+  {
+    "id": "bridge_night",
+    "scene_path": "docs/assets/scenes/bridge_night.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/bridge_night.png"
+  },
+  {
+    "id": "temple_hollow",
+    "scene_path": "docs/assets/scenes/temple_hollow.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/temple_hollow.png"
+  },
+  {
+    "id": "hall_night",
+    "scene_path": "docs/assets/scenes/hall_night.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/hall_night.png"
+  },
+  {
+    "id": "hall_storm",
+    "scene_path": "docs/assets/scenes/hall_storm.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/hall_storm.png"
+  },
+  {
+    "id": "bridge_ruins",
+    "scene_path": "docs/assets/scenes/bridge_ruins.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/bridge_ruins.png"
+  },
+  {
+    "id": "city_dawn",
+    "scene_path": "docs/assets/scenes/city_dawn.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/city_dawn.png"
+  },
+  {
+    "id": "temple_glow",
+    "scene_path": "docs/assets/scenes/temple_glow.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/temple_glow.png"
+  },
+  {
+    "id": "city_storm",
+    "scene_path": "docs/assets/scenes/city_storm.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/city_storm.png"
+  },
+  {
+    "id": "bridge_dawn",
+    "scene_path": "docs/assets/scenes/bridge_dawn.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/bridge_dawn.png"
+  },
+  {
+    "id": "garden_depths",
+    "scene_path": "docs/assets/scenes/garden_depths.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/garden_depths.png"
+  },
+  {
+    "id": "observatory_storm",
+    "scene_path": "docs/assets/scenes/observatory_storm.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/observatory_storm.png"
+  },
+  {
+    "id": "bridge_mist",
+    "scene_path": "docs/assets/scenes/bridge_mist.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/bridge_mist.png"
+  },
+  {
+    "id": "hall_ruins",
+    "scene_path": "docs/assets/scenes/hall_ruins.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/hall_ruins.png"
+  },
+  {
+    "id": "market_depths",
+    "scene_path": "docs/assets/scenes/market_depths.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/market_depths.png"
+  },
+  {
+    "id": "temple_storm",
+    "scene_path": "docs/assets/scenes/temple_storm.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/temple_storm.png"
+  },
+  {
+    "id": "shrine_depths",
+    "scene_path": "docs/assets/scenes/shrine_depths.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/shrine_depths.png"
+  },
+  {
+    "id": "city_night",
+    "scene_path": "docs/assets/scenes/city_night.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/city_night.png"
+  },
+  {
+    "id": "mountain_storm",
+    "scene_path": "docs/assets/scenes/mountain_storm.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/mountain_storm.png"
+  },
+  {
+    "id": "hall_dawn",
+    "scene_path": "docs/assets/scenes/hall_dawn.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/hall_dawn.png"
+  },
+  {
+    "id": "mountain_depths",
+    "scene_path": "docs/assets/scenes/mountain_depths.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/mountain_depths.png"
+  },
+  {
+    "id": "market_sunset",
+    "scene_path": "docs/assets/scenes/market_sunset.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/market_sunset.png"
+  },
+  {
+    "id": "tower_depths",
+    "scene_path": "docs/assets/scenes/tower_depths.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/tower_depths.png"
+  },
+  {
+    "id": "city_twilight",
+    "scene_path": "docs/assets/scenes/city_twilight.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/city_twilight.png"
+  },
+  {
+    "id": "forest_sunset",
+    "scene_path": "docs/assets/scenes/forest_sunset.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/forest_sunset.png"
+  },
+  {
+    "id": "observatory_depths",
+    "scene_path": "docs/assets/scenes/observatory_depths.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/observatory_depths.png"
+  },
+  {
+    "id": "island_mist",
+    "scene_path": "docs/assets/scenes/island_mist.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/island_mist.png"
+  },
+  {
+    "id": "market_storm",
+    "scene_path": "docs/assets/scenes/market_storm.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/market_storm.png"
+  },
+  {
+    "id": "sanctum_mist",
+    "scene_path": "docs/assets/scenes/sanctum_mist.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/sanctum_mist.png"
+  },
+  {
+    "id": "mountain_mist",
+    "scene_path": "docs/assets/scenes/mountain_mist.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/mountain_mist.png"
+  },
+  {
+    "id": "market_night",
+    "scene_path": "docs/assets/scenes/market_night.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/market_night.png"
+  },
+  {
+    "id": "valley_night",
+    "scene_path": "docs/assets/scenes/valley_night.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/valley_night.png"
+  },
+  {
+    "id": "valley_sunset",
+    "scene_path": "docs/assets/scenes/valley_sunset.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/valley_sunset.png"
+  },
+  {
+    "id": "gates_twilight",
+    "scene_path": "docs/assets/scenes/gates_twilight.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/gates_twilight.png"
+  },
+  {
+    "id": "gates_dawn",
+    "scene_path": "docs/assets/scenes/gates_dawn.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/gates_dawn.png"
+  },
+  {
+    "id": "shrine_twilight",
+    "scene_path": "docs/assets/scenes/shrine_twilight.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/shrine_twilight.png"
+  },
+  {
+    "id": "arena_hollow",
+    "scene_path": "docs/assets/scenes/arena_hollow.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/arena_hollow.png"
+  },
+  {
+    "id": "temple_sunset",
+    "scene_path": "docs/assets/scenes/temple_sunset.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/temple_sunset.png"
+  },
+  {
+    "id": "grave_dawn",
+    "scene_path": "docs/assets/scenes/grave_dawn.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/grave_dawn.png"
+  },
+  {
+    "id": "island_dawn",
+    "scene_path": "docs/assets/scenes/island_dawn.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/island_dawn.png"
+  },
+  {
+    "id": "docks_mist",
+    "scene_path": "docs/assets/scenes/docks_mist.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/docks_mist.png"
+  },
+  {
+    "id": "docks_twilight",
+    "scene_path": "docs/assets/scenes/docks_twilight.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/docks_twilight.png"
+  },
+  {
+    "id": "shrine_storm",
+    "scene_path": "docs/assets/scenes/shrine_storm.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/shrine_storm.png"
+  },
+  {
+    "id": "arena_storm",
+    "scene_path": "docs/assets/scenes/arena_storm.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/arena_storm.png"
+  },
+  {
+    "id": "sanctum_twilight",
+    "scene_path": "docs/assets/scenes/sanctum_twilight.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/sanctum_twilight.png"
+  },
+  {
+    "id": "city_ruins",
+    "scene_path": "docs/assets/scenes/city_ruins.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/city_ruins.png"
+  },
+  {
+    "id": "shrine_glow",
+    "scene_path": "docs/assets/scenes/shrine_glow.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/shrine_glow.png"
+  },
+  {
+    "id": "forge_ruins",
+    "scene_path": "docs/assets/scenes/forge_ruins.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/forge_ruins.png"
+  },
+  {
+    "id": "garden_ruins",
+    "scene_path": "docs/assets/scenes/garden_ruins.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/garden_ruins.png"
+  },
+  {
+    "id": "sanctum_sunset",
+    "scene_path": "docs/assets/scenes/sanctum_sunset.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/sanctum_sunset.png"
+  },
+  {
+    "id": "arena_night",
+    "scene_path": "docs/assets/scenes/arena_night.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/arena_night.png"
+  },
+  {
+    "id": "city_depths",
+    "scene_path": "docs/assets/scenes/city_depths.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/city_depths.png"
+  },
+  {
+    "id": "island_sunset",
+    "scene_path": "docs/assets/scenes/island_sunset.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/island_sunset.png"
+  },
+  {
+    "id": "bridge_hollow",
+    "scene_path": "docs/assets/scenes/bridge_hollow.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/bridge_hollow.png"
+  },
+  {
+    "id": "mountain_sunset",
+    "scene_path": "docs/assets/scenes/mountain_sunset.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/mountain_sunset.png"
+  },
+  {
+    "id": "arena_mist",
+    "scene_path": "docs/assets/scenes/arena_mist.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/arena_mist.png"
+  },
+  {
+    "id": "gates_depths",
+    "scene_path": "docs/assets/scenes/gates_depths.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/gates_depths.png"
+  },
+  {
+    "id": "market_glow",
+    "scene_path": "docs/assets/scenes/market_glow.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/market_glow.png"
+  },
+  {
+    "id": "forge_hollow",
+    "scene_path": "docs/assets/scenes/forge_hollow.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/forge_hollow.png"
+  },
+  {
+    "id": "forge_storm",
+    "scene_path": "docs/assets/scenes/forge_storm.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/forge_storm.png"
+  },
+  {
+    "id": "library_glow",
+    "scene_path": "docs/assets/scenes/library_glow.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/library_glow.png"
+  },
+  {
+    "id": "hall_mist",
+    "scene_path": "docs/assets/scenes/hall_mist.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/hall_mist.png"
+  },
+  {
+    "id": "city_sunset",
+    "scene_path": "docs/assets/scenes/city_sunset.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/city_sunset.png"
+  },
+  {
+    "id": "city_glow",
+    "scene_path": "docs/assets/scenes/city_glow.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/city_glow.png"
+  },
+  {
+    "id": "tower_glow",
+    "scene_path": "docs/assets/scenes/tower_glow.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/tower_glow.png"
+  },
+  {
+    "id": "grave_storm",
+    "scene_path": "docs/assets/scenes/grave_storm.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/grave_storm.png"
+  },
+  {
+    "id": "gates_storm",
+    "scene_path": "docs/assets/scenes/gates_storm.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/gates_storm.png"
+  },
+  {
+    "id": "observatory_dawn",
+    "scene_path": "docs/assets/scenes/observatory_dawn.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/observatory_dawn.png"
+  },
+  {
+    "id": "docks_dawn",
+    "scene_path": "docs/assets/scenes/docks_dawn.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/docks_dawn.png"
+  },
+  {
+    "id": "docks_night",
+    "scene_path": "docs/assets/scenes/docks_night.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/docks_night.png"
+  },
+  {
+    "id": "observatory_mist",
+    "scene_path": "docs/assets/scenes/observatory_mist.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/observatory_mist.png"
+  },
+  {
+    "id": "market_hollow",
+    "scene_path": "docs/assets/scenes/market_hollow.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/market_hollow.png"
+  },
+  {
+    "id": "garden_dawn",
+    "scene_path": "docs/assets/scenes/garden_dawn.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/garden_dawn.png"
+  },
+  {
+    "id": "hall_depths",
+    "scene_path": "docs/assets/scenes/hall_depths.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/hall_depths.png"
+  },
+  {
+    "id": "mountain_dawn",
+    "scene_path": "docs/assets/scenes/mountain_dawn.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/mountain_dawn.png"
+  },
+  {
+    "id": "library_twilight",
+    "scene_path": "docs/assets/scenes/library_twilight.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/library_twilight.png"
+  },
+  {
+    "id": "grave_glow",
+    "scene_path": "docs/assets/scenes/grave_glow.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/grave_glow.png"
+  },
+  {
+    "id": "tower_mist",
+    "scene_path": "docs/assets/scenes/tower_mist.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/tower_mist.png"
+  },
+  {
+    "id": "tower_night",
+    "scene_path": "docs/assets/scenes/tower_night.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/tower_night.png"
+  },
+  {
+    "id": "island_depths",
+    "scene_path": "docs/assets/scenes/island_depths.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/island_depths.png"
+  },
+  {
+    "id": "grave_night",
+    "scene_path": "docs/assets/scenes/grave_night.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/grave_night.png"
+  },
+  {
+    "id": "market_twilight",
+    "scene_path": "docs/assets/scenes/market_twilight.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/market_twilight.png"
+  },
+  {
+    "id": "temple_twilight",
+    "scene_path": "docs/assets/scenes/temple_twilight.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/temple_twilight.png"
+  },
+  {
+    "id": "sanctum_hollow",
+    "scene_path": "docs/assets/scenes/sanctum_hollow.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/sanctum_hollow.png"
+  },
+  {
+    "id": "observatory_hollow",
+    "scene_path": "docs/assets/scenes/observatory_hollow.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/observatory_hollow.png"
+  },
+  {
+    "id": "library_night",
+    "scene_path": "docs/assets/scenes/library_night.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/library_night.png"
+  },
+  {
+    "id": "gates_mist",
+    "scene_path": "docs/assets/scenes/gates_mist.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/gates_mist.png"
+  },
+  {
+    "id": "forge_night",
+    "scene_path": "docs/assets/scenes/forge_night.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/forge_night.png"
+  },
+  {
+    "id": "observatory_twilight",
+    "scene_path": "docs/assets/scenes/observatory_twilight.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/observatory_twilight.png"
+  },
+  {
+    "id": "hall_sunset",
+    "scene_path": "docs/assets/scenes/hall_sunset.png",
+    "scene_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/scenes/hall_sunset.png"
+  }
+]

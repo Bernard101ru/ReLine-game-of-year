@@ -1,0 +1,114 @@
+[
+  {
+    "name": "knight",
+    "path": "assets/characters/humans/knight.png",
+    "type": "characters",
+    "category": "humans",
+    "tags": [],
+    "image_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/characters/humans/knight.png"
+  },
+  {
+    "name": "archer",
+    "path": "assets/characters/humans/archer.png",
+    "type": "characters",
+    "category": "humans",
+    "tags": [],
+    "image_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/characters/humans/archer.png"
+  },
+  {
+    "name": "goblin",
+    "path": "assets/characters/monsters/goblin.png",
+    "type": "characters",
+    "category": "monsters",
+    "tags": [],
+    "image_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/characters/monsters/goblin.png"
+  },
+  {
+    "name": "orc",
+    "path": "assets/characters/monsters/orc.png",
+    "type": "characters",
+    "category": "monsters",
+    "tags": [],
+    "image_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/characters/monsters/orc.png"
+  },
+  {
+    "name": "sword",
+    "path": "assets/items/weapons/sword.png",
+    "type": "items",
+    "category": "weapons",
+    "tags": [],
+    "image_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/items/weapons/sword.png"
+  },
+  {
+    "name": "bow",
+    "path": "assets/items/weapons/bow.png",
+    "type": "items",
+    "category": "weapons",
+    "tags": [],
+    "image_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/items/weapons/bow.png"
+  },
+  {
+    "name": "sword_icon",
+    "path": "assets/items/assets/icons/sword_icon.png",
+    "type": "items",
+    "category": "icons",
+    "tags": [],
+    "image_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/items/assets/icons/sword_icon.png"
+  },
+  {
+    "name": "bow_icon",
+    "path": "assets/items/assets/icons/bow_icon.png",
+    "type": "items",
+    "category": "icons",
+    "tags": [],
+    "image_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/items/assets/icons/bow_icon.png"
+  },
+  {
+    "name": "fireball",
+    "path": "assets/spells/fire/fireball.png",
+    "type": "spells",
+    "category": "fire",
+    "tags": [],
+    "image_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/spells/fire/fireball.png"
+  },
+  {
+    "name": "ice_shard",
+    "path": "assets/spells/ice/ice_shard.png",
+    "type": "spells",
+    "category": "ice",
+    "tags": [],
+    "image_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/spells/ice/ice_shard.png"
+  },
+  {
+    "name": "slash_effect",
+    "path": "assets/effects/slash_effect.png",
+    "type": "effects",
+    "category": "",
+    "tags": [],
+    "image_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/effects/slash_effect.png"
+  },
+  {
+    "name": "cursor",
+    "path": "assets/ui/cursor.png",
+    "type": "ui",
+    "category": "",
+    "tags": [],
+    "image_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/assets/ui/cursor.png"
+  },
+  {
+    "name": "tree",
+    "path": "environment/tree.png",
+    "type": "environment",
+    "category": "",
+    "tags": [],
+    "image_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/environment/tree.png"
+  },
+  {
+    "name": "rock",
+    "path": "environment/rock.png",
+    "type": "environment",
+    "category": "",
+    "tags": [],
+    "image_url": "https://github.com/Bernard101ru/ReLine-game-of-year/raw/main/docs/environment/rock.png"
+  }
+]
